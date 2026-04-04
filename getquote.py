@@ -28,6 +28,7 @@ def wrap_text(text, width):
         break_long_words=False,
         break_on_hyphens=False
     )
+
 def quote() -> None:
     quote = random.choice (quotes)
     
@@ -45,9 +46,9 @@ def quote() -> None:
 
     # Maquetar y salida
 
-    print(wrap_text( f'«{text}».' , width))
-    print (f'\n{author}\n')
-    print (len(quotes), "quotes\n")
+    print ( wrap_text( f'«{text}».' , width) )
+    print ( f'\n{author}\n' )
+    print ( len(quotes), "quotes\n" )
 
 if __name__ == "__main__":
     quote()

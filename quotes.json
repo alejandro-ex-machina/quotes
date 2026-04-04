@@ -1,5 +1,75 @@
 [
 	{
+		"author": "Cicerón",
+		"quote": "La salud del pueblo es la ley suprema",
+		"ref": "De legibus"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "La vida de los muertos perdura en la memoria de los vivos",
+		"ref": "Filípicas"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "No basta con alcanzar la sabiduría, es necesario saber utilizarla",
+		"ref": "De officiis"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "Cuanto mayor es la dificultad, mayor es la gloria",
+		"ref": "Tusculanae disputationes"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "La amistad duplica las alegrías y divide las angustias",
+		"ref": "Laelius de amicitia"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "La gratitud no es solo la mayor de las virtudes, sino la madre de todas las demás",
+		"ref": "Pro Plancio"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "La ignorancia de la historia condena al hombre a repetirla",
+		"ref": "De oratore"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "La verdad se corrompe tanto con la mentira como con el silencio",
+		"ref": "Discursos"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "Mientras hay vida, hay esperanza",
+		"ref": "Ad Atticum"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "La justicia es la reina de todas las virtudes",
+		"ref": "De officiis"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "El bienestar del pueblo debe ser la ley suprema",
+		"ref": "De legibus"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "No saber lo que ha sucedido antes de nosotros es como ser niños para siempre",
+		"ref": "Orator"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "La paz más desventajosa es mejor que la guerra más justa",
+		"ref": "Filípicas"
+	},
+	{
+		"author": "Cicerón",
+		"quote": "La libertad no consiste en tener un buen amo, sino en no tenerlo",
+		"ref": "Paradoxa Stoicorum"
+	},
+	{
 		"author": "Edsger W. Dijkstra",
 		"quote": "La informática no trata más de ordenadores que la astronomía de telescopios",
 		"ref": "EWD1036"
@@ -68,6 +138,76 @@
 		"author": "Edsger W. Dijkstra",
 		"quote": "La claridad es el requisito más importante en el desarrollo de software",
 		"ref": "EWD"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "No son las cosas las que nos perturban, sino los juicios que hacemos sobre ellas",
+		"ref": "Enquiridión"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "De todas las cosas, unas dependen de nosotros y otras no",
+		"ref": "Enquiridión"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "Nadie es libre si no es dueño de sí mismo",
+		"ref": "Discursos"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "No pretendas que los acontecimientos sucedan como quieres, sino quiere que sucedan como suceden, y serás feliz",
+		"ref": "Enquiridión"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "La riqueza no consiste en tener grandes posesiones, sino en tener pocas necesidades",
+		"ref": "Discursos"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "Si quieres mejorar, acepta parecer ignorante o tonto en asuntos externos",
+		"ref": "Enquiridión"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "Cuando te enfades, recuerda que no solo ha ocurrido un daño, sino que has reaccionado mal ante él",
+		"ref": "Discursos"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "Es imposible para un hombre aprender aquello que cree que ya sabe",
+		"ref": "Discursos"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "La dificultad muestra lo que los hombres son",
+		"ref": "Discursos"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "No busques que las cosas sucedan como deseas, sino desea que sucedan como suceden",
+		"ref": "Enquiridión"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "Recuerda que eres actor en una obra, cuya duración es la que el autor quiera",
+		"ref": "Enquiridión"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "Si alguien habla mal de ti, no te defiendas; responde: no sabía que tenía más defectos",
+		"ref": "Discursos"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "Primero di a ti mismo lo que quieres ser; luego haz lo que tengas que hacer",
+		"ref": "Discursos"
+	},
+	{
+		"author": "Epicteto",
+		"quote": "El hombre sabio no se entristece por lo que no tiene, sino que se alegra por lo que tiene",
+		"ref": "Discursos"
 	},
 	{
 		"author": "Richard Feynman",

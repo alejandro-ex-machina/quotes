@@ -1,6 +1,6 @@
 # Quotes
 
-Script en Python para mostrar una cita aleatoria desde `quotes.json` en consola.
+Script en Python para mostrar una cita aleatoria desde `quotes.json` en consola. Probado en Windows y Termux.
 
 ## Requisitos
 
