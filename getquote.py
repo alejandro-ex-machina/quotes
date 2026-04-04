@@ -8,6 +8,7 @@ QUOTES_FILE  = Path(__file__).with_name("quotes.json")
 with QUOTES_FILE.open ("r", encoding="utf-8") as f:
     quotes = json.load (f)
 
+
 if not quotes:
     raise SystemExit ( QUOTES_FILE._str() + " esta vacio.")
 
@@ -22,6 +23,7 @@ def quote() -> None:
 
     print (f'\n«{text}».\n')
     print (f'{author}\n')
+    print (len(quotes), "quotes\n")
 
 
 if __name__ == "__main__":
