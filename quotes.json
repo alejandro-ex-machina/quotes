@@ -1,0 +1,712 @@
+[
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "La informática no trata más de ordenadores que la astronomía de telescopios",
+		"ref": "EWD1036"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "La simplicidad es un gran requisito previo para la fiabilidad",
+		"ref": "EWD340"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "Las pruebas de programas pueden usarse para mostrar la presencia de errores, pero nunca para mostrar su ausencia",
+		"ref": "Notas sobre pruebas de software"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "La programación es una de las tareas más difíciles que la mente humana puede emprender",
+		"ref": "EWD498"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "Si la depuración es el proceso de eliminar errores, entonces la programación debe ser el proceso de introducirlos",
+		"ref": "Aforismo ampliamente citado"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "La pregunta de si las máquinas pueden pensar es tan relevante como la de si los submarinos pueden nadar",
+		"ref": "EWD498"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "El uso de COBOL paraliza la mente; su enseñanza debería considerarse un delito",
+		"ref": "EWD498"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "La calidad del programador se refleja en la cantidad de código que no escribe",
+		"ref": "Notas y ensayos EWD"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "Un programa elegante es un programa que es fácil de demostrar correcto",
+		"ref": "EWD249"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "La enseñanza de la programación debe centrarse en la disciplina del pensamiento",
+		"ref": "EWD1308"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "La programación estructurada es una disciplina mental",
+		"ref": "EWD249"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "El avance de la informática ha sido posible gracias a la ignorancia de sus practicantes",
+		"ref": "Ensayos EWD"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "El objetivo del cálculo es la comprensión, no los números",
+		"ref": "EWD447"
+	},
+	{
+		"author": "Edsger W. Dijkstra",
+		"quote": "La claridad es el requisito más importante en el desarrollo de software",
+		"ref": "EWD"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "No debes engañarte a ti mismo, y eres la persona más fácil de engañar",
+		"ref": "Cargo Cult Science (discurso, Caltech, 1974)"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "Lo que no puedo crear, no lo entiendo",
+		"ref": "Cuadernos personales"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "La ciencia es la creencia en la ignorancia de los expertos",
+		"ref": "The Pleasure of Finding Things Out"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "Prefiero tener preguntas que no pueden responderse que respuestas que no pueden cuestionarse",
+		"ref": "The Pleasure of Finding Things Out"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "La naturaleza no se deja engañar",
+		"ref": "Cargo Cult Science (discurso, Caltech, 1974)"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "Si piensas que entiendes la mecánica cuántica, es que no entiendes la mecánica cuántica",
+		"ref": "The Character of Physical Law"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "El primer principio es que no debes engañarte a ti mismo, y tú eres la persona más fácil de engañar",
+		"ref": "Cargo Cult Science (discurso, Caltech, 1974)"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "No sé nada con certeza, pero sé que no sé nada con certeza",
+		"ref": "The Pleasure of Finding Things Out"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "La física es como el sexo: puede dar resultados prácticos, pero no es por eso que la hacemos",
+		"ref": "Conferencia (anécdota atribuida)"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "Nunca confundas la facilidad de uso con la comprensión real",
+		"ref": "Lectures on Physics (ideas derivadas)"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "El placer de descubrir cosas es una de las mayores alegrías de la vida",
+		"ref": "The Pleasure of Finding Things Out"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "Puedes conocer el nombre de algo en todos los idiomas del mundo, pero cuando termines, no sabrás absolutamente nada sobre el animal",
+		"ref": "What Do You Care What Other People Think?"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "La duda es una parte esencial de la ciencia",
+		"ref": "The Meaning of It All"
+	},
+	{
+		"author": "Richard Feynman",
+		"quote": "No hay nada tan importante como ver las cosas por uno mismo",
+		"ref": "Surely You're Joking, Mr. Feynman!"
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "Lo que niegas te somete; lo que aceptas te transforma",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "Hasta que lo inconsciente se haga consciente, el subconsciente dirigirá tu vida y tú lo llamarás destino",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "Quien mira hacia afuera sueña; quien mira hacia adentro despierta",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "No soy lo que me sucedió, soy lo que elegí ser",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "El encuentro de dos personalidades es como el contacto de dos sustancias químicas: si hay reacción, ambas se transforman",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "Todo lo que nos irrita de otros puede llevarnos a una comprensión de nosotros mismos",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "La palabra ‘felicidad’ perdería su significado si no estuviera equilibrada por la tristeza",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "El privilegio de toda una vida es convertirse en quien realmente eres",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "Donde reina el amor, no hay voluntad de poder; y donde predomina el poder, falta el amor",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "No hay toma de conciencia sin dolor",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "Tu visión se volverá clara solo cuando puedas mirar dentro de tu propio corazón",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "El hombre sano no tortura a otros; generalmente son los torturados quienes se convierten en torturadores",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "Los zapatos que le quedan bien a una persona le aprietan a otra; no hay receta para vivir que sirva para todos",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "La soledad no proviene de no tener gente alrededor, sino de ser incapaz de comunicar las cosas que parecen importantes",
+		"ref": ""
+	},
+	{
+		"author": "Carl Jung",
+		"quote": "Aquel que no conoce su historia está condenado a repetirla",
+		"ref": ""
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "La guerra es una experiencia interior",
+		"ref": "Tempestades de acero"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "El peligro es el elemento en el que vivimos",
+		"ref": "Tempestades de acero"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "El dolor es el gran educador de la humanidad",
+		"ref": "Sobre el dolor"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "La técnica es la movilización total del mundo",
+		"ref": "La movilización total"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "La libertad es la obediencia a la propia ley interior",
+		"ref": "El trabajador"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "En los momentos extremos, el hombre descubre su verdadera naturaleza",
+		"ref": "Tempestades de acero"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "La disciplina es el camino hacia la libertad",
+		"ref": "El trabajador"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "El orden interior es la base de todo orden exterior",
+		"ref": "El trabajador"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "La aventura es la esencia de la vida",
+		"ref": "Tempestades de acero"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "El hombre libre es aquel que permanece fiel a sí mismo en cualquier circunstancia",
+		"ref": "Eumeswil"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "La seguridad es la mayor enemiga de la libertad",
+		"ref": "Eumeswil"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "El espíritu se fortalece en la resistencia",
+		"ref": "Sobre el dolor"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "El coraje es la base de toda virtud",
+		"ref": "Tempestades de acero"
+	},
+	{
+		"author": "Ernst Jünger",
+		"quote": "El tiempo revela la esencia de las cosas",
+		"ref": "Diarios"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo",
+		"ref": "El ocaso de los ídolos"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "Lo que no me mata, me hace más fuerte",
+		"ref": "El ocaso de los ídolos"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "Quien lucha con monstruos debe tener cuidado de no convertirse en uno",
+		"ref": "Más allá del bien y del mal"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "Y cuando miras largo tiempo a un abismo, el abismo también mira dentro de ti",
+		"ref": "Más allá del bien y del mal"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "Dios ha muerto",
+		"ref": "La gaya ciencia"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "Sin música, la vida sería un error",
+		"ref": "El ocaso de los ídolos"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "No hay hechos, solo interpretaciones",
+		"ref": "Fragmentos póstumos"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "El individuo siempre ha tenido que luchar para no ser absorbido por la tribu",
+		"ref": "Así habló Zaratustra"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "Aquel que tiene un porqué para vivir puede soportar casi cualquier cómo",
+		"ref": "El ocaso de los ídolos"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "El hombre es algo que debe ser superado",
+		"ref": "Así habló Zaratustra"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "La esperanza es el peor de los males, pues prolonga el tormento del hombre",
+		"ref": "Humano, demasiado humano"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "El camino hacia todas las cosas grandes pasa por el silencio",
+		"ref": "Fragmentos póstumos"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "Quien no sabe obedecer a sí mismo será mandado",
+		"ref": "Así habló Zaratustra"
+	},
+	{
+		"author": "Friedrich Nietzsche",
+		"quote": "Hay que llevar en sí mismo un caos para poder dar a luz una estrella danzante",
+		"ref": "Así habló Zaratustra"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Date cuenta de esto y encontrarás la fuerza",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "La felicidad de tu vida depende de la calidad de tus pensamientos",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "No pierdas más tiempo discutiendo sobre cómo debe ser un buen hombre. Sé uno",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "Si algo no es correcto, no lo hagas; si no es verdad, no lo digas",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "La mejor venganza es no parecerse a quien causó el daño",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "Nuestra vida es lo que nuestros pensamientos hacen de ella",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "Acepta las cosas a las que te ata el destino y ama a las personas con las que te ha reunido, pero hazlo de todo corazón",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "El impedimento para la acción avanza la acción. Lo que se interpone en el camino se convierte en el camino",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "Piensa en ti mismo como muerto. Ya has vivido tu vida. Ahora toma lo que queda y vívelo correctamente",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "No actúes como si fueras a vivir diez mil años. La muerte se cierne sobre ti. Mientras vivas, mientras esté en tu poder, sé bueno",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "Cuando te levantes por la mañana, piensa en el privilegio de estar vivo, de pensar, de disfrutar, de amar",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "El alma se tiñe del color de sus pensamientos",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Marco Aurelio",
+		"quote": "Mira dentro de ti. Dentro está la fuente del bien, y siempre puede brotar si siempre excavamos",
+		"ref": "Meditaciones"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "La soledad es el destino de todos los espíritus egregios: a veces les entristecerá, pero siempre acaban por elegirla como el menor entre dos males",
+		"ref": "Aforismos sobre la sabiduría de la vida, cap. 5, máxima 9"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "Las religiones son necesarias y un inestimable beneficio para el pueblo. Pero cuando pretenden oponerse al progreso de la humanidad en el conocimiento de la verdad, hay que empujarlas a un lado sin ningún miramiento",
+		"ref": "El mundo como voluntad y representación, II, cap. 17"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "La vida es un péndulo que oscila entre el dolor y el aburrimiento",
+		"ref": "El mundo como voluntad y representación"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "El hombre puede hacer lo que quiere, pero no puede querer lo que quiere",
+		"ref": "El mundo como voluntad y representación"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "Cada nación se burla de las otras, y todas tienen razón",
+		"ref": "Parerga y paralipómena"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "La compasión es la base de toda moralidad",
+		"ref": "Los dos problemas fundamentales de la ética"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "La riqueza se parece al agua salada: cuanto más se bebe, más sed da",
+		"ref": "Aforismos sobre la sabiduría de la vida"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "La soledad es la suerte de todos los espíritus excelentes",
+		"ref": "Aforismos sobre la sabiduría de la vida"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "El destino mezcla las cartas, pero nosotros las jugamos",
+		"ref": "Parerga y paralipómena"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "La vida sin dolor no tiene sentido",
+		"ref": "El mundo como voluntad y representación"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "El talento alcanza lo que nadie puede alcanzar; el genio alcanza lo que nadie puede ver",
+		"ref": "El mundo como voluntad y representación"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "La mayoría de los hombres son como niños: quieren lo que no tienen y desprecian lo que tienen",
+		"ref": "Parerga y paralipómena"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "La música es el lenguaje directo de la voluntad",
+		"ref": "El mundo como voluntad y representación"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "Leer es pensar con la cabeza de otro en lugar de con la propia",
+		"ref": "Parerga y paralipómena"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "La salud no lo es todo, pero sin ella, todo lo demás es nada",
+		"ref": "Aforismos sobre la sabiduría de la vida"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "El hombre es el único animal que hace sufrir a otros sin otro objetivo que querer hacerlo",
+		"ref": "Sobre el fundamento de la moral"
+	},
+	{
+		"author": "Arthur Schopenhauer",
+		"quote": "Cuanto más inteligente es un hombre, menos misteriosa le parece la existencia",
+		"ref": "Parerga y paralipómena"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "Las civilizaciones son los destinos inevitables de las culturas",
+		"ref": "La decadencia de Occidente"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "La historia universal es la historia de las grandes culturas",
+		"ref": "La decadencia de Occidente"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "Toda cultura tiene su propia alma",
+		"ref": "La decadencia de Occidente"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "La técnica es la táctica de la vida",
+		"ref": "El hombre y la técnica"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "El optimismo es cobardía",
+		"ref": "El hombre y la técnica"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "Las masas son ciegas ante el destino",
+		"ref": "Años decisivos"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "El dinero domina la democracia",
+		"ref": "La decadencia de Occidente"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "La política es la forma de la historia en acción",
+		"ref": "La decadencia de Occidente"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "El cesarismo es el destino final de toda democracia",
+		"ref": "La decadencia de Occidente"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "La vida es lucha, y la lucha es la esencia de la vida",
+		"ref": "El hombre y la técnica"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "La civilización es el ocaso de la cultura",
+		"ref": "La decadencia de Occidente"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "La libertad es un concepto relativo en el seno de la historia",
+		"ref": "Años decisivos"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "El pensamiento abstracto es signo de decadencia",
+		"ref": "La decadencia de Occidente"
+	},
+	{
+		"author": "Oswald Spengler",
+		"quote": "Las grandes decisiones históricas no las toman las mayorías",
+		"ref": "Años decisivos"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "En matemáticas no se entienden las cosas, simplemente uno se acostumbra a ellas",
+		"ref": "Aforismo ampliamente citado"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "Si la gente no cree que las matemáticas son simples, es solo porque no se dan cuenta de lo complicada que es la vida",
+		"ref": "Aforismo ampliamente citado"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "Cualquier persona que considere métodos aritméticos para producir números aleatorios está, por supuesto, en pecado",
+		"ref": "Conferencia sobre métodos numéricos"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "La juventud tiene la ventaja de ver las cosas con claridad; la madurez, de comprender su complejidad",
+		"ref": "Aforismo atribuido"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "El progreso de la tecnología depende de nuestra capacidad para organizar la complejidad",
+		"ref": "Ensayos y conferencias"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "Las ciencias no intentan explicar, apenas intentan modelar",
+		"ref": "Aforismo ampliamente citado"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "En la naturaleza no hay problemas irresolubles, solo problemas mal planteados",
+		"ref": "Aforismo atribuido"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "La lógica te llevará de A a B; la imaginación te llevará a cualquier parte",
+		"ref": "Aforismo erróneamente atribuido"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "El peligro no es que las máquinas comiencen a pensar como humanos, sino que los humanos comiencen a pensar como máquinas",
+		"ref": "Aforismo atribuido"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "El problema no es si las máquinas pueden pensar, sino si los humanos pueden hacerlo mejor",
+		"ref": "Ensayos sobre computación"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "Toda la estabilidad del mundo moderno depende de un delicado equilibrio de poder",
+		"ref": "Reflexiones sobre estrategia nuclear"
+	},
+	{
+		"author": "John von Neumann",
+		"quote": "El mejor modelo de un gato es otro gato, o mejor aún, el mismo gato",
+		"ref": "Aforismo citado en teoría de sistemas"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "La guerra es la continuación de la política por otros medios",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "En la guerra, todo es muy simple, pero lo más simple es difícil",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "La guerra es un acto de fuerza para obligar al adversario a cumplir nuestra voluntad",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "La incertidumbre es el elemento dominante en la guerra",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "Tres cuartas partes de los factores en los que se basa la acción en la guerra están envueltos en una niebla de mayor o menor incertidumbre",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "El coraje, por encima de todo, es la primera cualidad de un guerrero",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "La guerra no es un mero acto político, sino un verdadero instrumento político, una continuación de las relaciones políticas, una gestión de las mismas por otros medios",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "El objetivo de la guerra es desarmar al enemigo",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "En la guerra, el resultado nunca es definitivo",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "La defensa es la forma más fuerte de la guerra, pero la ofensiva es la forma decisiva",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "La sorpresa es un elemento importante en la guerra",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "El combate es el único medio eficaz en la guerra",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "La guerra es el reino de la incertidumbre",
+		"ref": "De la guerra"
+	},
+	{
+		"author": "Carl von Clausewitz",
+		"quote": "El talento en la guerra consiste en saber manejar la incertidumbre",
+		"ref": "De la guerra"
+	}
+]
