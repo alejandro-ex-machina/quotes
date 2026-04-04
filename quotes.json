@@ -357,87 +357,87 @@
 
   {
     "author": "Donald E. Knuth",
-    "quote": "La optimización prematura es la raíz de todos los males.",
+    "quote": "La optimización prematura es la raíz de todos los males",
     "ref": "Structured Programming with go to Statements"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "Cuidado con los errores en el código anterior; solo he demostrado que es correcto, no que funcione.",
+    "quote": "Cuidado con los errores en el código anterior; solo he demostrado que es correcto, no que funcione",
     "ref": "The Art of Computer Programming"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "La ciencia de la computación es el arte de enseñar a los ordenadores a hacer lo que queremos.",
+    "quote": "La ciencia de la computación es el arte de enseñar a los ordenadores a hacer lo que queremos",
     "ref": "Conferencias y ensayos"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "Los programas están destinados a ser leídos por humanos y solo incidentalmente para ser ejecutados por máquinas.",
+    "quote": "Los programas están destinados a ser leídos por humanos y solo incidentalmente para ser ejecutados por máquinas",
     "ref": "The Art of Computer Programming"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "Un algoritmo debe ser visto como una herramienta para resolver problemas, no como un fin en sí mismo.",
+    "quote": "Un algoritmo debe ser visto como una herramienta para resolver problemas, no como un fin en sí mismo",
     "ref": "The Art of Computer Programming"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "La programación es el arte de organizar la complejidad.",
+    "quote": "La programación es el arte de organizar la complejidad",
     "ref": "Ensayos sobre programación"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "La calidad de un programa se mide tanto por su claridad como por su eficiencia.",
+    "quote": "La calidad de un programa se mide tanto por su claridad como por su eficiencia",
     "ref": "Ensayos sobre programación"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "Resolver un problema correctamente es más importante que resolverlo rápidamente.",
+    "quote": "Resolver un problema correctamente es más importante que resolverlo rápidamente",
     "ref": "The Art of Computer Programming"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de sentido único.",
+    "quote": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de sentido único",
     "ref": "Aforismo ampliamente citado"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "La simplicidad y la elegancia son objetivos fundamentales en el diseño de algoritmos.",
+    "quote": "La simplicidad y la elegancia son objetivos fundamentales en el diseño de algoritmos",
     "ref": "The Art of Computer Programming"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "El análisis de algoritmos es clave para entender su comportamiento.",
+    "quote": "El análisis de algoritmos es clave para entender su comportamiento",
     "ref": "The Art of Computer Programming"
   },
   {
     "author": "Donald E. Knuth",
-    "quote": "La programación literaria es una forma de pensar y escribir programas como si fueran ensayos.",
+    "quote": "La programación literaria es una forma de pensar y escribir programas como si fueran ensayos",
     "ref": "Literate Programming"
   },
   {
 	"author": "Donald E. Knuth",
-	"quote": "El código es como el humor. Cuando tienes que explicarlo, es malo.",
+	"quote": "El código es como el humor. Cuando tienes que explicarlo, es malo",
 	"ref": "Aforismo ampliamente citado"
   },
   {
 	"author": "Donald E. Knuth",
-	"quote": "La programación es una forma de arte, no una ciencia.",
+	"quote": "La programación es una forma de arte, no una ciencia",
 	"ref": "Ensayos sobre programación"
   },
   {
 	"author": "Donald E. Knuth",
-	"quote": "El software es como el sexo: es mejor cuando es libre.",
+	"quote": "El software es como el sexo: es mejor cuando es libre",
 	"ref": "Conferencia (anécdota atribuida)"
   },
   {
 	"author": "Donald E. Knuth",
-	"quote": "La programación es la habilidad de organizar la complejidad.",
+	"quote": "La programación es la habilidad de organizar la complejidad",
 	"ref": "Ensayos sobre programación"
   },
   {
 	"author": "Donald E. Knuth",
-	"quote": "Un programa sin errores es un programa que no hace nada.",
+	"quote": "Un programa sin errores es un programa que no hace nada",
 	"ref": "Aforismo ampliamente citado"
   },
 
@@ -623,77 +623,77 @@
 	},
   {
     "author": "Dennis Ritchie",
-    "quote": "C es peculiar en el sentido de que hace fácil hacer cosas difíciles.",
+    "quote": "C es peculiar en el sentido de que hace fácil hacer cosas difíciles",
     "ref": "The C Programming Language"
   },
   {
     "author": "Dennis Ritchie",
-    "quote": "Unix es básicamente un sistema operativo simple, pero tienes que ser un genio para entender su simplicidad.",
+    "quote": "Unix es básicamente un sistema operativo simple, pero tienes que ser un genio para entender su simplicidad",
     "ref": "Conferencias y entrevistas"
   },
   {
     "author": "Dennis Ritchie",
-    "quote": "La única manera de aprender un nuevo lenguaje de programación es escribiendo programas en él.",
+    "quote": "La única manera de aprender un nuevo lenguaje de programación es escribiendo programas en él",
     "ref": "Conferencias y entrevistas"
   },
   {
     "author": "Dennis Ritchie",
-    "quote": "El lenguaje C combina el poder de bajo nivel con la expresividad de alto nivel.",
+    "quote": "El lenguaje C combina el poder de bajo nivel con la expresividad de alto nivel",
     "ref": "The C Programming Language"
   },
   {
     "author": "Dennis Ritchie",
-    "quote": "La programación es como el sexo: un error y tienes que soportarlo el resto de tu vida.",
+    "quote": "La programación es como el sexo: un error y tienes que soportarlo el resto de tu vida",
     "ref": "Aforismo ampliamente citado"
   },
   {
     "author": "Dennis Ritchie",
-    "quote": "La simplicidad es la clave de un buen diseño.",
+    "quote": "La simplicidad es la clave de un buen diseño",
     "ref": "Entrevistas"
   },
   {
     "author": "Dennis Ritchie",
-    "quote": "La compatibilidad hacia atrás es fundamental en los sistemas.",
+    "quote": "La compatibilidad hacia atrás es fundamental en los sistemas",
     "ref": "Entrevistas"
   },
   {
     "author": "Dennis Ritchie",
-    "quote": "Los sistemas deben ser diseñados para evolucionar.",
+    "quote": "Los sistemas deben ser diseñados para evolucionar",
     "ref": "Ensayos y entrevistas"
   },
   {
     "author": "Dennis Ritchie",
-    "quote": "El software debe ser eficiente, pero también comprensible.",
+    "quote": "El software debe ser eficiente, pero también comprensible",
     "ref": "Entrevistas"
   },
   {
     "author": "Dennis Ritchie",
-    "quote": "Un buen lenguaje de programación permite expresar las ideas claramente.",
+    "quote": "Un buen lenguaje de programación permite expresar las ideas claramente",
     "ref": "Conferencias"
   },
   {
 	"author": "Dennis Ritchie",
-	"quote": "El código es como el humor. Cuando tienes que explicarlo, es malo.",
+	"quote": "El código es como el humor. Cuando tienes que explicarlo, es malo",
 	"ref": "Aforismo ampliamente citado"
   },
   {
 	"author": "Dennis Ritchie",
-	"quote": "La programación es una forma de arte, no una ciencia.",
+	"quote": "La programación es una forma de arte, no una ciencia",
 	"ref": "Entrevistas"
   },
   {
 	"author": "Dennis Ritchie",
-	"quote": "El software es como el sexo: es mejor cuando es libre.",
+	"quote": "El software es como el sexo: es mejor cuando es libre",
 	"ref": "Conferencia (anécdota atribuida)"
   },
   {
 	"author": "Dennis Ritchie",
-	"quote": "La programación es la habilidad de organizar la complejidad.",
+	"quote": "La programación es la habilidad de organizar la complejidad",
 	"ref": "Ensayos sobre programación"
   },
   {
 	"author": "Dennis Ritchie",
-	"quote": "Un programa sin errores es un programa que no hace nada.",
+	"quote": "Un programa sin errores es un programa que no hace nada",
 	"ref": "Aforismo ampliamente citado"
   },
 
@@ -854,52 +854,52 @@
 	},
   {
     "author": "Alan Turing",
-    "quote": "Una computadora merecería ser llamada inteligente si pudiera engañar a un humano haciéndole creer que es humano.",
+    "quote": "Una computadora merecería ser llamada inteligente si pudiera engañar a un humano haciéndole creer que es humano",
     "ref": "Computing Machinery and Intelligence"
   },
   {
     "author": "Alan Turing",
-    "quote": "Podemos ver solo un poco del futuro, pero lo suficiente para darnos cuenta de que hay mucho por hacer.",
+    "quote": "Podemos ver solo un poco del futuro, pero lo suficiente para darnos cuenta de que hay mucho por hacer",
     "ref": "Computing Machinery and Intelligence"
   },
   {
     "author": "Alan Turing",
-    "quote": "Las máquinas pueden cometer errores, pero también pueden ser corregidas.",
+    "quote": "Las máquinas pueden cometer errores, pero también pueden ser corregidas",
     "ref": "Computing Machinery and Intelligence"
   },
   {
     "author": "Alan Turing",
-    "quote": "La idea de una máquina pensante es algo que puede parecer extraño, pero no imposible.",
+    "quote": "La idea de una máquina pensante es algo que puede parecer extraño, pero no imposible",
     "ref": "Computing Machinery and Intelligence"
   },
   {
     "author": "Alan Turing",
-    "quote": "La matemática es la base de todo razonamiento riguroso.",
+    "quote": "La matemática es la base de todo razonamiento riguroso",
     "ref": "On Computable Numbers"
   },
   {
     "author": "Alan Turing",
-    "quote": "El problema no es si las máquinas pueden pensar, sino si los humanos pueden hacerlo correctamente.",
+    "quote": "El problema no es si las máquinas pueden pensar, sino si los humanos pueden hacerlo correctamente",
     "ref": "Aforismo atribuido"
   },
   {
     "author": "Alan Turing",
-    "quote": "Una máquina puede hacer cualquier cosa que sepamos describir con precisión.",
+    "quote": "Una máquina puede hacer cualquier cosa que sepamos describir con precisión",
     "ref": "On Computable Numbers"
   },
   {
     "author": "Alan Turing",
-    "quote": "El lenguaje formal es esencial para describir procesos computacionales.",
+    "quote": "El lenguaje formal es esencial para describir procesos computacionales",
     "ref": "On Computable Numbers"
   },
   {
     "author": "Alan Turing",
-    "quote": "La lógica es el fundamento de la computación.",
+    "quote": "La lógica es el fundamento de la computación",
     "ref": "Ensayos matemáticos"
   },
   {
     "author": "Alan Turing",
-    "quote": "La inteligencia no es exclusiva de los seres humanos.",
+    "quote": "La inteligencia no es exclusiva de los seres humanos",
     "ref": "Computing Machinery and Intelligence"
   },
 	{
