@@ -34,17 +34,8 @@ Ejemplo:
 
 ## Uso desde consola
 
-Desde PowerShell (Windows):
-
 ```powershell
-cd C:\Users\asant\src\quotes
-python .\getquote.py
-```
-
-Desde CMD:
-
-```bat
-cd C:\Users\asant\src\quotes
+cd src\quotes
 python getquote.py
 ```
 
