@@ -19,15 +19,21 @@ El script espera una lista de objetos con estas claves:
 - `author` (string)
 - `quote` (string)
 - `ref` (string, opcional o vacio)
+- `type` (string, opcional o vacio)
+- `year` (int, opcional o vacio)
+- `category` (string, opcional o vacio)
 
 Ejemplo:
 
 ```json
 [
   {
-    "author": "Arthur Schopenhauer",
-    "quote": "La vida es un pendulo que oscila entre el dolor y el aburrimiento",
-    "ref": "El mundo como voluntad y representacion"
+    "author": "Leovigildo",
+    "quote": "Un solo reino no puede sostenerse con leyes diversas",
+    "ref": "Reformas de unificación legal y territorial",
+    "type": "paráfrasis",
+    "year": 580,
+    "category": "Visigodos"
   }
 ]
 ```
