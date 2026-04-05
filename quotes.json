@@ -1,5 +1,135 @@
 [
 	{
+		"author": "Séneca",
+		"quote": "No es que tengamos poco tiempo, sino que perdemos mucho",
+		"ref": "De brevitate vitae"
+	},
+	{
+		"author": "Séneca",
+		"quote": "La vida es larga si sabes usarla",
+		"ref": "De brevitate vitae"
+	},
+	{
+		"author": "Séneca",
+		"quote": "Sufrimos más en la imaginación que en la realidad",
+		"ref": "Cartas a Lucilio"
+	},
+	{
+		"author": "Séneca",
+		"quote": "La fortuna no existe: existe el momento en que el talento se encuentra con la oportunidad",
+		"ref": "Atribuida; sin fuente segura"
+	},
+	{
+		"author": "Séneca",
+		"quote": "La dificultad fortalece el ánimo, como el trabajo fortalece el cuerpo",
+		"ref": "Cartas a Lucilio"
+	},
+	{
+		"author": "Séneca",
+		"quote": "El hombre valiente es libre",
+		"ref": "Cartas a Lucilio"
+	},
+	{
+		"author": "Séneca",
+		"quote": "No nos atrevemos a muchas cosas porque son difíciles, pero son difíciles porque no nos atrevemos",
+		"ref": "Cartas a Lucilio"
+	},
+	{
+		"author": "Séneca",
+		"quote": "Ningún viento es favorable para quien no sabe a qué puerto se dirige",
+		"ref": "Cartas a Lucilio"
+	},
+	{
+		"author": "Séneca",
+		"quote": "El mayor obstáculo para vivir es la espera",
+		"ref": "Cartas a Lucilio"
+	},
+	{
+		"author": "Séneca",
+		"quote": "Quien teme al sufrimiento ya sufre por lo que teme",
+		"ref": "Cartas a Lucilio"
+	},
+	{
+		"author": "Otto von Bismarck",
+		"quote": "La política es el arte de lo posible",
+		"ref": "Atribuida; ampliamente citada"
+	},
+	{
+		"author": "Otto von Bismarck",
+		"quote": "Nunca se miente tanto como antes de las elecciones, durante la guerra y después de la caza",
+		"ref": "Atribuida; ampliamente citada"
+	},
+	{
+		"author": "Otto von Bismarck",
+		"quote": "Las leyes son como las salchichas: es mejor no ver cómo se hacen",
+		"ref": "Atribuida; origen discutido"
+	},
+	{
+		"author": "Otto von Bismarck",
+		"quote": "Los grandes problemas de nuestro tiempo no se resolverán con discursos y votaciones, sino con hierro y sangre",
+		"ref": "Discurso de 1862"
+	},
+	{
+		"author": "Otto von Bismarck",
+		"quote": "Quien controla Prusia controla Alemania",
+		"ref": "Atribuida; contexto político"
+	},
+	{
+		"author": "Otto von Bismarck",
+		"quote": "Un estadista debe esperar hasta oír los pasos de Dios a través de los acontecimientos",
+		"ref": "Atribuida; memorias"
+	},
+	{
+		"author": "Otto von Bismarck",
+		"quote": "La diplomacia sin armas es como la música sin instrumentos",
+		"ref": "Atribuida; ampliamente citada"
+	},
+	{
+		"author": "Otto von Bismarck",
+		"quote": "El secreto de la política es hacer un buen tratado con Rusia",
+		"ref": "Atribuida; correspondencia"
+	},
+	{
+		"author": "Federico II de Prusia",
+		"quote": "Un ejército marcha sobre su estómago",
+		"ref": "Atribuida; máxima militar"
+	},
+	{
+		"author": "Federico II de Prusia",
+		"quote": "El arte de la guerra consiste en ser más fuerte que el enemigo en el punto decisivo",
+		"ref": "Instrucciones militares"
+	},
+	{
+		"author": "Federico II de Prusia",
+		"quote": "La disciplina es el alma de los ejércitos",
+		"ref": "Atribuida; doctrina militar"
+	},
+	{
+		"author": "Federico II de Prusia",
+		"quote": "El ejemplo no es la principal manera de influir sobre los demás; es la única",
+		"ref": "Atribuida; origen discutido"
+	},
+	{
+		"author": "Federico II de Prusia",
+		"quote": "La diplomacia es la continuación de la guerra por otros medios",
+		"ref": "Atribuida; antecedente conceptual"
+	},
+	{
+		"author": "Federico II de Prusia",
+		"quote": "Quien defiende todo, no defiende nada",
+		"ref": "Atribuida; doctrina estratégica"
+	},
+	{
+		"author": "Federico II de Prusia",
+		"quote": "La rapidez es la esencia de la guerra",
+		"ref": "Instrucciones militares"
+	},
+	{
+		"author": "Federico II de Prusia",
+		"quote": "El soldado debe temer más a sus oficiales que al enemigo",
+		"ref": "Atribuida; disciplina prusiana"
+	},
+	{
 		"author": "Cicerón",
 		"quote": "La salud del pueblo es la ley suprema",
 		"ref": "De legibus"
@@ -1098,6 +1228,106 @@
 		"author": "Arthur Schopenhauer",
 		"quote": "Cuanto más inteligente es un hombre, menos misteriosa le parece la existencia",
 		"ref": "Parerga y paralipómena"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "La audacia es la clave del éxito en operaciones especiales",
+		"ref": "Atribuida; memorias y entrevistas"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "En la guerra, la sorpresa vale más que la fuerza",
+		"ref": "Atribuida; principios operativos"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "El éxito pertenece a quienes se atreven a actuar",
+		"ref": "Atribuida; entrevistas"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "No hay misiones imposibles, solo hombres que no están dispuestos a intentarlas",
+		"ref": "Atribuida; memorias"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "La velocidad y la decisión son armas tan poderosas como cualquier otra",
+		"ref": "Atribuida; doctrina personal"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "La preparación rigurosa permite la improvisación efectiva",
+		"ref": "Atribuida; entrevistas"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "El enemigo más peligroso es aquel que subestimas",
+		"ref": "Atribuida; memorias"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "Una operación bien planificada reduce el papel del azar",
+		"ref": "Atribuida; principios tácticos"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "La disciplina y la iniciativa deben coexistir en el combatiente",
+		"ref": "Atribuida; doctrina personal"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "El valor sin inteligencia es inútil; la inteligencia sin valor, estéril",
+		"ref": "Atribuida; entrevistas"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "El combate exige claridad mental bajo presión extrema",
+		"ref": "Atribuida; memorias"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "La confianza en uno mismo es una fuerza decisiva",
+		"ref": "Atribuida; entrevistas"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "Los planes deben ser simples para poder ejecutarse en el caos",
+		"ref": "Atribuida; principios operativos"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "La iniciativa individual puede cambiar el curso de una operación",
+		"ref": "Atribuida; doctrina personal"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "La guerra favorece a quienes toman decisiones rápidas",
+		"ref": "Atribuida; entrevistas"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "El liderazgo se demuestra en la acción, no en las palabras",
+		"ref": "Atribuida; memorias"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "La moral de la tropa es tan importante como su armamento",
+		"ref": "Atribuida; observaciones"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "El éxito de una misión depende de la coordinación y la confianza mutua",
+		"ref": "Atribuida; doctrina personal"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "El entrenamiento duro hace que la realidad sea más fácil",
+		"ref": "Atribuida; entrevistas"
+	},
+	{
+		"author": "Otto Skorzeny",
+		"quote": "La determinación supera a menudo a los medios materiales",
+		"ref": "Atribuida; memorias"
 	},
 	{
 		"author": "Oswald Spengler",

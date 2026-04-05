@@ -55,13 +55,48 @@ python ~/src/quotes/getquote.py
 - Imprime al final el numero total de citas cargadas.
 
 ```shell
-«En matemáticas no se entienden las cosas, simplemente uno se
-acostumbra a ellas».
+«En matemáticas no se entienden las cosas, simplemente uno se acostumbra a ellas».
 
-John von Neumann - Aforismo ampliamente citado
+John von Neumann
 
 258 quotes
 ```
+
+# Citas
+
+`quotes.json` incluye citas de:
+
+- Alan Turing (10)
+- Arnold J. Toynbee (10)
+- Arthur Schopenhauer (17)
+- Carl Jung (15)
+- Carl von Clausewitz (14)
+- Cicerón (14)
+- David Lane (8)
+- Dennis Ritchie (15)
+- Donald E. Knuth (17)
+- Edsger W. Dijkstra (14)
+- Epicteto (14)
+- Ernst Jünger (14)
+- Federico II de Prusia (8)
+- Ferdinand Porsche (3)
+- Friedrich Nietzsche (14)
+- Henry Ford (12)
+- Hugo Junkers (3)
+- Immanuel Kant (12)
+- John von Neumann (12)
+- Marco Aurelio (14)
+- Mark Twain (12)
+- Miyamoto Musashi (12)
+- Oswald Spengler (14)
+- Otto Skorzeny (20)
+- Otto von Bismarck (8)
+- Richard Feynman (14)
+- Séneca (10)
+- Ted Kaczynski (14)
+- Wernher von Braun (4)
+- Willy Messerschmitt (3)
+
 ## Notas
 
 - Si `quotes.json` esta vacio, el script termina con error.

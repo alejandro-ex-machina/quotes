@@ -41,15 +41,11 @@ def quote() -> None:
     #  Color
 
     author = f"{GREEN}{author}{RESET}"
-
-    if ref:
-        ref = f"{GRAY}{ref}{RESET}\n"
-    else:
-        ref = ""
-
-    width = get_terminal_width()
+    ref = f"{GRAY}{ref}{RESET}\n" if ref else ""
 
     # Maquetar y salida
+
+    width = get_terminal_width()
 
     print ( wrap_text( f'«{text}».' , width) )
     print ( f'\n{author}' )
