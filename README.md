@@ -62,7 +62,7 @@ John von Neumann
 258 quotes
 ```
 
-# Citas
+## Citas
 
 `quotes.json` incluye citas de:
 
