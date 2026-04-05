@@ -36,18 +36,25 @@ def quote() -> None:
 
     text   = quote.get ("quote", "").strip()
     author = quote.get ("author", "").strip()
-    ref    = "- " + quote.get ("ref", "").strip() if quote.get ("ref", "").strip() else ""
+    ref    = quote.get ("ref", "").strip() if quote.get ("ref", "").strip() else ""
 
     #  Color
 
-    author = f"{GREEN}{author}{RESET} {GRAY}{ref}{RESET}"
+    author = f"{GREEN}{author}{RESET}"
+
+    if ref:
+        ref = f"{GRAY}{ref}{RESET}\n"
+    else:
+        ref = ""
 
     width = get_terminal_width()
 
     # Maquetar y salida
 
     print ( wrap_text( f'«{text}».' , width) )
-    print ( f'\n{author}\n' )
+    print ( f'\n{author}' )
+    print ( f'{ref}' )
+
     print ( len(quotes), "quotes\n" )
 
 if __name__ == "__main__":

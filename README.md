@@ -1,6 +1,6 @@
 # Quotes
 
-Script en Python para mostrar una cita aleatoria desde `quotes.json` en consola. Probado en Windows y Termux.
+Script en Python para mostrar una cita aleatoria en consola desde `quotes.json`. Probado en Windows y Termux.
 
 ## Requisitos
 
@@ -34,9 +34,17 @@ Ejemplo:
 
 ## Uso desde consola
 
-```powershell
-cd src\quotes
-python getquote.py
+### Clonar el repositorio
+
+```shell
+cd ~/src
+git clone https://github.com/alejandro-ex-machina/quotes.git
+```
+
+### Uso
+
+```shell
+python ~/src/quotes/getquote.py
 ```
 
 ## Salida esperada
@@ -46,6 +54,14 @@ python getquote.py
 - Si existe, agrega la referencia entre parentesis.
 - Imprime al final el numero total de citas cargadas.
 
+```shell
+«En matemáticas no se entienden las cosas, simplemente uno se
+acostumbra a ellas».
+
+John von Neumann - Aforismo ampliamente citado
+
+258 quotes
+```
 ## Notas
 
 - Si `quotes.json` esta vacio, el script termina con error.
