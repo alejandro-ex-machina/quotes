@@ -1,2251 +1,2663 @@
 [
   {
-    "author": "Séneca",
-    "quote": "No es que tengamos poco tiempo, sino que perdemos mucho",
-    "ref": "De brevitate vitae",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Séneca",
-    "quote": "La vida es larga si sabes usarla",
-    "ref": "De brevitate vitae",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Séneca",
-    "quote": "Sufrimos más en la imaginación que en la realidad",
-    "ref": "Cartas a Lucilio",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Séneca",
-    "quote": "La fortuna no existe: existe el momento en que el talento se encuentra con la oportunidad",
-    "ref": "Atribuida; sin fuente segura",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Séneca",
-    "quote": "La dificultad fortalece el ánimo, como el trabajo fortalece el cuerpo",
-    "ref": "Cartas a Lucilio",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Séneca",
-    "quote": "El hombre valiente es libre",
-    "ref": "Cartas a Lucilio",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Séneca",
-    "quote": "No nos atrevemos a muchas cosas porque son difíciles, pero son difíciles porque no nos atrevemos",
-    "ref": "Cartas a Lucilio",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Séneca",
-    "quote": "Ningún viento es favorable para quien no sabe a qué puerto se dirige",
-    "ref": "Cartas a Lucilio",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Séneca",
-    "quote": "El mayor obstáculo para vivir es la espera",
-    "ref": "Cartas a Lucilio",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Séneca",
-    "quote": "Quien teme al sufrimiento ya sufre por lo que teme",
-    "ref": "Cartas a Lucilio",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Otto von Bismarck",
-    "quote": "La política es el arte de lo posible",
-    "ref": "Atribuida; ampliamente citada",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto von Bismarck",
-    "quote": "Nunca se miente tanto como antes de las elecciones, durante la guerra y después de la caza",
-    "ref": "Atribuida; ampliamente citada",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto von Bismarck",
-    "quote": "Las leyes son como las salchichas: es mejor no ver cómo se hacen",
-    "ref": "Atribuida; origen discutido",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto von Bismarck",
-    "quote": "Los grandes problemas de nuestro tiempo no se resolverán con discursos y votaciones, sino con hierro y sangre",
-    "ref": "Discurso de 1862",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto von Bismarck",
-    "quote": "Quien controla Prusia controla Alemania",
-    "ref": "Atribuida; contexto político",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto von Bismarck",
-    "quote": "Un estadista debe esperar hasta oír los pasos de Dios a través de los acontecimientos",
-    "ref": "Atribuida; memorias",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto von Bismarck",
-    "quote": "La diplomacia sin armas es como la música sin instrumentos",
-    "ref": "Atribuida; ampliamente citada",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto von Bismarck",
-    "quote": "El secreto de la política es hacer un buen tratado con Rusia",
-    "ref": "Atribuida; correspondencia",
-    "category": "Milicia"
-  },
-  {
-    "author": "Federico II de Prusia",
-    "quote": "Un ejército marcha sobre su estómago",
-    "ref": "Atribuida; máxima militar",
-    "category": "Milicia"
-  },
-  {
-    "author": "Federico II de Prusia",
-    "quote": "El arte de la guerra consiste en ser más fuerte que el enemigo en el punto decisivo",
-    "ref": "Instrucciones militares",
-    "category": "Milicia"
-  },
-  {
-    "author": "Federico II de Prusia",
-    "quote": "La disciplina es el alma de los ejércitos",
-    "ref": "Atribuida; doctrina militar",
-    "category": "Milicia"
-  },
-  {
-    "author": "Federico II de Prusia",
-    "quote": "El ejemplo no es la principal manera de influir sobre los demás; es la única",
-    "ref": "Atribuida; origen discutido",
-    "category": "Milicia"
-  },
-  {
-    "author": "Federico II de Prusia",
-    "quote": "La diplomacia es la continuación de la guerra por otros medios",
-    "ref": "Atribuida; antecedente conceptual",
-    "category": "Milicia"
-  },
-  {
-    "author": "Federico II de Prusia",
-    "quote": "Quien defiende todo, no defiende nada",
-    "ref": "Atribuida; doctrina estratégica",
-    "category": "Milicia"
-  },
-  {
-    "author": "Federico II de Prusia",
-    "quote": "La rapidez es la esencia de la guerra",
-    "ref": "Instrucciones militares",
-    "category": "Milicia"
-  },
-  {
-    "author": "Federico II de Prusia",
-    "quote": "El soldado debe temer más a sus oficiales que al enemigo",
-    "ref": "Atribuida; disciplina prusiana",
-    "category": "Milicia"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "La salud del pueblo es la ley suprema",
-    "ref": "De legibus",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "La vida de los muertos perdura en la memoria de los vivos",
-    "ref": "Filípicas",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "No basta con alcanzar la sabiduría, es necesario saber utilizarla",
-    "ref": "De officiis",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "Cuanto mayor es la dificultad, mayor es la gloria",
-    "ref": "Tusculanae disputationes",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "La amistad duplica las alegrías y divide las angustias",
-    "ref": "Laelius de amicitia",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "La gratitud no es solo la mayor de las virtudes, sino la madre de todas las demás",
-    "ref": "Pro Plancio",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "La ignorancia de la historia condena al hombre a repetirla",
-    "ref": "De oratore",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "La verdad se corrompe tanto con la mentira como con el silencio",
-    "ref": "Discursos",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "Mientras hay vida, hay esperanza",
-    "ref": "Ad Atticum",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "La justicia es la reina de todas las virtudes",
-    "ref": "De officiis",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "El bienestar del pueblo debe ser la ley suprema",
-    "ref": "De legibus",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "No saber lo que ha sucedido antes de nosotros es como ser niños para siempre",
-    "ref": "Orator",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "La paz más desventajosa es mejor que la guerra más justa",
-    "ref": "Filípicas",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Cicerón",
-    "quote": "La libertad no consiste en tener un buen amo, sino en no tenerlo",
-    "ref": "Paradoxa Stoicorum",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "La informática no trata más de ordenadores que la astronomía de telescopios",
-    "ref": "EWD1036",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "La simplicidad es un gran requisito previo para la fiabilidad",
-    "ref": "EWD340",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "Las pruebas de programas pueden usarse para mostrar la presencia de errores, pero nunca para mostrar su ausencia",
-    "ref": "Notas sobre pruebas de software",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "La programación es una de las tareas más difíciles que la mente humana puede emprender",
-    "ref": "EWD498",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "Si la depuración es el proceso de eliminar errores, entonces la programación debe ser el proceso de introducirlos",
-    "ref": "Aforismo ampliamente citado",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "La pregunta de si las máquinas pueden pensar es tan relevante como la de si los submarinos pueden nadar",
-    "ref": "EWD498",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "El uso de COBOL paraliza la mente; su enseñanza debería considerarse un delito",
-    "ref": "EWD498",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "La calidad del programador se refleja en la cantidad de código que no escribe",
-    "ref": "Notas y ensayos EWD",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "Un programa elegante es un programa que es fácil de demostrar correcto",
-    "ref": "EWD249",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "La enseñanza de la programación debe centrarse en la disciplina del pensamiento",
-    "ref": "EWD1308",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "La programación estructurada es una disciplina mental",
-    "ref": "EWD249",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "El avance de la informática ha sido posible gracias a la ignorancia de sus practicantes",
-    "ref": "Ensayos EWD",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "El objetivo del cálculo es la comprensión, no los números",
-    "ref": "EWD447",
-    "category": "Informática"
-  },
-  {
-    "author": "Edsger W. Dijkstra",
-    "quote": "La claridad es el requisito más importante en el desarrollo de software",
-    "ref": "EWD",
-    "category": "Informática"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "No son las cosas las que nos perturban, sino los juicios que hacemos sobre ellas",
-    "ref": "Enquiridión",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "De todas las cosas, unas dependen de nosotros y otras no",
-    "ref": "Enquiridión",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "Nadie es libre si no es dueño de sí mismo",
-    "ref": "Discursos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "No pretendas que los acontecimientos sucedan como quieres, sino quiere que sucedan como suceden, y serás feliz",
-    "ref": "Enquiridión",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "La riqueza no consiste en tener grandes posesiones, sino en tener pocas necesidades",
-    "ref": "Discursos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "Si quieres mejorar, acepta parecer ignorante o tonto en asuntos externos",
-    "ref": "Enquiridión",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "Cuando te enfades, recuerda que no solo ha ocurrido un daño, sino que has reaccionado mal ante él",
-    "ref": "Discursos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "Es imposible para un hombre aprender aquello que cree que ya sabe",
-    "ref": "Discursos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "La dificultad muestra lo que los hombres son",
-    "ref": "Discursos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "No busques que las cosas sucedan como deseas, sino desea que sucedan como suceden",
-    "ref": "Enquiridión",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "Recuerda que eres actor en una obra, cuya duración es la que el autor quiera",
-    "ref": "Enquiridión",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "Si alguien habla mal de ti, no te defiendas; responde: no sabía que tenía más defectos",
-    "ref": "Discursos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "Primero di a ti mismo lo que quieres ser; luego haz lo que tengas que hacer",
-    "ref": "Discursos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Epicteto",
-    "quote": "El hombre sabio no se entristece por lo que no tiene, sino que se alegra por lo que tiene",
-    "ref": "Discursos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "No debes engañarte a ti mismo, y eres la persona más fácil de engañar",
-    "ref": "Cargo Cult Science (discurso, Caltech, 1974)",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "Lo que no puedo crear, no lo entiendo",
-    "ref": "Cuadernos personales",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "La ciencia es la creencia en la ignorancia de los expertos",
-    "ref": "The Pleasure of Finding Things Out",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "Prefiero tener preguntas que no pueden responderse que respuestas que no pueden cuestionarse",
-    "ref": "The Pleasure of Finding Things Out",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "La naturaleza no se deja engañar",
-    "ref": "Cargo Cult Science (discurso, Caltech, 1974)",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "Si piensas que entiendes la mecánica cuántica, es que no entiendes la mecánica cuántica",
-    "ref": "The Character of Physical Law",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "El primer principio es que no debes engañarte a ti mismo, y tú eres la persona más fácil de engañar",
-    "ref": "Cargo Cult Science (discurso, Caltech, 1974)",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "No sé nada con certeza, pero sé que no sé nada con certeza",
-    "ref": "The Pleasure of Finding Things Out",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "La física es como el sexo: puede dar resultados prácticos, pero no es por eso que la hacemos",
-    "ref": "Conferencia (anécdota atribuida)",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "Nunca confundas la facilidad de uso con la comprensión real",
-    "ref": "Lectures on Physics (ideas derivadas)",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "El placer de descubrir cosas es una de las mayores alegrías de la vida",
-    "ref": "The Pleasure of Finding Things Out",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "Puedes conocer el nombre de algo en todos los idiomas del mundo, pero cuando termines, no sabrás absolutamente nada sobre el animal",
-    "ref": "What Do You Care What Other People Think?",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "La duda es una parte esencial de la ciencia",
-    "ref": "The Meaning of It All",
-    "category": "Física"
-  },
-  {
-    "author": "Richard Feynman",
-    "quote": "No hay nada tan importante como ver las cosas por uno mismo",
-    "ref": "Surely You're Joking, Mr. Feynman!",
-    "category": "Física"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "Tanto si crees que puedes como si crees que no puedes, estás en lo cierto",
-    "ref": "Atribuida; sin fuente clara",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de forma más inteligente",
-    "ref": "My Life and Work",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "Reunirse es un comienzo; permanecer juntos es un progreso; trabajar juntos es el éxito",
-    "ref": "Atribuida; sin fuente clara",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "No encuentres la falta, encuentra el remedio",
-    "ref": "Atribuida; sin fuente clara",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "Pensar es el trabajo más difícil que existe. Quizá por eso tan pocos se dedican a ello",
-    "ref": "Atribuida; sin fuente clara",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "La calidad significa hacer bien las cosas incluso cuando nadie está mirando",
-    "ref": "Atribuida; sin fuente clara",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "El único error real es aquel del que no aprendemos nada",
-    "ref": "Atribuida; sin fuente clara",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "El dinero es como un brazo o una pierna: úsalo o piérdelo",
-    "ref": "Atribuida; sin fuente clara",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "Un negocio que solo gana dinero es un negocio pobre",
-    "ref": "My Life and Work",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "La visión sin ejecución es solo alucinación",
-    "ref": "Atribuida; sin fuente clara",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "Nada es particularmente difícil si lo divides en pequeños trabajos",
-    "ref": "Atribuida; sin fuente clara",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Henry Ford",
-    "quote": "El progreso real ocurre cuando los beneficios de una nueva tecnología se vuelven accesibles para todos",
-    "ref": "Ideas derivadas de su filosofía industrial",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "Lo que niegas te somete; lo que aceptas te transforma",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "Hasta que lo inconsciente se haga consciente, el subconsciente dirigirá tu vida y tú lo llamarás destino",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "Quien mira hacia afuera sueña; quien mira hacia adentro despierta",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "No soy lo que me sucedió, soy lo que elegí ser",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "El encuentro de dos personalidades es como el contacto de dos sustancias químicas: si hay reacción, ambas se transforman",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "Todo lo que nos irrita de otros puede llevarnos a una comprensión de nosotros mismos",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "La palabra ‘felicidad’ perdería su significado si no estuviera equilibrada por la tristeza",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "El privilegio de toda una vida es convertirse en quien realmente eres",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "Donde reina el amor, no hay voluntad de poder; y donde predomina el poder, falta el amor",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "No hay toma de conciencia sin dolor",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "Tu visión se volverá clara solo cuando puedas mirar dentro de tu propio corazón",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "El hombre sano no tortura a otros; generalmente son los torturados quienes se convierten en torturadores",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "Los zapatos que le quedan bien a una persona le aprietan a otra; no hay receta para vivir que sirva para todos",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "La soledad no proviene de no tener gente alrededor, sino de ser incapaz de comunicar las cosas que parecen importantes",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Carl Jung",
-    "quote": "Aquel que no conoce su historia está condenado a repetirla",
-    "ref": "",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "Obra solo según aquella máxima por la cual puedas querer al mismo tiempo que se convierta en ley universal",
-    "ref": "Fundamentación de la metafísica de las costumbres",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "Dos cosas llenan el ánimo de admiración y respeto siempre nuevos y crecientes: el cielo estrellado sobre mí y la ley moral en mí",
-    "ref": "Crítica de la razón práctica",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "La ilustración es la salida del hombre de su minoría de edad, de la cual él mismo es culpable",
-    "ref": "¿Qué es la Ilustración?",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "Sapere aude! Ten el valor de servirte de tu propio entendimiento",
-    "ref": "¿Qué es la Ilustración?",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "El hombre es un fin en sí mismo, nunca un medio",
-    "ref": "Fundamentación de la metafísica de las costumbres",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "La libertad es aquella propiedad de la voluntad por la cual puede ser eficaz independientemente de causas externas",
-    "ref": "Crítica de la razón práctica",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "La experiencia sin teoría es ciega, pero la teoría sin experiencia es mera especulación",
-    "ref": "Crítica de la razón pura",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "La moral no es la doctrina de cómo hacernos felices, sino de cómo debemos hacernos dignos de la felicidad",
-    "ref": "Crítica de la razón práctica",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "El entendimiento no puede intuir nada, y los sentidos no pueden pensar nada",
-    "ref": "Crítica de la razón pura",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "Pensamientos sin contenido son vacíos; intuiciones sin conceptos son ciegas",
-    "ref": "Crítica de la razón pura",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "La paz perpetua no es una idea vacía, sino una tarea que debe realizarse progresivamente",
-    "ref": "La paz perpetua",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Immanuel Kant",
-    "quote": "La autonomía de la voluntad es el principio supremo de la moralidad",
-    "ref": "Fundamentación de la metafísica de las costumbres",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "La guerra es una experiencia interior",
-    "ref": "Tempestades de acero",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "El peligro es el elemento en el que vivimos",
-    "ref": "Tempestades de acero",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "El dolor es el gran educador de la humanidad",
-    "ref": "Sobre el dolor",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "La técnica es la movilización total del mundo",
-    "ref": "La movilización total",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "La libertad es la obediencia a la propia ley interior",
-    "ref": "El trabajador",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "En los momentos extremos, el hombre descubre su verdadera naturaleza",
-    "ref": "Tempestades de acero",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "La disciplina es el camino hacia la libertad",
-    "ref": "El trabajador",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "El orden interior es la base de todo orden exterior",
-    "ref": "El trabajador",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "La aventura es la esencia de la vida",
-    "ref": "Tempestades de acero",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "El hombre libre es aquel que permanece fiel a sí mismo en cualquier circunstancia",
-    "ref": "Eumeswil",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "La seguridad es la mayor enemiga de la libertad",
-    "ref": "Eumeswil",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "El espíritu se fortalece en la resistencia",
-    "ref": "Sobre el dolor",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "El coraje es la base de toda virtud",
-    "ref": "Tempestades de acero",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ernst Jünger",
-    "quote": "El tiempo revela la esencia de las cosas",
-    "ref": "Diarios",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "La Revolución Industrial y sus consecuencias han sido un desastre para la raza humana",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "El sistema tecnológico-industrial puede sobrevivir o no, pero la libertad humana no puede sobrevivir dentro de él",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "El sistema no existe para satisfacer las necesidades humanas; son los humanos quienes existen para satisfacer las necesidades del sistema",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "El progreso tecnológico es inevitable solo si nadie se opone a él",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "La tecnología moderna es un sistema unificado en el que todas las partes dependen unas de otras",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "La sociedad moderna somete a los individuos a condiciones para las cuales no están adaptados",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "La autonomía personal se ve reducida a medida que el sistema crece",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "El control del comportamiento humano es una consecuencia inevitable del progreso tecnológico",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "La libertad y la dignidad humanas no pueden mantenerse en un sistema altamente organizado y tecnificado",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "El sistema requiere conformidad y castiga la desviación",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "La sobre-socialización es una de las principales causas de infelicidad en la sociedad moderna",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "El desarrollo tecnológico no puede detenerse sin una ruptura del sistema social",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "El individuo tiene cada vez menos control sobre su propia vida",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Ted Kaczynski",
-    "quote": "La sociedad industrial crea problemas que luego pretende resolver con más tecnología",
-    "ref": "La sociedad industrial y su futuro",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "La optimización prematura es la raíz de todos los males",
-    "ref": "Structured Programming with go to Statements",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "Cuidado con los errores en el código anterior; solo he demostrado que es correcto, no que funcione",
-    "ref": "The Art of Computer Programming",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "La ciencia de la computación es el arte de enseñar a los ordenadores a hacer lo que queremos",
-    "ref": "Conferencias y ensayos",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "Los programas están destinados a ser leídos por humanos y solo incidentalmente para ser ejecutados por máquinas",
-    "ref": "The Art of Computer Programming",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "Un algoritmo debe ser visto como una herramienta para resolver problemas, no como un fin en sí mismo",
-    "ref": "The Art of Computer Programming",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "La programación es el arte de organizar la complejidad",
-    "ref": "Ensayos sobre programación",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "La calidad de un programa se mide tanto por su claridad como por su eficiencia",
-    "ref": "Ensayos sobre programación",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "Resolver un problema correctamente es más importante que resolverlo rápidamente",
-    "ref": "The Art of Computer Programming",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de sentido único",
-    "ref": "Aforismo ampliamente citado",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "La simplicidad y la elegancia son objetivos fundamentales en el diseño de algoritmos",
-    "ref": "The Art of Computer Programming",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "El análisis de algoritmos es clave para entender su comportamiento",
-    "ref": "The Art of Computer Programming",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "La programación literaria es una forma de pensar y escribir programas como si fueran ensayos",
-    "ref": "Literate Programming",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "El código es como el humor. Cuando tienes que explicarlo, es malo",
-    "ref": "Aforismo ampliamente citado",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "La programación es una forma de arte, no una ciencia",
-    "ref": "Ensayos sobre programación",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "El software es como el sexo: es mejor cuando es libre",
-    "ref": "Conferencia (anécdota atribuida)",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "La programación es la habilidad de organizar la complejidad",
-    "ref": "Ensayos sobre programación",
-    "category": "Informática"
-  },
-  {
-    "author": "Donald E. Knuth",
-    "quote": "Un programa sin errores es un programa que no hace nada",
-    "ref": "Aforismo ampliamente citado",
-    "category": "Informática"
-  },
-  {
-    "author": "David Lane",
-    "quote": "Debemos asegurar la existencia de nuestro pueblo y un futuro para los niños blancos",
-    "ref": "Las 14 palabras",
-    "category": "Filósofía"
-  },
-  {
-    "author": "David Lane",
-    "quote": "Porque la belleza de la mujer blanca no debe perecer de la Tierra",
-    "ref": "Las 14 palabras",
-    "category": "Filósofía"
-  },
-  {
-    "author": "David Lane",
-    "quote": "La raza es la base de la identidad",
-    "ref": "Writings from prison",
-    "category": "Filósofía"
-  },
-  {
-    "author": "David Lane",
-    "quote": "Sin identidad no hay propósito",
-    "ref": "Writings from prison",
-    "category": "Filósofía"
-  },
-  {
-    "author": "David Lane",
-    "quote": "La cultura nace de la sangre",
-    "ref": "Writings from prison",
-    "category": "Filósofía"
-  },
-  {
-    "author": "David Lane",
-    "quote": "El futuro pertenece a quienes luchan por su herencia",
-    "ref": "Writings from prison",
-    "category": "Filósofía"
-  },
-  {
-    "author": "David Lane",
-    "quote": "Un pueblo sin conciencia de sí mismo está condenado a desaparecer",
-    "ref": "Writings from prison",
-    "category": "Filósofía"
-  },
-  {
-    "author": "David Lane",
-    "quote": "La lealtad es el valor supremo de una comunidad",
-    "ref": "Writings from prison",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "No hay nada fuera de ti mismo que pueda hacerte mejor, más fuerte, más rico o más rápido",
-    "ref": "Libro de los cinco anillos",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "Piensa con ligereza en ti mismo y profundamente en el mundo",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "No albergues intenciones en tus acciones ni apego en tus pensamientos",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "Acepta todo tal como es",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "No busques el placer por sí mismo",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "No dependas de un sentimiento parcial",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "No tengas preferencias en nada",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "No tengas apego por la vida ni temor a la muerte",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "No busques poseer bienes para tu vejez",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "Respeta a los dioses y a los budas, pero no dependas de ellos",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "Puedes abandonar tu propio cuerpo, pero debes preservar tu honor",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Miyamoto Musashi",
-    "quote": "Nunca te apartes del camino",
-    "ref": "Dokkōdō",
-    "category": "Milicia"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo",
-    "ref": "El ocaso de los ídolos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "Lo que no me mata, me hace más fuerte",
-    "ref": "El ocaso de los ídolos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "Quien lucha con monstruos debe tener cuidado de no convertirse en uno",
-    "ref": "Más allá del bien y del mal",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "Y cuando miras largo tiempo a un abismo, el abismo también mira dentro de ti",
-    "ref": "Más allá del bien y del mal",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "Dios ha muerto",
-    "ref": "La gaya ciencia",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "Sin música, la vida sería un error",
-    "ref": "El ocaso de los ídolos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "No hay hechos, solo interpretaciones",
-    "ref": "Fragmentos póstumos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "El individuo siempre ha tenido que luchar para no ser absorbido por la tribu",
-    "ref": "Así habló Zaratustra",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "Aquel que tiene un porqué para vivir puede soportar casi cualquier cómo",
-    "ref": "El ocaso de los ídolos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "El hombre es algo que debe ser superado",
-    "ref": "Así habló Zaratustra",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "La esperanza es el peor de los males, pues prolonga el tormento del hombre",
-    "ref": "Humano, demasiado humano",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "El camino hacia todas las cosas grandes pasa por el silencio",
-    "ref": "Fragmentos póstumos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "Quien no sabe obedecer a sí mismo será mandado",
-    "ref": "Así habló Zaratustra",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Friedrich Nietzsche",
-    "quote": "Hay que llevar en sí mismo un caos para poder dar a luz una estrella danzante",
-    "ref": "Así habló Zaratustra",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Date cuenta de esto y encontrarás la fuerza",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "La felicidad de tu vida depende de la calidad de tus pensamientos",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "No pierdas más tiempo discutiendo sobre cómo debe ser un buen hombre. Sé uno",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "Si algo no es correcto, no lo hagas; si no es verdad, no lo digas",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "La mejor venganza es no parecerse a quien causó el daño",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "Nuestra vida es lo que nuestros pensamientos hacen de ella",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "Acepta las cosas a las que te ata el destino y ama a las personas con las que te ha reunido, pero hazlo de todo corazón",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "El impedimento para la acción avanza la acción. Lo que se interpone en el camino se convierte en el camino",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "Piensa en ti mismo como muerto. Ya has vivido tu vida. Ahora toma lo que queda y vívelo correctamente",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "No actúes como si fueras a vivir diez mil años. La muerte se cierne sobre ti. Mientras vivas, mientras esté en tu poder, sé bueno",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "Cuando te levantes por la mañana, piensa en el privilegio de estar vivo, de pensar, de disfrutar, de amar",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "El alma se tiñe del color de sus pensamientos",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Marco Aurelio",
-    "quote": "Mira dentro de ti. Dentro está la fuente del bien, y siempre puede brotar si siempre excavamos",
-    "ref": "Meditaciones",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "C es peculiar en el sentido de que hace fácil hacer cosas difíciles",
-    "ref": "The C Programming Language",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "Unix es básicamente un sistema operativo simple, pero tienes que ser un genio para entender su simplicidad",
-    "ref": "Conferencias y entrevistas",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "La única manera de aprender un nuevo lenguaje de programación es escribiendo programas en él",
-    "ref": "Conferencias y entrevistas",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "El lenguaje C combina el poder de bajo nivel con la expresividad de alto nivel",
-    "ref": "The C Programming Language",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "La programación es como el sexo: un error y tienes que soportarlo el resto de tu vida",
-    "ref": "Aforismo ampliamente citado",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "La simplicidad es la clave de un buen diseño",
-    "ref": "Entrevistas",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "La compatibilidad hacia atrás es fundamental en los sistemas",
-    "ref": "Entrevistas",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "Los sistemas deben ser diseñados para evolucionar",
-    "ref": "Ensayos y entrevistas",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "El software debe ser eficiente, pero también comprensible",
-    "ref": "Entrevistas",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "Un buen lenguaje de programación permite expresar las ideas claramente",
-    "ref": "Conferencias",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "El código es como el humor. Cuando tienes que explicarlo, es malo",
-    "ref": "Aforismo ampliamente citado",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "La programación es una forma de arte, no una ciencia",
-    "ref": "Entrevistas",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "El software es como el sexo: es mejor cuando es libre",
-    "ref": "Conferencia (anécdota atribuida)",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "La programación es la habilidad de organizar la complejidad",
-    "ref": "Ensayos sobre programación",
-    "category": "Informática"
-  },
-  {
-    "author": "Dennis Ritchie",
-    "quote": "Un programa sin errores es un programa que no hace nada",
-    "ref": "Aforismo ampliamente citado",
-    "category": "Informática"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "La soledad es el destino de todos los espíritus egregios: a veces les entristecerá, pero siempre acaban por elegirla como el menor entre dos males",
-    "ref": "Aforismos sobre la sabiduría de la vida, cap. 5, máxima 9",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "Las religiones son necesarias y un inestimable beneficio para el pueblo. Pero cuando pretenden oponerse al progreso de la humanidad en el conocimiento de la verdad, hay que empujarlas a un lado sin ningún miramiento",
-    "ref": "El mundo como voluntad y representación, II, cap. 17",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "La vida es un péndulo que oscila entre el dolor y el aburrimiento",
-    "ref": "El mundo como voluntad y representación",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "El hombre puede hacer lo que quiere, pero no puede querer lo que quiere",
-    "ref": "El mundo como voluntad y representación",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "Cada nación se burla de las otras, y todas tienen razón",
-    "ref": "Parerga y paralipómena",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "La compasión es la base de toda moralidad",
-    "ref": "Los dos problemas fundamentales de la ética",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "La riqueza se parece al agua salada: cuanto más se bebe, más sed da",
-    "ref": "Aforismos sobre la sabiduría de la vida",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "La soledad es la suerte de todos los espíritus excelentes",
-    "ref": "Aforismos sobre la sabiduría de la vida",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "El destino mezcla las cartas, pero nosotros las jugamos",
-    "ref": "Parerga y paralipómena",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "La vida sin dolor no tiene sentido",
-    "ref": "El mundo como voluntad y representación",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "El talento alcanza lo que nadie puede alcanzar; el genio alcanza lo que nadie puede ver",
-    "ref": "El mundo como voluntad y representación",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "La mayoría de los hombres son como niños: quieren lo que no tienen y desprecian lo que tienen",
-    "ref": "Parerga y paralipómena",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "La música es el lenguaje directo de la voluntad",
-    "ref": "El mundo como voluntad y representación",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "Leer es pensar con la cabeza de otro en lugar de con la propia",
-    "ref": "Parerga y paralipómena",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "La salud no lo es todo, pero sin ella, todo lo demás es nada",
-    "ref": "Aforismos sobre la sabiduría de la vida",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "El hombre es el único animal que hace sufrir a otros sin otro objetivo que querer hacerlo",
-    "ref": "Sobre el fundamento de la moral",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Arthur Schopenhauer",
-    "quote": "Cuanto más inteligente es un hombre, menos misteriosa le parece la existencia",
-    "ref": "Parerga y paralipómena",
-    "category": "Filósofía"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "La audacia es la clave del éxito en operaciones especiales",
-    "ref": "Atribuida; memorias y entrevistas",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "En la guerra, la sorpresa vale más que la fuerza",
-    "ref": "Atribuida; principios operativos",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "El éxito pertenece a quienes se atreven a actuar",
-    "ref": "Atribuida; entrevistas",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "No hay misiones imposibles, solo hombres que no están dispuestos a intentarlas",
-    "ref": "Atribuida; memorias",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "La velocidad y la decisión son armas tan poderosas como cualquier otra",
-    "ref": "Atribuida; doctrina personal",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "La preparación rigurosa permite la improvisación efectiva",
-    "ref": "Atribuida; entrevistas",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "El enemigo más peligroso es aquel que subestimas",
-    "ref": "Atribuida; memorias",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "Una operación bien planificada reduce el papel del azar",
-    "ref": "Atribuida; principios tácticos",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "La disciplina y la iniciativa deben coexistir en el combatiente",
-    "ref": "Atribuida; doctrina personal",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "El valor sin inteligencia es inútil; la inteligencia sin valor, estéril",
-    "ref": "Atribuida; entrevistas",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "El combate exige claridad mental bajo presión extrema",
-    "ref": "Atribuida; memorias",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "La confianza en uno mismo es una fuerza decisiva",
-    "ref": "Atribuida; entrevistas",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "Los planes deben ser simples para poder ejecutarse en el caos",
-    "ref": "Atribuida; principios operativos",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "La iniciativa individual puede cambiar el curso de una operación",
-    "ref": "Atribuida; doctrina personal",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "La guerra favorece a quienes toman decisiones rápidas",
-    "ref": "Atribuida; entrevistas",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "El liderazgo se demuestra en la acción, no en las palabras",
-    "ref": "Atribuida; memorias",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "La moral de la tropa es tan importante como su armamento",
-    "ref": "Atribuida; observaciones",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "El éxito de una misión depende de la coordinación y la confianza mutua",
-    "ref": "Atribuida; doctrina personal",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "El entrenamiento duro hace que la realidad sea más fácil",
-    "ref": "Atribuida; entrevistas",
-    "category": "Milicia"
-  },
-  {
-    "author": "Otto Skorzeny",
-    "quote": "La determinación supera a menudo a los medios materiales",
-    "ref": "Atribuida; memorias",
-    "category": "Milicia"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "Las civilizaciones son los destinos inevitables de las culturas",
-    "ref": "La decadencia de Occidente",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "La historia universal es la historia de las grandes culturas",
-    "ref": "La decadencia de Occidente",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "Toda cultura tiene su propia alma",
-    "ref": "La decadencia de Occidente",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "La técnica es la táctica de la vida",
-    "ref": "El hombre y la técnica",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "El optimismo es cobardía",
-    "ref": "El hombre y la técnica",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "Las masas son ciegas ante el destino",
-    "ref": "Años decisivos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "El dinero domina la democracia",
-    "ref": "La decadencia de Occidente",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "La política es la forma de la historia en acción",
-    "ref": "La decadencia de Occidente",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "El cesarismo es el destino final de toda democracia",
-    "ref": "La decadencia de Occidente",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "La vida es lucha, y la lucha es la esencia de la vida",
-    "ref": "El hombre y la técnica",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "La civilización es el ocaso de la cultura",
-    "ref": "La decadencia de Occidente",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "La libertad es un concepto relativo en el seno de la historia",
-    "ref": "Años decisivos",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "El pensamiento abstracto es signo de decadencia",
-    "ref": "La decadencia de Occidente",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Oswald Spengler",
-    "quote": "Las grandes decisiones históricas no las toman las mayorías",
-    "ref": "Años decisivos",
-    "category": "Filosofía"
-  },
-  {
     "author": "Alan Turing",
-    "quote": "Una computadora merecería ser llamada inteligente si pudiera engañar a un humano haciéndole creer que es humano",
-    "ref": "Computing Machinery and Intelligence",
-    "category": "Informática"
-  },
-  {
-    "author": "Alan Turing",
-    "quote": "Podemos ver solo un poco del futuro, pero lo suficiente para darnos cuenta de que hay mucho por hacer",
-    "ref": "Computing Machinery and Intelligence",
-    "category": "Informática"
-  },
-  {
-    "author": "Alan Turing",
-    "quote": "Las máquinas pueden cometer errores, pero también pueden ser corregidas",
-    "ref": "Computing Machinery and Intelligence",
-    "category": "Informática"
-  },
-  {
-    "author": "Alan Turing",
-    "quote": "La idea de una máquina pensante es algo que puede parecer extraño, pero no imposible",
-    "ref": "Computing Machinery and Intelligence",
-    "category": "Informática"
-  },
-  {
-    "author": "Alan Turing",
-    "quote": "La matemática es la base de todo razonamiento riguroso",
+    "quote": "El lenguaje formal es esencial para describir procesos computacionales",
     "ref": "On Computable Numbers",
-    "category": "Informática"
+    "category": "Informática",
+    "theme": "programación"
   },
   {
     "author": "Alan Turing",
     "quote": "El problema no es si las máquinas pueden pensar, sino si los humanos pueden hacerlo correctamente",
     "ref": "Aforismo atribuido",
-    "category": "Informática"
+    "category": "Informática",
+    "theme": "programación"
   },
   {
     "author": "Alan Turing",
-    "quote": "Una máquina puede hacer cualquier cosa que sepamos describir con precisión",
-    "ref": "On Computable Numbers",
-    "category": "Informática"
-  },
-  {
-    "author": "Alan Turing",
-    "quote": "El lenguaje formal es esencial para describir procesos computacionales",
-    "ref": "On Computable Numbers",
-    "category": "Informática"
-  },
-  {
-    "author": "Alan Turing",
-    "quote": "La lógica es el fundamento de la computación",
-    "ref": "Ensayos matemáticos",
-    "category": "Informática"
+    "quote": "La idea de una máquina pensante es algo que puede parecer extraño, pero no imposible",
+    "ref": "Computing Machinery and Intelligence",
+    "category": "Informática",
+    "theme": "programación"
   },
   {
     "author": "Alan Turing",
     "quote": "La inteligencia no es exclusiva de los seres humanos",
     "ref": "Computing Machinery and Intelligence",
-    "category": "Informática"
+    "category": "Informática",
+    "theme": "computación"
   },
   {
-    "author": "Mark Twain",
-    "quote": "Viajar es fatal para los prejuicios, la intolerancia y la estrechez de mente",
-    "ref": "Los inocentes en el extranjero",
-    "category": "Literatura"
+    "author": "Alan Turing",
+    "quote": "La lógica es el fundamento de la computación",
+    "ref": "Ensayos matemáticos",
+    "category": "Informática",
+    "theme": "programación"
   },
   {
-    "author": "Mark Twain",
-    "quote": "Cada vez que te encuentres del lado de la mayoría, es momento de hacer una pausa y reflexionar",
-    "ref": "Cuaderno, 1904",
-    "category": "Literatura"
+    "author": "Alan Turing",
+    "quote": "La matemática es la base de todo razonamiento riguroso",
+    "ref": "On Computable Numbers",
+    "category": "Informática",
+    "theme": "computación"
   },
   {
-    "author": "Mark Twain",
-    "quote": "Hay mentiras, malditas mentiras y estadísticas",
-    "ref": "Capítulos de mi autobiografía",
-    "category": "Literatura"
+    "author": "Alan Turing",
+    "quote": "Las máquinas pueden cometer errores, pero también pueden ser corregidas",
+    "ref": "Computing Machinery and Intelligence",
+    "category": "Informática",
+    "theme": "programación"
   },
   {
-    "author": "Mark Twain",
-    "quote": "El hombre que no lee no tiene ninguna ventaja sobre el que no sabe leer",
-    "ref": "Atribuida; sin fuente segura",
-    "category": "Literatura"
+    "author": "Alan Turing",
+    "quote": "Podemos ver solo un poco del futuro, pero lo suficiente para darnos cuenta de que hay mucho por hacer",
+    "ref": "Computing Machinery and Intelligence",
+    "category": "Informática",
+    "theme": "computación"
   },
   {
-    "author": "Mark Twain",
-    "quote": "Es mejor mantener la boca cerrada y parecer un tonto que abrirla y disipar toda duda",
-    "ref": "Atribuida; sin fuente segura",
-    "category": "Literatura"
+    "author": "Alan Turing",
+    "quote": "Una computadora merecería ser llamada inteligente si pudiera engañar a un humano haciéndole creer que es humano",
+    "ref": "Computing Machinery and Intelligence",
+    "category": "Informática",
+    "theme": "programación"
   },
   {
-    "author": "Mark Twain",
-    "quote": "Nunca he dejado que mi escolarización interfiera con mi educación",
-    "ref": "Atribuida; sin fuente segura",
-    "category": "Literatura"
-  },
-  {
-    "author": "Mark Twain",
-    "quote": "La ropa hace al hombre. Las personas desnudas tienen poca o ninguna influencia en la sociedad",
-    "ref": "Siguiendo el ecuador",
-    "category": "Literatura"
-  },
-  {
-    "author": "Mark Twain",
-    "quote": "La verdad es más extraña que la ficción, pero es porque la ficción está obligada a ceñirse a lo posible; la verdad no",
-    "ref": "Siguiendo el ecuador",
-    "category": "Literatura"
-  },
-  {
-    "author": "Mark Twain",
-    "quote": "Los rumores sobre mi muerte han sido muy exagerados",
-    "ref": "Respuesta a un rumor, 1897",
-    "category": "Literatura"
-  },
-  {
-    "author": "Mark Twain",
-    "quote": "Consigue primero los hechos; luego podrás distorsionarlos como quieras",
-    "ref": "Siguiendo el ecuador",
-    "category": "Literatura"
-  },
-  {
-    "author": "Mark Twain",
-    "quote": "El perdón es la fragancia que la violeta deja en el talón que la ha aplastado",
-    "ref": "Atribuida; sin fuente segura",
-    "category": "Literatura"
-  },
-  {
-    "author": "Mark Twain",
-    "quote": "Si dices la verdad, no tienes que recordar nada",
-    "ref": "Atribuida; sin fuente segura",
-    "category": "Literatura"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "En matemáticas no se entienden las cosas, simplemente uno se acostumbra a ellas",
-    "ref": "Aforismo ampliamente citado",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "Si la gente no cree que las matemáticas son simples, es solo porque no se dan cuenta de lo complicada que es la vida",
-    "ref": "Aforismo ampliamente citado",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "Cualquier persona que considere métodos aritméticos para producir números aleatorios está, por supuesto, en pecado",
-    "ref": "Conferencia sobre métodos numéricos",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "La juventud tiene la ventaja de ver las cosas con claridad; la madurez, de comprender su complejidad",
-    "ref": "Aforismo atribuido",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "El progreso de la tecnología depende de nuestra capacidad para organizar la complejidad",
-    "ref": "Ensayos y conferencias",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "Las ciencias no intentan explicar, apenas intentan modelar",
-    "ref": "Aforismo ampliamente citado",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "En la naturaleza no hay problemas irresolubles, solo problemas mal planteados",
-    "ref": "Aforismo atribuido",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "La lógica te llevará de A a B; la imaginación te llevará a cualquier parte",
-    "ref": "Aforismo erróneamente atribuido",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "El peligro no es que las máquinas comiencen a pensar como humanos, sino que los humanos comiencen a pensar como máquinas",
-    "ref": "Aforismo atribuido",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "El problema no es si las máquinas pueden pensar, sino si los humanos pueden hacerlo mejor",
-    "ref": "Ensayos sobre computación",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "Toda la estabilidad del mundo moderno depende de un delicado equilibrio de poder",
-    "ref": "Reflexiones sobre estrategia nuclear",
-    "category": "Informática"
-  },
-  {
-    "author": "John von Neumann",
-    "quote": "El mejor modelo de un gato es otro gato, o mejor aún, el mismo gato",
-    "ref": "Aforismo citado en teoría de sistemas",
-    "category": "Informática"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "La guerra es la continuación de la política por otros medios",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "En la guerra, todo es muy simple, pero lo más simple es difícil",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "La guerra es un acto de fuerza para obligar al adversario a cumplir nuestra voluntad",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "La incertidumbre es el elemento dominante en la guerra",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "Tres cuartas partes de los factores en los que se basa la acción en la guerra están envueltos en una niebla de mayor o menor incertidumbre",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "El coraje, por encima de todo, es la primera cualidad de un guerrero",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "La guerra no es un mero acto político, sino un verdadero instrumento político, una continuación de las relaciones políticas, una gestión de las mismas por otros medios",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "El objetivo de la guerra es desarmar al enemigo",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "En la guerra, el resultado nunca es definitivo",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "La defensa es la forma más fuerte de la guerra, pero la ofensiva es la forma decisiva",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "La sorpresa es un elemento importante en la guerra",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "El combate es el único medio eficaz en la guerra",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "La guerra es el reino de la incertidumbre",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Carl von Clausewitz",
-    "quote": "El talento en la guerra consiste en saber manejar la incertidumbre",
-    "ref": "De la guerra",
-    "category": "Milicia"
-  },
-  {
-    "author": "Ferdinand Porsche",
-    "quote": "No  encontrar el coche deportivo de mis sueños, así que lo construí yo mismo",
-    "ref": "Atribuida; origen no confirmado",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Ferdinand Porsche",
-    "quote": "El diseño debe ser funcional y la funcionalidad debe traducirse en estética",
-    "ref": "Atribuida; origen no confirmado",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Ferdinand Porsche",
-    "quote": "El coche perfecto aún no existe; siempre se puede mejorar",
-    "ref": "Atribuida; origen no confirmado",
-    "category": "IngAutomotriz"
-  },
-  {
-    "author": "Hugo Junkers",
-    "quote": "El progreso técnico es el resultado del pensamiento libre y la innovación",
-    "ref": "Atribuida; origen no confirmado",
-    "category": "IngAeronáutica"
-  },
-  {
-    "author": "Hugo Junkers",
-    "quote": "La aviación debe ser segura, eficiente y accesible",
-    "ref": "Atribuida; origen no confirmado",
-    "category": "IngAeronáutica"
-  },
-  {
-    "author": "Hugo Junkers",
-    "quote": "El metal es el futuro de la aviación",
-    "ref": "Atribuida; relacionada con sus desarrollos en estructuras metálicas",
-    "category": "IngAeronáutica"
-  },
-  {
-    "author": "Willy Messerschmitt",
-    "quote": "La ligereza es la clave del rendimiento en aviación",
-    "ref": "Atribuida; principio de diseño",
-    "category": "IngAeronáutica"
-  },
-  {
-    "author": "Willy Messerschmitt",
-    "quote": "Cada gramo cuenta cuando se vuela",
-    "ref": "Atribuida; origen no confirmado",
-    "category": "IngAeronáutica"
-  },
-  {
-    "author": "Willy Messerschmitt",
-    "quote": "El diseño debe adaptarse a la misión",
-    "ref": "Atribuida; principio de ingeniería",
-    "category": "IngAeronáutica"
-  },
-  {
-    "author": "Wernher von Braun",
-    "quote": "La investigación es lo que hago cuando no sé lo que estoy haciendo",
-    "ref": "Atribuida; ampliamente citada",
-    "category": "IngAeroespacial"
-  },
-  {
-    "author": "Wernher von Braun",
-    "quote": "Apunto a las estrellas, pero a veces doy en Londres",
-    "ref": "Atribuida; comentario irónico posterior a la guerra",
-    "category": "IngAeroespacial"
-  },
-  {
-    "author": "Wernher von Braun",
-    "quote": "Lo importante es el futuro de la exploración espacial, no el pasado",
-    "ref": "Atribuida; entrevistas",
-    "category": "IngAeroespacial"
-  },
-  {
-    "author": "Wernher von Braun",
-    "quote": "La ciencia de cohetes no es difícil; lo difícil es que funcione de forma fiable",
-    "ref": "Atribuida; entrevistas",
-    "category": "IngAeroespacial"
-  },
-  {
-    "author": "Arnold J. Toynbee",
-    "quote": "Las civilizaciones mueren por suicidio, no por asesinato",
-    "ref": "A Study of History",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Arnold J. Toynbee",
-    "quote": "El mayor castigo para quienes no se interesan por la política es ser gobernados por personas peores que ellos",
-    "ref": "Atribuida; origen discutido",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Arnold J. Toynbee",
-    "quote": "Una civilización crece cuando responde con éxito a los desafíos",
-    "ref": "A Study of History",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Arnold J. Toynbee",
-    "quote": "El desafío y la respuesta son el motor de la historia",
-    "ref": "A Study of History",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Arnold J. Toynbee",
-    "quote": "Las minorías creativas son las que guían el desarrollo de las civilizaciones",
-    "ref": "A Study of History",
-    "category": "Filosofía"
+    "author": "Alan Turing",
+    "quote": "Una máquina puede hacer cualquier cosa que sepamos describir con precisión",
+    "ref": "On Computable Numbers",
+    "category": "Informática",
+    "theme": "programación"
   },
   {
     "author": "Arnold J. Toynbee",
     "quote": "El colapso de una civilización comienza cuando deja de responder creativamente a los desafíos",
     "ref": "A Study of History",
-    "category": "Filosofía"
+    "category": "Filosofía",
+    "theme": "historia"
   },
   {
     "author": "Arnold J. Toynbee",
-    "quote": "La historia es un estudio de respuestas humanas a situaciones cambiantes",
+    "quote": "El desafío y la respuesta son el motor de la historia",
     "ref": "A Study of History",
-    "category": "Filosofía"
+    "category": "Filosofía",
+    "theme": "historia"
+  },
+  {
+    "author": "Arnold J. Toynbee",
+    "quote": "El mayor castigo para quienes no se interesan por la política es ser gobernados por personas peores que ellos",
+    "ref": "Atribuida; origen discutido",
+    "category": "Filosofía",
+    "theme": "política"
   },
   {
     "author": "Arnold J. Toynbee",
     "quote": "El progreso no es inevitable; depende de la voluntad humana",
     "ref": "A Study of History",
-    "category": "Filosofía"
-  },
-  {
-    "author": "Arnold J. Toynbee",
-    "quote": "Las civilizaciones no son destruidas desde fuera hasta que se han debilitado desde dentro",
-    "ref": "A Study of History",
-    "category": "Filosofía"
+    "category": "Filosofía",
+    "theme": "voluntad"
   },
   {
     "author": "Arnold J. Toynbee",
     "quote": "La creatividad es la respuesta más poderosa frente a la adversidad",
     "ref": "A Study of History",
-    "category": "Filosofía"
+    "category": "Filosofía",
+    "theme": "historia"
   },
   {
-    "author": "Leovigildo",
-    "quote": "El rey debe ser señor de todos, no esclavo de ninguno",
-    "ref": "Tradición historiográfica visigoda",
-    "type": "paráfrasis",
-    "year": 580,
-    "category": "Visigodos"
+    "author": "Arnold J. Toynbee",
+    "quote": "La historia es un estudio de respuestas humanas a situaciones cambiantes",
+    "ref": "A Study of History",
+    "category": "Filosofía",
+    "theme": "historia"
   },
   {
-    "author": "Leovigildo",
-    "quote": "Un solo reino no puede sostenerse con leyes diversas",
-    "ref": "Reformas de unificación legal y territorial",
-    "type": "paráfrasis",
-    "year": 580,
-    "category": "Visigodos"
+    "author": "Arnold J. Toynbee",
+    "quote": "Las civilizaciones mueren por suicidio, no por asesinato",
+    "ref": "A Study of History",
+    "category": "Filosofía",
+    "theme": "historia"
   },
   {
-    "author": "Leovigildo",
-    "quote": "La autoridad del rey dimana de Dios y se ejerce para mantener el orden",
-    "ref": "Ideología regia visigoda (crónicas)",
-    "type": "paráfrasis",
-    "year": 580,
-    "category": "Visigodos"
+    "author": "Arnold J. Toynbee",
+    "quote": "Las civilizaciones no son destruidas desde fuera hasta que se han debilitado desde dentro",
+    "ref": "A Study of History",
+    "category": "Filosofía",
+    "theme": "historia"
   },
   {
-    "author": "Recaredo I",
-    "quote": "Renuncio al error de Arrio y confieso la fe católica",
-    "ref": "III Concilio de Toledo",
-    "type": "literal",
-    "year": 589,
-    "category": "Visigodos"
+    "author": "Arnold J. Toynbee",
+    "quote": "Las minorías creativas son las que guían el desarrollo de las civilizaciones",
+    "ref": "A Study of History",
+    "category": "Filosofía",
+    "theme": "historia"
   },
   {
-    "author": "Recaredo I",
-    "quote": "Deseo que mi pueblo siga la misma fe que yo profeso",
-    "ref": "III Concilio de Toledo",
-    "type": "literal",
-    "year": 589,
-    "category": "Visigodos"
+    "author": "Arnold J. Toynbee",
+    "quote": "Una civilización crece cuando responde con éxito a los desafíos",
+    "ref": "A Study of History",
+    "category": "Filosofía",
+    "theme": "historia"
   },
   {
-    "author": "Recaredo I",
-    "quote": "No quiero reinar sobre herejes, sino sobre fieles",
-    "ref": "Actas conciliares (formulación doctrinal)",
-    "type": "paráfrasis",
-    "year": 589,
-    "category": "Visigodos"
+    "author": "Arthur Schopenhauer",
+    "quote": "Cada nación se burla de las otras, y todas tienen razón",
+    "ref": "Parerga y paralipómena",
+    "category": "Filósofía",
+    "theme": "pesimismo"
   },
   {
-    "author": "Sisebuto",
-    "quote": "El mundo es breve, la gloria pasajera y la muerte segura",
-    "ref": "Epístolas y escritos atribuidos",
-    "type": "casi literal",
-    "year": 615,
-    "category": "Visigodos"
+    "author": "Arthur Schopenhauer",
+    "quote": "Cuanto más inteligente es un hombre, menos misteriosa le parece la existencia",
+    "ref": "Parerga y paralipómena",
+    "category": "Filósofía",
+    "theme": "carácter"
   },
   {
-    "author": "Sisebuto",
-    "quote": "Nada permanece sino aquello que se eleva hacia Dios",
-    "ref": "Literatura religiosa visigoda",
-    "type": "paráfrasis",
-    "year": 615,
-    "category": "Visigodos"
+    "author": "Arthur Schopenhauer",
+    "quote": "El destino mezcla las cartas, pero nosotros las jugamos",
+    "ref": "Parerga y paralipómena",
+    "category": "Filósofía",
+    "theme": "voluntad"
   },
   {
-    "author": "Sisebuto",
-    "quote": "El poder sin virtud es sombra sin sustancia",
-    "ref": "Tradición literaria posterior",
-    "type": "paráfrasis",
-    "year": 615,
-    "category": "Visigodos"
+    "author": "Arthur Schopenhauer",
+    "quote": "El hombre es el único animal que hace sufrir a otros sin otro objetivo que querer hacerlo",
+    "ref": "Sobre el fundamento de la moral",
+    "category": "Filósofía",
+    "theme": "carácter"
   },
   {
-    "author": "Recesvinto",
-    "quote": "El rey está sujeto a la ley como el súbdito",
-    "ref": "Liber Iudiciorum",
-    "type": "paráfrasis fiel",
-    "year": 654,
-    "category": "Visigodos"
+    "author": "Arthur Schopenhauer",
+    "quote": "El hombre puede hacer lo que quiere, pero no puede querer lo que quiere",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filósofía",
+    "theme": "carácter"
   },
   {
-    "author": "Recesvinto",
-    "quote": "La justicia debe ser igual para todos",
-    "ref": "Liber Iudiciorum",
-    "type": "paráfrasis fiel",
-    "year": 654,
-    "category": "Visigodos"
+    "author": "Arthur Schopenhauer",
+    "quote": "El talento alcanza lo que nadie puede alcanzar; el genio alcanza lo que nadie puede ver",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filósofía",
+    "theme": "pesimismo"
   },
   {
-    "author": "Recesvinto",
-    "quote": "La ley es la medida del reino",
-    "ref": "Liber Iudiciorum",
-    "type": "paráfrasis",
-    "year": 654,
-    "category": "Visigodos"
+    "author": "Arthur Schopenhauer",
+    "quote": "La compasión es la base de toda moralidad",
+    "ref": "Los dos problemas fundamentales de la ética",
+    "category": "Filósofía",
+    "theme": "pesimismo"
   },
   {
-    "author": "Chindasvinto",
-    "quote": "Es mejor castigar a los pocos que poner en riesgo a todos",
-    "ref": "Política represiva documentada en crónicas",
-    "type": "paráfrasis",
-    "year": 645,
-    "category": "Visigodos"
+    "author": "Arthur Schopenhauer",
+    "quote": "La mayoría de los hombres son como niños: quieren lo que no tienen y desprecian lo que tienen",
+    "ref": "Parerga y paralipómena",
+    "category": "Filósofía",
+    "theme": "pesimismo"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La música es el lenguaje directo de la voluntad",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filósofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La riqueza se parece al agua salada: cuanto más se bebe, más sed da",
+    "ref": "Aforismos sobre la sabiduría de la vida",
+    "category": "Filósofía",
+    "theme": "pesimismo"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La salud no lo es todo, pero sin ella, todo lo demás es nada",
+    "ref": "Aforismos sobre la sabiduría de la vida",
+    "category": "Filósofía",
+    "theme": "pesimismo"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La soledad es el destino de todos los espíritus egregios: a veces les entristecerá, pero siempre acaban por elegirla como el menor entre dos males",
+    "ref": "Aforismos sobre la sabiduría de la vida, cap. 5, máxima 9",
+    "category": "Filósofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La soledad es la suerte de todos los espíritus excelentes",
+    "ref": "Aforismos sobre la sabiduría de la vida",
+    "category": "Filósofía",
+    "theme": "pesimismo"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La vida es un péndulo que oscila entre el dolor y el aburrimiento",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filósofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La vida sin dolor no tiene sentido",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filósofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Las religiones son necesarias y un inestimable beneficio para el pueblo. Pero cuando pretenden oponerse al progreso de la humanidad en el conocimiento de la verdad, hay que empujarlas a un lado sin ningún miramiento",
+    "ref": "El mundo como voluntad y representación, II, cap. 17",
+    "category": "Filósofía",
+    "theme": "verdad"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Leer es pensar con la cabeza de otro en lugar de con la propia",
+    "ref": "Parerga y paralipómena",
+    "category": "Filósofía",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Aquel que no conoce su historia está condenado a repetirla",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "historia"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Donde reina el amor, no hay voluntad de poder; y donde predomina el poder, falta el amor",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "El encuentro de dos personalidades es como el contacto de dos sustancias químicas: si hay reacción, ambas se transforman",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "psique"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "El hombre sano no tortura a otros; generalmente son los torturados quienes se convierten en torturadores",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "carácter"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "El privilegio de toda una vida es convertirse en quien realmente eres",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Hasta que lo inconsciente se haga consciente, el subconsciente dirigirá tu vida y tú lo llamarás destino",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "La palabra ‘felicidad’ perdería su significado si no estuviera equilibrada por la tristeza",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "psique"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "La soledad no proviene de no tener gente alrededor, sino de ser incapaz de comunicar las cosas que parecen importantes",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "psique"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Lo que niegas te somete; lo que aceptas te transforma",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "psique"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Los zapatos que le quedan bien a una persona le aprietan a otra; no hay receta para vivir que sirva para todos",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "psique"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "No hay toma de conciencia sin dolor",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "dolor"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "No soy lo que me sucedió, soy lo que elegí ser",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "psique"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Quien mira hacia afuera sueña; quien mira hacia adentro despierta",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "psique"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Todo lo que nos irrita de otros puede llevarnos a una comprensión de nosotros mismos",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Tu visión se volverá clara solo cuando puedas mirar dentro de tu propio corazón",
+    "ref": "Atribuida; fuente no verificada",
+    "category": "Filósofía",
+    "theme": "psique"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "El combate es el único medio eficaz en la guerra",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "El coraje, por encima de todo, es la primera cualidad de un guerrero",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "audacia"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "El objetivo de la guerra es desarmar al enemigo",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "El talento en la guerra consiste en saber manejar la incertidumbre",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "En la guerra, el resultado nunca es definitivo",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "En la guerra, todo es muy simple, pero lo más simple es difícil",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "La defensa es la forma más fuerte de la guerra, pero la ofensiva es la forma decisiva",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "La guerra es el reino de la incertidumbre",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "La guerra es la continuación de la política por otros medios",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "La guerra es un acto de fuerza para obligar al adversario a cumplir nuestra voluntad",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "La guerra no es un mero acto político, sino un verdadero instrumento político, una continuación de las relaciones políticas, una gestión de las mismas por otros medios",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "La incertidumbre es el elemento dominante en la guerra",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "La sorpresa es un elemento importante en la guerra",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Carl von Clausewitz",
+    "quote": "Tres cuartas partes de los factores en los que se basa la acción en la guerra están envueltos en una niebla de mayor o menor incertidumbre",
+    "ref": "De la guerra",
+    "category": "Milicia",
+    "theme": "guerra"
   },
   {
     "author": "Chindasvinto",
     "quote": "El reino se pierde por la indulgencia",
     "ref": "Interpretación historiográfica",
+    "category": "Visigodos",
+    "theme": "reino",
     "type": "paráfrasis",
-    "year": 645,
-    "category": "Visigodos"
+    "year": 645
   },
   {
-    "author": "Ervigio",
-    "quote": "La clemencia es virtud del rey, pero no a costa de la justicia",
-    "ref": "Legislación y actas conciliares",
+    "author": "Chindasvinto",
+    "quote": "Es mejor castigar a los pocos que poner en riesgo a todos",
+    "ref": "Política represiva documentada en crónicas",
+    "category": "Visigodos",
+    "theme": "reino",
     "type": "paráfrasis",
-    "year": 681,
-    "category": "Visigodos"
+    "year": 645
   },
   {
-    "author": "Ervigio",
-    "quote": "El gobierno justo es aquel que corrige sin destruir",
-    "ref": "Interpretación doctrinal visigoda",
-    "type": "paráfrasis",
-    "year": 681,
-    "category": "Visigodos"
+    "author": "Cicerón",
+    "quote": "Cuanto mayor es la dificultad, mayor es la gloria",
+    "ref": "Tusculanae disputationes",
+    "category": "Filósofía",
+    "theme": "virtud"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "El bienestar del pueblo debe ser la ley suprema",
+    "ref": "De legibus",
+    "category": "Filósofía",
+    "theme": "ley"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "La amistad duplica las alegrías y divide las angustias",
+    "ref": "Laelius de amicitia",
+    "category": "Filósofía",
+    "theme": "amistad"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "La gratitud no es solo la mayor de las virtudes, sino la madre de todas las demás",
+    "ref": "Pro Plancio",
+    "category": "Filósofía",
+    "theme": "virtud"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "La ignorancia de la historia condena al hombre a repetirla",
+    "ref": "De oratore",
+    "category": "Filósofía",
+    "theme": "historia"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "La justicia es la reina de todas las virtudes",
+    "ref": "De officiis",
+    "category": "Filósofía",
+    "theme": "ley"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "La libertad no consiste en tener un buen amo, sino en no tenerlo",
+    "ref": "Paradoxa Stoicorum",
+    "category": "Filósofía",
+    "theme": "libertad"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "La paz más desventajosa es mejor que la guerra más justa",
+    "ref": "Filípicas",
+    "category": "Filósofía",
+    "theme": "guerra"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "La salud del pueblo es la ley suprema",
+    "ref": "De legibus",
+    "category": "Filósofía",
+    "theme": "ley"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "La verdad se corrompe tanto con la mentira como con el silencio",
+    "ref": "Discursos",
+    "category": "Filósofía",
+    "theme": "verdad"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "La vida de los muertos perdura en la memoria de los vivos",
+    "ref": "Filípicas",
+    "category": "Filósofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "Mientras hay vida, hay esperanza",
+    "ref": "Ad Atticum",
+    "category": "Filósofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "No basta con alcanzar la sabiduría, es necesario saber utilizarla",
+    "ref": "De officiis",
+    "category": "Filósofía",
+    "theme": "virtud"
+  },
+  {
+    "author": "Cicerón",
+    "quote": "No saber lo que ha sucedido antes de nosotros es como ser niños para siempre",
+    "ref": "Orator",
+    "category": "Filósofía",
+    "theme": "virtud"
+  },
+  {
+    "author": "David Lane",
+    "quote": "Debemos asegurar la existencia de nuestro pueblo y un futuro para los niños blancos",
+    "ref": "Las 14 palabras",
+    "category": "Filósofía",
+    "theme": "identidad",
+    "hardcore": true
+  },
+  {
+    "author": "David Lane",
+    "quote": "El futuro pertenece a quienes luchan por su herencia",
+    "ref": "Writings from prison",
+    "category": "Filósofía",
+    "theme": "identidad",
+    "hardcore": true
+  },
+  {
+    "author": "David Lane",
+    "quote": "La cultura nace de la sangre",
+    "ref": "Writings from prison",
+    "category": "Filósofía",
+    "theme": "identidad",
+    "hardcore": true
+  },
+  {
+    "author": "David Lane",
+    "quote": "La lealtad es el valor supremo de una comunidad",
+    "ref": "Writings from prison",
+    "category": "Filósofía",
+    "theme": "identidad",
+    "hardcore": true
+  },
+  {
+    "author": "David Lane",
+    "quote": "La raza es la base de la identidad",
+    "ref": "Writings from prison",
+    "category": "Filósofía",
+    "theme": "identidad",
+    "hardcore": true
+  },
+  {
+    "author": "David Lane",
+    "quote": "Porque la belleza de la mujer blanca no debe perecer de la Tierra",
+    "ref": "Las 14 palabras",
+    "category": "Filósofía",
+    "theme": "identidad",
+    "hardcore": true
+  },
+  {
+    "author": "David Lane",
+    "quote": "Sin identidad no hay propósito",
+    "ref": "Writings from prison",
+    "category": "Filósofía",
+    "theme": "identidad",
+    "hardcore": true
+  },
+  {
+    "author": "David Lane",
+    "quote": "Un pueblo sin conciencia de sí mismo está condenado a desaparecer",
+    "ref": "Writings from prison",
+    "category": "Filósofía",
+    "theme": "identidad",
+    "hardcore": true
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "C es peculiar en el sentido de que hace fácil hacer cosas difíciles",
+    "ref": "The C Programming Language",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "El código es como el humor. Cuando tienes que explicarlo, es malo",
+    "ref": "Aforismo ampliamente citado",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "El lenguaje C combina el poder de bajo nivel con la expresividad de alto nivel",
+    "ref": "The C Programming Language",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "El software debe ser eficiente, pero también comprensible",
+    "ref": "Entrevistas",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "El software es como el sexo: es mejor cuando es libre",
+    "ref": "Conferencia (anécdota atribuida)",
+    "category": "Informática",
+    "theme": "libertad"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "La compatibilidad hacia atrás es fundamental en los sistemas",
+    "ref": "Entrevistas",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "La programación es como el sexo: un error y tienes que soportarlo el resto de tu vida",
+    "ref": "Aforismo ampliamente citado",
+    "category": "Informática",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "La programación es la habilidad de organizar la complejidad",
+    "ref": "Ensayos sobre programación",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "La programación es una forma de arte, no una ciencia",
+    "ref": "Entrevistas",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "La simplicidad es la clave de un buen diseño",
+    "ref": "Entrevistas",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "La única manera de aprender un nuevo lenguaje de programación es escribiendo programas en él",
+    "ref": "Conferencias y entrevistas",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "Los sistemas deben ser diseñados para evolucionar",
+    "ref": "Ensayos y entrevistas",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "Un buen lenguaje de programación permite expresar las ideas claramente",
+    "ref": "Conferencias",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "Un programa sin errores es un programa que no hace nada",
+    "ref": "Aforismo ampliamente citado",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Dennis Ritchie",
+    "quote": "Unix es básicamente un sistema operativo simple, pero tienes que ser un genio para entender su simplicidad",
+    "ref": "Conferencias y entrevistas",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "Cuidado con los errores en el código anterior; solo he demostrado que es correcto, no que funcione",
+    "ref": "The Art of Computer Programming",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "El análisis de algoritmos es clave para entender su comportamiento",
+    "ref": "The Art of Computer Programming",
+    "category": "Informática",
+    "theme": "ingeniería"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "El código es como el humor. Cuando tienes que explicarlo, es malo",
+    "ref": "Aforismo ampliamente citado",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "El software es como el sexo: es mejor cuando es libre",
+    "ref": "Conferencia (anécdota atribuida)",
+    "category": "Informática",
+    "theme": "libertad"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "La calidad de un programa se mide tanto por su claridad como por su eficiencia",
+    "ref": "Ensayos sobre programación",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "La ciencia de la computación es el arte de enseñar a los ordenadores a hacer lo que queremos",
+    "ref": "Conferencias y ensayos",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "La optimización prematura es la raíz de todos los males",
+    "ref": "Structured Programming with go to Statements",
+    "category": "Informática",
+    "theme": "ingeniería"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "La programación es el arte de organizar la complejidad",
+    "ref": "Ensayos sobre programación",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "La programación es la habilidad de organizar la complejidad",
+    "ref": "Ensayos sobre programación",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "La programación es una forma de arte, no una ciencia",
+    "ref": "Ensayos sobre programación",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "La programación literaria es una forma de pensar y escribir programas como si fueran ensayos",
+    "ref": "Literate Programming",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "La simplicidad y la elegancia son objetivos fundamentales en el diseño de algoritmos",
+    "ref": "The Art of Computer Programming",
+    "category": "Informática",
+    "theme": "ingeniería"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "Los programas están destinados a ser leídos por humanos y solo incidentalmente para ser ejecutados por máquinas",
+    "ref": "The Art of Computer Programming",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "Resolver un problema correctamente es más importante que resolverlo rápidamente",
+    "ref": "The Art of Computer Programming",
+    "category": "Informática",
+    "theme": "ingeniería"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "Un algoritmo debe ser visto como una herramienta para resolver problemas, no como un fin en sí mismo",
+    "ref": "The Art of Computer Programming",
+    "category": "Informática",
+    "theme": "ingeniería"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de sentido único",
+    "ref": "Aforismo ampliamente citado",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "quote": "Un programa sin errores es un programa que no hace nada",
+    "ref": "Aforismo ampliamente citado",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "El avance de la informática ha sido posible gracias a la ignorancia de sus practicantes",
+    "ref": "Ensayos EWD",
+    "category": "Informática",
+    "theme": "claridad"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "El objetivo del cálculo es la comprensión, no los números",
+    "ref": "EWD447",
+    "category": "Informática",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "El uso de COBOL paraliza la mente; su enseñanza debería considerarse un delito",
+    "ref": "EWD498",
+    "category": "Informática",
+    "theme": "claridad"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "La calidad del programador se refleja en la cantidad de código que no escribe",
+    "ref": "Notas y ensayos EWD",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "La claridad es el requisito más importante en el desarrollo de software",
+    "ref": "EWD",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "La enseñanza de la programación debe centrarse en la disciplina del pensamiento",
+    "ref": "EWD1308",
+    "category": "Informática",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "La informática no trata más de ordenadores que la astronomía de telescopios",
+    "ref": "EWD1036",
+    "category": "Informática",
+    "theme": "claridad"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "La pregunta de si las máquinas pueden pensar es tan relevante como la de si los submarinos pueden nadar",
+    "ref": "EWD498",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "La programación es una de las tareas más difíciles que la mente humana puede emprender",
+    "ref": "EWD498",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "La programación estructurada es una disciplina mental",
+    "ref": "EWD249",
+    "category": "Informática",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "La simplicidad es un gran requisito previo para la fiabilidad",
+    "ref": "EWD340",
+    "category": "Informática",
+    "theme": "claridad"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Las pruebas de programas pueden usarse para mostrar la presencia de errores, pero nunca para mostrar su ausencia",
+    "ref": "Notas sobre pruebas de software",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Si la depuración es el proceso de eliminar errores, entonces la programación debe ser el proceso de introducirlos",
+    "ref": "Aforismo ampliamente citado",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "Edsger W. Dijkstra",
+    "quote": "Un programa elegante es un programa que es fácil de demostrar correcto",
+    "ref": "EWD249",
+    "category": "Informática",
+    "theme": "programación"
   },
   {
     "author": "Égico",
     "quote": "El rey debe velar incluso contra los que conspiran en silencio",
     "ref": "Concilios de Toledo (época de Égico)",
+    "category": "Visigodos",
+    "theme": "ley",
     "type": "paráfrasis",
-    "year": 694,
-    "category": "Visigodos"
+    "year": 694
   },
   {
     "author": "Égico",
     "quote": "La traición nace donde la ley se debilita",
     "ref": "Legislación tardovisigoda",
+    "category": "Sin categoría",
+    "theme": "ley",
     "type": "paráfrasis",
     "year": 694
+  },
+  {
+    "author": "Epicteto",
+    "quote": "Cuando te enfades, recuerda que no solo ha ocurrido un daño, sino que has reaccionado mal ante él",
+    "ref": "Discursos",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "De todas las cosas, unas dependen de nosotros y otras no",
+    "ref": "Enquiridión",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "El hombre sabio no se entristece por lo que no tiene, sino que se alegra por lo que tiene",
+    "ref": "Discursos",
+    "category": "Filosofía",
+    "theme": "carácter"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "Es imposible para un hombre aprender aquello que cree que ya sabe",
+    "ref": "Discursos",
+    "category": "Filosofía",
+    "theme": "carácter"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "La dificultad muestra lo que los hombres son",
+    "ref": "Discursos",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "La riqueza no consiste en tener grandes posesiones, sino en tener pocas necesidades",
+    "ref": "Discursos",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "Nadie es libre si no es dueño de sí mismo",
+    "ref": "Discursos",
+    "category": "Filosofía",
+    "theme": "libertad"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "No busques que las cosas sucedan como deseas, sino desea que sucedan como suceden",
+    "ref": "Enquiridión",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "No pretendas que los acontecimientos sucedan como quieres, sino quiere que sucedan como suceden, y serás feliz",
+    "ref": "Enquiridión",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "No son las cosas las que nos perturban, sino los juicios que hacemos sobre ellas",
+    "ref": "Enquiridión",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "Primero di a ti mismo lo que quieres ser; luego haz lo que tengas que hacer",
+    "ref": "Discursos",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "Recuerda que eres actor en una obra, cuya duración es la que el autor quiera",
+    "ref": "Enquiridión",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "Si alguien habla mal de ti, no te defiendas; responde: no sabía que tenía más defectos",
+    "ref": "Discursos",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Epicteto",
+    "quote": "Si quieres mejorar, acepta parecer ignorante o tonto en asuntos externos",
+    "ref": "Enquiridión",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "El coraje es la base de toda virtud",
+    "ref": "Tempestades de acero",
+    "category": "Filosofía",
+    "theme": "audacia"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "El dolor es el gran educador de la humanidad",
+    "ref": "Sobre el dolor",
+    "category": "Filosofía",
+    "theme": "dolor"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "El espíritu se fortalece en la resistencia",
+    "ref": "Sobre el dolor",
+    "category": "Filosofía",
+    "theme": "carácter"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "El hombre libre es aquel que permanece fiel a sí mismo en cualquier circunstancia",
+    "ref": "Eumeswil",
+    "category": "Filosofía",
+    "theme": "libertad"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "El orden interior es la base de todo orden exterior",
+    "ref": "El trabajador",
+    "category": "Filosofía",
+    "theme": "orden"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "El peligro es el elemento en el que vivimos",
+    "ref": "Tempestades de acero",
+    "category": "Filosofía",
+    "theme": "carácter"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "El tiempo revela la esencia de las cosas",
+    "ref": "Diarios",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "En los momentos extremos, el hombre descubre su verdadera naturaleza",
+    "ref": "Tempestades de acero",
+    "category": "Filosofía",
+    "theme": "carácter"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "La aventura es la esencia de la vida",
+    "ref": "Tempestades de acero",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "La disciplina es el camino hacia la libertad",
+    "ref": "El trabajador",
+    "category": "Filosofía",
+    "theme": "libertad"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "La guerra es una experiencia interior",
+    "ref": "Tempestades de acero",
+    "category": "Filosofía",
+    "theme": "guerra"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "La libertad es la obediencia a la propia ley interior",
+    "ref": "El trabajador",
+    "category": "Filosofía",
+    "theme": "libertad"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "La seguridad es la mayor enemiga de la libertad",
+    "ref": "Eumeswil",
+    "category": "Filosofía",
+    "theme": "guerra"
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "La técnica es la movilización total del mundo",
+    "ref": "La movilización total",
+    "category": "Filosofía",
+    "theme": "tecnología"
+  },
+  {
+    "author": "Ervigio",
+    "quote": "El gobierno justo es aquel que corrige sin destruir",
+    "ref": "Interpretación doctrinal visigoda",
+    "category": "Visigodos",
+    "theme": "ley",
+    "type": "paráfrasis",
+    "year": 681
+  },
+  {
+    "author": "Ervigio",
+    "quote": "La clemencia es virtud del rey, pero no a costa de la justicia",
+    "ref": "Legislación y actas conciliares",
+    "category": "Visigodos",
+    "theme": "ley",
+    "type": "paráfrasis",
+    "year": 681
+  },
+  {
+    "author": "Federico II de Prusia",
+    "quote": "El arte de la guerra consiste en ser más fuerte que el enemigo en el punto decisivo",
+    "ref": "Instrucciones militares",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Federico II de Prusia",
+    "quote": "El ejemplo no es la principal manera de influir sobre los demás; es la única",
+    "ref": "Atribuida; origen discutido",
+    "category": "Milicia",
+    "theme": "estrategia"
+  },
+  {
+    "author": "Federico II de Prusia",
+    "quote": "El soldado debe temer más a sus oficiales que al enemigo",
+    "ref": "Atribuida; disciplina prusiana",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Federico II de Prusia",
+    "quote": "La diplomacia es la continuación de la guerra por otros medios",
+    "ref": "Atribuida; antecedente conceptual",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Federico II de Prusia",
+    "quote": "La disciplina es el alma de los ejércitos",
+    "ref": "Atribuida; doctrina militar",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Federico II de Prusia",
+    "quote": "La rapidez es la esencia de la guerra",
+    "ref": "Instrucciones militares",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Federico II de Prusia",
+    "quote": "Quien defiende todo, no defiende nada",
+    "ref": "Atribuida; doctrina estratégica",
+    "category": "Milicia",
+    "theme": "estrategia"
+  },
+  {
+    "author": "Federico II de Prusia",
+    "quote": "Un ejército marcha sobre su estómago",
+    "ref": "Atribuida; máxima militar",
+    "category": "Milicia",
+    "theme": "estrategia"
+  },
+  {
+    "author": "Ferdinand Porsche",
+    "quote": "El coche perfecto aún no existe; siempre se puede mejorar",
+    "ref": "Atribuida; origen no confirmado",
+    "category": "IngAutomotriz",
+    "theme": "diseño"
+  },
+  {
+    "author": "Ferdinand Porsche",
+    "quote": "El diseño debe ser funcional y la funcionalidad debe traducirse en estética",
+    "ref": "Atribuida; origen no confirmado",
+    "category": "IngAutomotriz",
+    "theme": "diseño"
+  },
+  {
+    "author": "Ferdinand Porsche",
+    "quote": "No  encontrar el coche deportivo de mis sueños, así que lo construí yo mismo",
+    "ref": "Atribuida; origen no confirmado",
+    "category": "IngAutomotriz",
+    "theme": "diseño"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Aquel que tiene un porqué para vivir puede soportar casi cualquier cómo",
+    "ref": "El ocaso de los ídolos",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Dios ha muerto",
+    "ref": "La gaya ciencia",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "El camino hacia todas las cosas grandes pasa por el silencio",
+    "ref": "Fragmentos póstumos",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "El hombre es algo que debe ser superado",
+    "ref": "Así habló Zaratustra",
+    "category": "Filosofía",
+    "theme": "carácter"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "El individuo siempre ha tenido que luchar para no ser absorbido por la tribu",
+    "ref": "Así habló Zaratustra",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Hay que llevar en sí mismo un caos para poder dar a luz una estrella danzante",
+    "ref": "Así habló Zaratustra",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "La esperanza es el peor de los males, pues prolonga el tormento del hombre",
+    "ref": "Humano, demasiado humano",
+    "category": "Filosofía",
+    "theme": "carácter"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Lo que no me mata, me hace más fuerte",
+    "ref": "El ocaso de los ídolos",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "No hay hechos, solo interpretaciones",
+    "ref": "Fragmentos póstumos",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Quien lucha con monstruos debe tener cuidado de no convertirse en uno",
+    "ref": "Más allá del bien y del mal",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Quien no sabe obedecer a sí mismo será mandado",
+    "ref": "Así habló Zaratustra",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo",
+    "ref": "El ocaso de los ídolos",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Sin música, la vida sería un error",
+    "ref": "El ocaso de los ídolos",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Y cuando miras largo tiempo a un abismo, el abismo también mira dentro de ti",
+    "ref": "Más allá del bien y del mal",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "El dinero es como un brazo o una pierna: úsalo o piérdelo",
+    "ref": "Atribuida; sin fuente clara",
+    "category": "IngAutomotriz",
+    "theme": "industria"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de forma más inteligente",
+    "ref": "My Life and Work",
+    "category": "IngAutomotriz",
+    "theme": "industria"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "El progreso real ocurre cuando los beneficios de una nueva tecnología se vuelven accesibles para todos",
+    "ref": "Ideas derivadas de su filosofía industrial",
+    "category": "IngAutomotriz",
+    "theme": "tecnología"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "El único error real es aquel del que no aprendemos nada",
+    "ref": "Atribuida; sin fuente clara",
+    "category": "IngAutomotriz",
+    "theme": "industria"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "La calidad significa hacer bien las cosas incluso cuando nadie está mirando",
+    "ref": "Atribuida; sin fuente clara",
+    "category": "IngAutomotriz",
+    "theme": "industria"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "La visión sin ejecución es solo alucinación",
+    "ref": "Atribuida; sin fuente clara",
+    "category": "IngAutomotriz",
+    "theme": "industria"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "Nada es particularmente difícil si lo divides en pequeños trabajos",
+    "ref": "Atribuida; sin fuente clara",
+    "category": "IngAutomotriz",
+    "theme": "industria"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "No encuentres la falta, encuentra el remedio",
+    "ref": "Atribuida; sin fuente clara",
+    "category": "IngAutomotriz",
+    "theme": "industria"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "Pensar es el trabajo más difícil que existe. Quizá por eso tan pocos se dedican a ello",
+    "ref": "Atribuida; sin fuente clara",
+    "category": "IngAutomotriz",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "Reunirse es un comienzo; permanecer juntos es un progreso; trabajar juntos es el éxito",
+    "ref": "Atribuida; sin fuente clara",
+    "category": "IngAutomotriz",
+    "theme": "industria"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "Tanto si crees que puedes como si crees que no puedes, estás en lo cierto",
+    "ref": "Atribuida; sin fuente clara",
+    "category": "IngAutomotriz",
+    "theme": "industria"
+  },
+  {
+    "author": "Henry Ford",
+    "quote": "Un negocio que solo gana dinero es un negocio pobre",
+    "ref": "My Life and Work",
+    "category": "IngAutomotriz",
+    "theme": "industria"
+  },
+  {
+    "author": "Hugo Junkers",
+    "quote": "El metal es el futuro de la aviación",
+    "ref": "Atribuida; relacionada con sus desarrollos en estructuras metálicas",
+    "category": "IngAeronáutica",
+    "theme": "ingeniería"
+  },
+  {
+    "author": "Hugo Junkers",
+    "quote": "El progreso técnico es el resultado del pensamiento libre y la innovación",
+    "ref": "Atribuida; origen no confirmado",
+    "category": "IngAeronáutica",
+    "theme": "libertad"
+  },
+  {
+    "author": "Hugo Junkers",
+    "quote": "La aviación debe ser segura, eficiente y accesible",
+    "ref": "Atribuida; origen no confirmado",
+    "category": "IngAeronáutica",
+    "theme": "ingeniería"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "Dos cosas llenan el ánimo de admiración y respeto siempre nuevos y crecientes: el cielo estrellado sobre mí y la ley moral en mí",
+    "ref": "Crítica de la razón práctica",
+    "category": "Filosofía",
+    "theme": "ley"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "El entendimiento no puede intuir nada, y los sentidos no pueden pensar nada",
+    "ref": "Crítica de la razón pura",
+    "category": "Filosofía",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "El hombre es un fin en sí mismo, nunca un medio",
+    "ref": "Fundamentación de la metafísica de las costumbres",
+    "category": "Filosofía",
+    "theme": "carácter"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "La autonomía de la voluntad es el principio supremo de la moralidad",
+    "ref": "Fundamentación de la metafísica de las costumbres",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "La experiencia sin teoría es ciega, pero la teoría sin experiencia es mera especulación",
+    "ref": "Crítica de la razón pura",
+    "category": "Filosofía",
+    "theme": "moral"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "La ilustración es la salida del hombre de su minoría de edad, de la cual él mismo es culpable",
+    "ref": "¿Qué es la Ilustración?",
+    "category": "Filosofía",
+    "theme": "carácter"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "La libertad es aquella propiedad de la voluntad por la cual puede ser eficaz independientemente de causas externas",
+    "ref": "Crítica de la razón práctica",
+    "category": "Filosofía",
+    "theme": "libertad"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "La moral no es la doctrina de cómo hacernos felices, sino de cómo debemos hacernos dignos de la felicidad",
+    "ref": "Crítica de la razón práctica",
+    "category": "Filosofía",
+    "theme": "moral"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "La paz perpetua no es una idea vacía, sino una tarea que debe realizarse progresivamente",
+    "ref": "La paz perpetua",
+    "category": "Filosofía",
+    "theme": "paz"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "Obra solo según aquella máxima por la cual puedas querer al mismo tiempo que se convierta en ley universal",
+    "ref": "Fundamentación de la metafísica de las costumbres",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "Pensamientos sin contenido son vacíos; intuiciones sin conceptos son ciegas",
+    "ref": "Crítica de la razón pura",
+    "category": "Filosofía",
+    "theme": "moral"
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "Sapere aude! Ten el valor de servirte de tu propio entendimiento",
+    "ref": "¿Qué es la Ilustración?",
+    "category": "Filosofía",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "Cualquier persona que considere métodos aritméticos para producir números aleatorios está, por supuesto, en pecado",
+    "ref": "Conferencia sobre métodos numéricos",
+    "category": "Informática",
+    "theme": "cálculo"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "El mejor modelo de un gato es otro gato, o mejor aún, el mismo gato",
+    "ref": "Aforismo citado en teoría de sistemas",
+    "category": "Informática",
+    "theme": "cálculo"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "El peligro no es que las máquinas comiencen a pensar como humanos, sino que los humanos comiencen a pensar como máquinas",
+    "ref": "Aforismo atribuido",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "El problema no es si las máquinas pueden pensar, sino si los humanos pueden hacerlo mejor",
+    "ref": "Ensayos sobre computación",
+    "category": "Informática",
+    "theme": "programación"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "El progreso de la tecnología depende de nuestra capacidad para organizar la complejidad",
+    "ref": "Ensayos y conferencias",
+    "category": "Informática",
+    "theme": "tecnología"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "En la naturaleza no hay problemas irresolubles, solo problemas mal planteados",
+    "ref": "Aforismo atribuido",
+    "category": "Informática",
+    "theme": "cálculo"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "En matemáticas no se entienden las cosas, simplemente uno se acostumbra a ellas",
+    "ref": "Aforismo ampliamente citado",
+    "category": "Informática",
+    "theme": "cálculo"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "La juventud tiene la ventaja de ver las cosas con claridad; la madurez, de comprender su complejidad",
+    "ref": "Aforismo atribuido",
+    "category": "Informática",
+    "theme": "cálculo"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "La lógica te llevará de A a B; la imaginación te llevará a cualquier parte",
+    "ref": "Aforismo erróneamente atribuido",
+    "category": "Informática",
+    "theme": "creatividad"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "Las ciencias no intentan explicar, apenas intentan modelar",
+    "ref": "Aforismo ampliamente citado",
+    "category": "Informática",
+    "theme": "cálculo"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "Si la gente no cree que las matemáticas son simples, es solo porque no se dan cuenta de lo complicada que es la vida",
+    "ref": "Aforismo ampliamente citado",
+    "category": "Informática",
+    "theme": "tiempo"
+  },
+  {
+    "author": "John von Neumann",
+    "quote": "Toda la estabilidad del mundo moderno depende de un delicado equilibrio de poder",
+    "ref": "Reflexiones sobre estrategia nuclear",
+    "category": "Informática",
+    "theme": "cálculo"
+  },
+  {
+    "author": "Leovigildo",
+    "quote": "El rey debe ser señor de todos, no esclavo de ninguno",
+    "ref": "Tradición historiográfica visigoda",
+    "category": "Visigodos",
+    "theme": "reino",
+    "type": "paráfrasis",
+    "year": 580
+  },
+  {
+    "author": "Leovigildo",
+    "quote": "La autoridad del rey dimana de Dios y se ejerce para mantener el orden",
+    "ref": "Ideología regia visigoda (crónicas)",
+    "category": "Visigodos",
+    "theme": "orden",
+    "type": "paráfrasis",
+    "year": 580
+  },
+  {
+    "author": "Leovigildo",
+    "quote": "Un solo reino no puede sostenerse con leyes diversas",
+    "ref": "Reformas de unificación legal y territorial",
+    "category": "Visigodos",
+    "theme": "reino",
+    "type": "paráfrasis",
+    "year": 580
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "Acepta las cosas a las que te ata el destino y ama a las personas con las que te ha reunido, pero hazlo de todo corazón",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "Cuando te levantes por la mañana, piensa en el privilegio de estar vivo, de pensar, de disfrutar, de amar",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "El alma se tiñe del color de sus pensamientos",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "El impedimento para la acción avanza la acción. Lo que se interpone en el camino se convierte en el camino",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "La felicidad de tu vida depende de la calidad de tus pensamientos",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "La mejor venganza es no parecerse a quien causó el daño",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "Mira dentro de ti. Dentro está la fuente del bien, y siempre puede brotar si siempre excavamos",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "No actúes como si fueras a vivir diez mil años. La muerte se cierne sobre ti. Mientras vivas, mientras esté en tu poder, sé bueno",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "No pierdas más tiempo discutiendo sobre cómo debe ser un buen hombre. Sé uno",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "Nuestra vida es lo que nuestros pensamientos hacen de ella",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "Piensa en ti mismo como muerto. Ya has vivido tu vida. Ahora toma lo que queda y vívelo correctamente",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "Si algo no es correcto, no lo hagas; si no es verdad, no lo digas",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "verdad"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Date cuenta de esto y encontrarás la fuerza",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Marco Aurelio",
+    "quote": "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad",
+    "ref": "Meditaciones",
+    "category": "Filosofía",
+    "theme": "verdad"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "Cada vez que te encuentres del lado de la mayoría, es momento de hacer una pausa y reflexionar",
+    "ref": "Cuaderno, 1904",
+    "category": "Literatura",
+    "theme": "ironía"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "Consigue primero los hechos; luego podrás distorsionarlos como quieras",
+    "ref": "Siguiendo el ecuador",
+    "category": "Literatura",
+    "theme": "ironía"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "El hombre que no lee no tiene ninguna ventaja sobre el que no sabe leer",
+    "ref": "Atribuida; sin fuente segura",
+    "category": "Literatura",
+    "theme": "carácter"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "El perdón es la fragancia que la violeta deja en el talón que la ha aplastado",
+    "ref": "Atribuida; sin fuente segura",
+    "category": "Literatura",
+    "theme": "ironía"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "Es mejor mantener la boca cerrada y parecer un tonto que abrirla y disipar toda duda",
+    "ref": "Atribuida; sin fuente segura",
+    "category": "Literatura",
+    "theme": "ironía"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "Hay mentiras, malditas mentiras y estadísticas",
+    "ref": "Capítulos de mi autobiografía",
+    "category": "Literatura",
+    "theme": "ironía"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "La ropa hace al hombre. Las personas desnudas tienen poca o ninguna influencia en la sociedad",
+    "ref": "Siguiendo el ecuador",
+    "category": "Literatura",
+    "theme": "carácter"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "La verdad es más extraña que la ficción, pero es porque la ficción está obligada a ceñirse a lo posible; la verdad no",
+    "ref": "Siguiendo el ecuador",
+    "category": "Literatura",
+    "theme": "verdad"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "Los rumores sobre mi muerte han sido muy exagerados",
+    "ref": "Respuesta a un rumor, 1897",
+    "category": "Literatura",
+    "theme": "ironía"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "Nunca he dejado que mi escolarización interfiera con mi educación",
+    "ref": "Atribuida; sin fuente segura",
+    "category": "Literatura",
+    "theme": "ironía"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "Si dices la verdad, no tienes que recordar nada",
+    "ref": "Atribuida; sin fuente segura",
+    "category": "Literatura",
+    "theme": "verdad"
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "Viajar es fatal para los prejuicios, la intolerancia y la estrechez de mente",
+    "ref": "Los inocentes en el extranjero",
+    "category": "Literatura",
+    "theme": "ironía"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "Acepta todo tal como es",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "No albergues intenciones en tus acciones ni apego en tus pensamientos",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "No busques el placer por sí mismo",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "No busques poseer bienes para tu vejez",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "No dependas de un sentimiento parcial",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "No hay nada fuera de ti mismo que pueda hacerte mejor, más fuerte, más rico o más rápido",
+    "ref": "Libro de los cinco anillos",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "No tengas apego por la vida ni temor a la muerte",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "No tengas preferencias en nada",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "Nunca te apartes del camino",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "Piensa con ligereza en ti mismo y profundamente en el mundo",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "Puedes abandonar tu propio cuerpo, pero debes preservar tu honor",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Miyamoto Musashi",
+    "quote": "Respeta a los dioses y a los budas, pero no dependas de ellos",
+    "ref": "Dokkōdō",
+    "category": "Milicia",
+    "theme": "disciplina"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "El cesarismo es el destino final de toda democracia",
+    "ref": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "El dinero domina la democracia",
+    "ref": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "decadencia"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "El optimismo es cobardía",
+    "ref": "El hombre y la técnica",
+    "category": "Filosofía",
+    "theme": "decadencia"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "El pensamiento abstracto es signo de decadencia",
+    "ref": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "decadencia"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "La civilización es el ocaso de la cultura",
+    "ref": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "historia"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "La historia universal es la historia de las grandes culturas",
+    "ref": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "historia"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "La libertad es un concepto relativo en el seno de la historia",
+    "ref": "Años decisivos",
+    "category": "Filosofía",
+    "theme": "libertad"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "La política es la forma de la historia en acción",
+    "ref": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "historia"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "La técnica es la táctica de la vida",
+    "ref": "El hombre y la técnica",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "La vida es lucha, y la lucha es la esencia de la vida",
+    "ref": "El hombre y la técnica",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "Las civilizaciones son los destinos inevitables de las culturas",
+    "ref": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "historia"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "Las grandes decisiones históricas no las toman las mayorías",
+    "ref": "Años decisivos",
+    "category": "Filosofía",
+    "theme": "decadencia"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "Las masas son ciegas ante el destino",
+    "ref": "Años decisivos",
+    "category": "Filosofía",
+    "theme": "voluntad"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "Toda cultura tiene su propia alma",
+    "ref": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "decadencia"
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "El combate exige claridad mental bajo presión extrema",
+    "ref": "Atribuida; memorias",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "El enemigo más peligroso es aquel que subestimas",
+    "ref": "Atribuida; memorias",
+    "category": "Milicia",
+    "theme": "guerra",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "El entrenamiento duro hace que la realidad sea más fácil",
+    "ref": "Atribuida; entrevistas",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "El éxito de una misión depende de la coordinación y la confianza mutua",
+    "ref": "Atribuida; doctrina personal",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "El éxito pertenece a quienes se atreven a actuar",
+    "ref": "Atribuida; entrevistas",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "El liderazgo se demuestra en la acción, no en las palabras",
+    "ref": "Atribuida; memorias",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "El valor sin inteligencia es inútil; la inteligencia sin valor, estéril",
+    "ref": "Atribuida; entrevistas",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "En la guerra, la sorpresa vale más que la fuerza",
+    "ref": "Atribuida; principios operativos",
+    "category": "Milicia",
+    "theme": "guerra",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "La audacia es la clave del éxito en operaciones especiales",
+    "ref": "Atribuida; memorias y entrevistas",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "La confianza en uno mismo es una fuerza decisiva",
+    "ref": "Atribuida; entrevistas",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "La determinación supera a menudo a los medios materiales",
+    "ref": "Atribuida; memorias",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "La disciplina y la iniciativa deben coexistir en el combatiente",
+    "ref": "Atribuida; doctrina personal",
+    "category": "Milicia",
+    "theme": "disciplina",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "La guerra favorece a quienes toman decisiones rápidas",
+    "ref": "Atribuida; entrevistas",
+    "category": "Milicia",
+    "theme": "guerra",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "La iniciativa individual puede cambiar el curso de una operación",
+    "ref": "Atribuida; doctrina personal",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "La moral de la tropa es tan importante como su armamento",
+    "ref": "Atribuida; observaciones",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "La preparación rigurosa permite la improvisación efectiva",
+    "ref": "Atribuida; entrevistas",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "La velocidad y la decisión son armas tan poderosas como cualquier otra",
+    "ref": "Atribuida; doctrina personal",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "Los planes deben ser simples para poder ejecutarse en el caos",
+    "ref": "Atribuida; principios operativos",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "No hay misiones imposibles, solo hombres que no están dispuestos a intentarlas",
+    "ref": "Atribuida; memorias",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto Skorzeny",
+    "quote": "Una operación bien planificada reduce el papel del azar",
+    "ref": "Atribuida; principios tácticos",
+    "category": "Milicia",
+    "theme": "audacia",
+    "hardcore": true
+  },
+  {
+    "author": "Otto von Bismarck",
+    "quote": "El secreto de la política es hacer un buen tratado con Rusia",
+    "ref": "Atribuida; correspondencia",
+    "category": "Milicia",
+    "theme": "política"
+  },
+  {
+    "author": "Otto von Bismarck",
+    "quote": "La diplomacia sin armas es como la música sin instrumentos",
+    "ref": "Atribuida; ampliamente citada",
+    "category": "Milicia",
+    "theme": "realpolitik"
+  },
+  {
+    "author": "Otto von Bismarck",
+    "quote": "La política es el arte de lo posible",
+    "ref": "Atribuida; ampliamente citada",
+    "category": "Milicia",
+    "theme": "política"
+  },
+  {
+    "author": "Otto von Bismarck",
+    "quote": "Las leyes son como las salchichas: es mejor no ver cómo se hacen",
+    "ref": "Atribuida; origen discutido",
+    "category": "Milicia",
+    "theme": "realpolitik"
+  },
+  {
+    "author": "Otto von Bismarck",
+    "quote": "Los grandes problemas de nuestro tiempo no se resolverán con discursos y votaciones, sino con hierro y sangre",
+    "ref": "Discurso de 1862",
+    "category": "Milicia",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Otto von Bismarck",
+    "quote": "Nunca se miente tanto como antes de las elecciones, durante la guerra y después de la caza",
+    "ref": "Atribuida; ampliamente citada",
+    "category": "Milicia",
+    "theme": "guerra"
+  },
+  {
+    "author": "Otto von Bismarck",
+    "quote": "Quien controla Prusia controla Alemania",
+    "ref": "Atribuida; contexto político",
+    "category": "Milicia",
+    "theme": "política"
+  },
+  {
+    "author": "Otto von Bismarck",
+    "quote": "Un estadista debe esperar hasta oír los pasos de Dios a través de los acontecimientos",
+    "ref": "Atribuida; memorias",
+    "category": "Milicia",
+    "theme": "política"
+  },
+  {
+    "author": "Recaredo I",
+    "quote": "Deseo que mi pueblo siga la misma fe que yo profeso",
+    "ref": "III Concilio de Toledo",
+    "category": "Visigodos",
+    "theme": "fe",
+    "type": "literal",
+    "year": 589
+  },
+  {
+    "author": "Recaredo I",
+    "quote": "No quiero reinar sobre herejes, sino sobre fieles",
+    "ref": "Actas conciliares (formulación doctrinal)",
+    "category": "Visigodos",
+    "theme": "fe",
+    "type": "paráfrasis",
+    "year": 589
+  },
+  {
+    "author": "Recaredo I",
+    "quote": "Renuncio al error de Arrio y confieso la fe católica",
+    "ref": "III Concilio de Toledo",
+    "category": "Visigodos",
+    "theme": "fe",
+    "type": "literal",
+    "year": 589
+  },
+  {
+    "author": "Recesvinto",
+    "quote": "El rey está sujeto a la ley como el súbdito",
+    "ref": "Liber Iudiciorum",
+    "category": "Visigodos",
+    "theme": "ley",
+    "type": "paráfrasis fiel",
+    "year": 654
+  },
+  {
+    "author": "Recesvinto",
+    "quote": "La justicia debe ser igual para todos",
+    "ref": "Liber Iudiciorum",
+    "category": "Visigodos",
+    "theme": "ley",
+    "type": "paráfrasis fiel",
+    "year": 654
+  },
+  {
+    "author": "Recesvinto",
+    "quote": "La ley es la medida del reino",
+    "ref": "Liber Iudiciorum",
+    "category": "Visigodos",
+    "theme": "ley",
+    "type": "paráfrasis",
+    "year": 654
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "El placer de descubrir cosas es una de las mayores alegrías de la vida",
+    "ref": "The Pleasure of Finding Things Out",
+    "category": "Física",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "El primer principio es que no debes engañarte a ti mismo, y tú eres la persona más fácil de engañar",
+    "ref": "Cargo Cult Science (discurso, Caltech, 1974)",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "La ciencia es la creencia en la ignorancia de los expertos",
+    "ref": "The Pleasure of Finding Things Out",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "La duda es una parte esencial de la ciencia",
+    "ref": "The Meaning of It All",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "La física es como el sexo: puede dar resultados prácticos, pero no es por eso que la hacemos",
+    "ref": "Conferencia (anécdota atribuida)",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "La naturaleza no se deja engañar",
+    "ref": "Cargo Cult Science (discurso, Caltech, 1974)",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "Lo que no puedo crear, no lo entiendo",
+    "ref": "Cuadernos personales",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "No debes engañarte a ti mismo, y eres la persona más fácil de engañar",
+    "ref": "Cargo Cult Science (discurso, Caltech, 1974)",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "No hay nada tan importante como ver las cosas por uno mismo",
+    "ref": "Surely You're Joking, Mr. Feynman!",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "No sé nada con certeza, pero sé que no sé nada con certeza",
+    "ref": "The Pleasure of Finding Things Out",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "Nunca confundas la facilidad de uso con la comprensión real",
+    "ref": "Lectures on Physics (ideas derivadas)",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "Prefiero tener preguntas que no pueden responderse que respuestas que no pueden cuestionarse",
+    "ref": "The Pleasure of Finding Things Out",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "Puedes conocer el nombre de algo en todos los idiomas del mundo, pero cuando termines, no sabrás absolutamente nada sobre el animal",
+    "ref": "What Do You Care What Other People Think?",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Richard Feynman",
+    "quote": "Si piensas que entiendes la mecánica cuántica, es que no entiendes la mecánica cuántica",
+    "ref": "The Character of Physical Law",
+    "category": "Física",
+    "theme": "conocimiento"
+  },
+  {
+    "author": "Séneca",
+    "quote": "El hombre valiente es libre",
+    "ref": "Cartas a Lucilio",
+    "category": "Filosofía",
+    "theme": "libertad"
+  },
+  {
+    "author": "Séneca",
+    "quote": "El mayor obstáculo para vivir es la espera",
+    "ref": "Cartas a Lucilio",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Séneca",
+    "quote": "La dificultad fortalece el ánimo, como el trabajo fortalece el cuerpo",
+    "ref": "Cartas a Lucilio",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Séneca",
+    "quote": "La fortuna no existe: existe el momento en que el talento se encuentra con la oportunidad",
+    "ref": "Atribuida; sin fuente segura",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Séneca",
+    "quote": "La vida es larga si sabes usarla",
+    "ref": "De brevitate vitae",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Séneca",
+    "quote": "Ningún viento es favorable para quien no sabe a qué puerto se dirige",
+    "ref": "Cartas a Lucilio",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Séneca",
+    "quote": "No es que tengamos poco tiempo, sino que perdemos mucho",
+    "ref": "De brevitate vitae",
+    "category": "Filosofía",
+    "theme": "tiempo"
+  },
+  {
+    "author": "Séneca",
+    "quote": "No nos atrevemos a muchas cosas porque son difíciles, pero son difíciles porque no nos atrevemos",
+    "ref": "Cartas a Lucilio",
+    "category": "Filosofía",
+    "theme": "estoicismo"
+  },
+  {
+    "author": "Séneca",
+    "quote": "Quien teme al sufrimiento ya sufre por lo que teme",
+    "ref": "Cartas a Lucilio",
+    "category": "Filosofía",
+    "theme": "dolor"
+  },
+  {
+    "author": "Séneca",
+    "quote": "Sufrimos más en la imaginación que en la realidad",
+    "ref": "Cartas a Lucilio",
+    "category": "Filosofía",
+    "theme": "dolor"
+  },
+  {
+    "author": "Sisebuto",
+    "quote": "El mundo es breve, la gloria pasajera y la muerte segura",
+    "ref": "Epístolas y escritos atribuidos",
+    "category": "Visigodos",
+    "theme": "reino",
+    "type": "casi literal",
+    "year": 615
+  },
+  {
+    "author": "Sisebuto",
+    "quote": "El poder sin virtud es sombra sin sustancia",
+    "ref": "Tradición literaria posterior",
+    "category": "Visigodos",
+    "theme": "reino",
+    "type": "paráfrasis",
+    "year": 615
+  },
+  {
+    "author": "Sisebuto",
+    "quote": "Nada permanece sino aquello que se eleva hacia Dios",
+    "ref": "Literatura religiosa visigoda",
+    "category": "Visigodos",
+    "theme": "reino",
+    "type": "paráfrasis",
+    "year": 615
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "El control del comportamiento humano es una consecuencia inevitable del progreso tecnológico",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "El desarrollo tecnológico no puede detenerse sin una ruptura del sistema social",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "El individuo tiene cada vez menos control sobre su propia vida",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tiempo",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "El progreso tecnológico es inevitable solo si nadie se opone a él",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "El sistema no existe para satisfacer las necesidades humanas; son los humanos quienes existen para satisfacer las necesidades del sistema",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "El sistema requiere conformidad y castiga la desviación",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "El sistema tecnológico-industrial puede sobrevivir o no, pero la libertad humana no puede sobrevivir dentro de él",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "libertad",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "La autonomía personal se ve reducida a medida que el sistema crece",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "La libertad y la dignidad humanas no pueden mantenerse en un sistema altamente organizado y tecnificado",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "libertad",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "La Revolución Industrial y sus consecuencias han sido un desastre para la raza humana",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "La sobre-socialización es una de las principales causas de infelicidad en la sociedad moderna",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "La sociedad industrial crea problemas que luego pretende resolver con más tecnología",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "La sociedad moderna somete a los individuos a condiciones para las cuales no están adaptados",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Ted Kaczynski",
+    "quote": "La tecnología moderna es un sistema unificado en el que todas las partes dependen unas de otras",
+    "ref": "La sociedad industrial y su futuro",
+    "category": "Filosofía",
+    "theme": "tecnología",
+    "hardcore": true
+  },
+  {
+    "author": "Wernher von Braun",
+    "quote": "Apunto a las estrellas, pero a veces doy en Londres",
+    "ref": "Atribuida; comentario irónico posterior a la guerra",
+    "category": "IngAeroespacial",
+    "theme": "exploración"
+  },
+  {
+    "author": "Wernher von Braun",
+    "quote": "La ciencia de cohetes no es difícil; lo difícil es que funcione de forma fiable",
+    "ref": "Atribuida; entrevistas",
+    "category": "IngAeroespacial",
+    "theme": "exploración"
+  },
+  {
+    "author": "Wernher von Braun",
+    "quote": "La investigación es lo que hago cuando no sé lo que estoy haciendo",
+    "ref": "Atribuida; ampliamente citada",
+    "category": "IngAeroespacial",
+    "theme": "exploración"
+  },
+  {
+    "author": "Wernher von Braun",
+    "quote": "Lo importante es el futuro de la exploración espacial, no el pasado",
+    "ref": "Atribuida; entrevistas",
+    "category": "IngAeroespacial",
+    "theme": "exploración"
+  },
+  {
+    "author": "Willy Messerschmitt",
+    "quote": "Cada gramo cuenta cuando se vuela",
+    "ref": "Atribuida; origen no confirmado",
+    "category": "IngAeronáutica",
+    "theme": "ingeniería"
+  },
+  {
+    "author": "Willy Messerschmitt",
+    "quote": "El diseño debe adaptarse a la misión",
+    "ref": "Atribuida; principio de ingeniería",
+    "category": "IngAeronáutica",
+    "theme": "ingeniería"
+  },
+  {
+    "author": "Willy Messerschmitt",
+    "quote": "La ligereza es la clave del rendimiento en aviación",
+    "ref": "Atribuida; principio de diseño",
+    "category": "IngAeronáutica",
+    "theme": "ingeniería"
   }
 ]
