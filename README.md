@@ -45,6 +45,11 @@ git clone https://github.com/alejandro-ex-machina/quotes.git
 
 ```shell
 python ~/src/quotes/getquote.py
+python ~/src/quotes/getquote.py --category=Filosofía
+python ~/src/quotes/getquote.py --author=Epicteto
+python ~/src/quotes/getquote.py --category=Informática --author=Donald\ E.\ Knuth
+python ~/src/quotes/getquote.py --list-autors
+python ~/src/quotes/getquote.py --list_categories
 ```
 
 ## Salida esperada
