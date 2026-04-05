@@ -36,13 +36,9 @@ def parse_args(argv):
     for arg in argv[1:]:
         if arg.startswith("--category="):
             category_filter = arg.split("=", 1)[1].strip()
-        elif arg.startswith("--suthor="):   # soporta el nombre que has pedido
-            author_filter = arg.split("=", 1)[1].strip()
         elif arg.startswith("--author="):   # alias sensato
             author_filter = arg.split("=", 1)[1].strip()
-        elif arg == "--list-autors":        # respetando tu nombre pedido
-            list_authors = True
-        elif arg == "--list-authors":       # alias correcto
+        elif arg == "--list_authors":       # alias correcto
             list_authors = True
         elif arg == "--list_categories":
             list_categories = True
