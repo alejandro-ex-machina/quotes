@@ -2105,4 +2105,147 @@
     "ref": "A Study of History",
     "category": "Filosofía"
   }
+  {
+    "author": "Leovigildo",
+    "quote": "El rey debe ser señor de todos, no esclavo de ninguno",
+    "ref": "Tradición historiográfica visigoda",
+    "type": "paráfrasis",
+    "year": 580,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Leovigildo",
+    "quote": "Un solo reino no puede sostenerse con leyes diversas",
+    "ref": "Reformas de unificación legal y territorial",
+    "type": "paráfrasis",
+    "year": 580,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Leovigildo",
+    "quote": "La autoridad del rey dimana de Dios y se ejerce para mantener el orden",
+    "ref": "Ideología regia visigoda (crónicas)",
+    "type": "paráfrasis",
+    "year": 580,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Recaredo I",
+    "quote": "Renuncio al error de Arrio y confieso la fe católica",
+    "ref": "III Concilio de Toledo",
+    "type": "literal",
+    "year": 589,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Recaredo I",
+    "quote": "Deseo que mi pueblo siga la misma fe que yo profeso",
+    "ref": "III Concilio de Toledo",
+    "type": "literal",
+    "year": 589,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Recaredo I",
+    "quote": "No quiero reinar sobre herejes, sino sobre fieles",
+    "ref": "Actas conciliares (formulación doctrinal)",
+    "type": "paráfrasis",
+    "year": 589,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Sisebuto",
+    "quote": "El mundo es breve, la gloria pasajera y la muerte segura",
+    "ref": "Epístolas y escritos atribuidos",
+    "type": "casi literal",
+    "year": 615,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Sisebuto",
+    "quote": "Nada permanece sino aquello que se eleva hacia Dios",
+    "ref": "Literatura religiosa visigoda",
+    "type": "paráfrasis",
+    "year": 615,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Sisebuto",
+    "quote": "El poder sin virtud es sombra sin sustancia",
+    "ref": "Tradición literaria posterior",
+    "type": "paráfrasis",
+    "year": 615,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Recesvinto",
+    "quote": "El rey está sujeto a la ley como el súbdito",
+    "ref": "Liber Iudiciorum",
+    "type": "paráfrasis fiel",
+    "year": 654,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Recesvinto",
+    "quote": "La justicia debe ser igual para todos",
+    "ref": "Liber Iudiciorum",
+    "type": "paráfrasis fiel",
+    "year": 654,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Recesvinto",
+    "quote": "La ley es la medida del reino",
+    "ref": "Liber Iudiciorum",
+    "type": "paráfrasis",
+    "year": 654,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Chindasvinto",
+    "quote": "Es mejor castigar a los pocos que poner en riesgo a todos",
+    "ref": "Política represiva documentada en crónicas",
+    "type": "paráfrasis",
+    "year": 645,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Chindasvinto",
+    "quote": "El reino se pierde por la indulgencia",
+    "ref": "Interpretación historiográfica",
+    "type": "paráfrasis",
+    "year": 645,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Ervigio",
+    "quote": "La clemencia es virtud del rey, pero no a costa de la justicia",
+    "ref": "Legislación y actas conciliares",
+    "type": "paráfrasis",
+    "year": 681,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Ervigio",
+    "quote": "El gobierno justo es aquel que corrige sin destruir",
+    "ref": "Interpretación doctrinal visigoda",
+    "type": "paráfrasis",
+    "year": 681,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Égico",
+    "quote": "El rey debe velar incluso contra los que conspiran en silencio",
+    "ref": "Concilios de Toledo (época de Égico)",
+    "type": "paráfrasis",
+    "year": 694,
+    "category": "Visigodos"
+  },
+  {
+    "author": "Égico",
+    "quote": "La traición nace donde la ley se debilita",
+    "ref": "Legislación tardovisigoda",
+    "type": "paráfrasis",
+    "year": 694
+  }
 ]
