@@ -415,6 +415,66 @@
 		"ref": ""
 	},
 	{
+		"author": "Immanuel Kant",
+		"quote": "Obra solo según aquella máxima por la cual puedas querer al mismo tiempo que se convierta en ley universal",
+		"ref": "Fundamentación de la metafísica de las costumbres"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "Dos cosas llenan el ánimo de admiración y respeto siempre nuevos y crecientes: el cielo estrellado sobre mí y la ley moral en mí",
+		"ref": "Crítica de la razón práctica"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "La ilustración es la salida del hombre de su minoría de edad, de la cual él mismo es culpable",
+		"ref": "¿Qué es la Ilustración?"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "Sapere aude! Ten el valor de servirte de tu propio entendimiento",
+		"ref": "¿Qué es la Ilustración?"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "El hombre es un fin en sí mismo, nunca un medio",
+		"ref": "Fundamentación de la metafísica de las costumbres"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "La libertad es aquella propiedad de la voluntad por la cual puede ser eficaz independientemente de causas externas",
+		"ref": "Crítica de la razón práctica"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "La experiencia sin teoría es ciega, pero la teoría sin experiencia es mera especulación",
+		"ref": "Crítica de la razón pura"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "La moral no es la doctrina de cómo hacernos felices, sino de cómo debemos hacernos dignos de la felicidad",
+		"ref": "Crítica de la razón práctica"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "El entendimiento no puede intuir nada, y los sentidos no pueden pensar nada",
+		"ref": "Crítica de la razón pura"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "Pensamientos sin contenido son vacíos; intuiciones sin conceptos son ciegas",
+		"ref": "Crítica de la razón pura"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "La paz perpetua no es una idea vacía, sino una tarea que debe realizarse progresivamente",
+		"ref": "La paz perpetua"
+	},
+	{
+		"author": "Immanuel Kant",
+		"quote": "La autonomía de la voluntad es el principio supremo de la moralidad",
+		"ref": "Fundamentación de la metafísica de las costumbres"
+	},
+	{
 		"author": "Ernst Jünger",
 		"quote": "La guerra es una experiencia interior",
 		"ref": "Tempestades de acero"
@@ -678,6 +738,66 @@
 		"author": "David Lane",
 		"quote": "La lealtad es el valor supremo de una comunidad",
 		"ref": "Writings from prison"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "No hay nada fuera de ti mismo que pueda hacerte mejor, más fuerte, más rico o más rápido",
+		"ref": "Libro de los cinco anillos"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "Piensa con ligereza en ti mismo y profundamente en el mundo",
+		"ref": "Dokkōdō"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "No albergues intenciones en tus acciones ni apego en tus pensamientos",
+		"ref": "Dokkōdō"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "Acepta todo tal como es",
+		"ref": "Dokkōdō"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "No busques el placer por sí mismo",
+		"ref": "Dokkōdō"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "No dependas de un sentimiento parcial",
+		"ref": "Dokkōdō"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "No tengas preferencias en nada",
+		"ref": "Dokkōdō"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "No tengas apego por la vida ni temor a la muerte",
+		"ref": "Dokkōdō"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "No busques poseer bienes para tu vejez",
+		"ref": "Dokkōdō"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "Respeta a los dioses y a los budas, pero no dependas de ellos",
+		"ref": "Dokkōdō"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "Puedes abandonar tu propio cuerpo, pero debes preservar tu honor",
+		"ref": "Dokkōdō"
+	},
+	{
+		"author": "Miyamoto Musashi",
+		"quote": "Nunca te apartes del camino",
+		"ref": "Dokkōdō"
 	},
 	{
 		"author": "Friedrich Nietzsche",
@@ -1288,5 +1408,120 @@
 		"author": "Carl von Clausewitz",
 		"quote": "El talento en la guerra consiste en saber manejar la incertidumbre",
 		"ref": "De la guerra"
+	},
+	{
+		"author": "Ferdinand Porsche",
+		"quote": "No  encontrar el coche deportivo de mis sueños, así que lo construí yo mismo",
+		"ref": "Atribuida; origen no confirmado"
+	},
+	{
+		"author": "Ferdinand Porsche",
+		"quote": "El diseño debe ser funcional y la funcionalidad debe traducirse en estética",
+		"ref": "Atribuida; origen no confirmado"
+	},
+	{
+		"author": "Ferdinand Porsche",
+		"quote": "El coche perfecto aún no existe; siempre se puede mejorar",
+		"ref": "Atribuida; origen no confirmado"
+	},
+	{
+		"author": "Hugo Junkers",
+		"quote": "El progreso técnico es el resultado del pensamiento libre y la innovación",
+		"ref": "Atribuida; origen no confirmado"
+	},
+	{
+		"author": "Hugo Junkers",
+		"quote": "La aviación debe ser segura, eficiente y accesible",
+		"ref": "Atribuida; origen no confirmado"
+	},
+	{
+		"author": "Hugo Junkers",
+		"quote": "El metal es el futuro de la aviación",
+		"ref": "Atribuida; relacionada con sus desarrollos en estructuras metálicas"
+	},
+	{
+		"author": "Willy Messerschmitt",
+		"quote": "La ligereza es la clave del rendimiento en aviación",
+		"ref": "Atribuida; principio de diseño"
+	},
+	{
+		"author": "Willy Messerschmitt",
+		"quote": "Cada gramo cuenta cuando se vuela",
+		"ref": "Atribuida; origen no confirmado"
+	},
+	{
+		"author": "Willy Messerschmitt",
+		"quote": "El diseño debe adaptarse a la misión",
+		"ref": "Atribuida; principio de ingeniería"
+	},
+	{
+		"author": "Wernher von Braun",
+		"quote": "La investigación es lo que hago cuando no sé lo que estoy haciendo",
+		"ref": "Atribuida; ampliamente citada"
+	},
+	{
+		"author": "Wernher von Braun",
+		"quote": "Apunto a las estrellas, pero a veces doy en Londres",
+		"ref": "Atribuida; comentario irónico posterior a la guerra"
+	},
+	{
+		"author": "Wernher von Braun",
+		"quote": "Lo importante es el futuro de la exploración espacial, no el pasado",
+		"ref": "Atribuida; entrevistas"
+	},
+	{
+		"author": "Wernher von Braun",
+		"quote": "La ciencia de cohetes no es difícil; lo difícil es que funcione de forma fiable",
+		"ref": "Atribuida; entrevistas"
+	},
+	{
+		"author": "Arnold J. Toynbee",
+		"quote": "Las civilizaciones mueren por suicidio, no por asesinato",
+		"ref": "A Study of History"
+	},
+	{
+		"author": "Arnold J. Toynbee",
+		"quote": "El mayor castigo para quienes no se interesan por la política es ser gobernados por personas peores que ellos",
+		"ref": "Atribuida; origen discutido"
+	},
+	{
+		"author": "Arnold J. Toynbee",
+		"quote": "Una civilización crece cuando responde con éxito a los desafíos",
+		"ref": "A Study of History"
+	},
+	{
+		"author": "Arnold J. Toynbee",
+		"quote": "El desafío y la respuesta son el motor de la historia",
+		"ref": "A Study of History"
+	},
+	{
+		"author": "Arnold J. Toynbee",
+		"quote": "Las minorías creativas son las que guían el desarrollo de las civilizaciones",
+		"ref": "A Study of History"
+	},
+	{
+		"author": "Arnold J. Toynbee",
+		"quote": "El colapso de una civilización comienza cuando deja de responder creativamente a los desafíos",
+		"ref": "A Study of History"
+	},
+	{
+		"author": "Arnold J. Toynbee",
+		"quote": "La historia es un estudio de respuestas humanas a situaciones cambiantes",
+		"ref": "A Study of History"
+	},
+	{
+		"author": "Arnold J. Toynbee",
+		"quote": "El progreso no es inevitable; depende de la voluntad humana",
+		"ref": "A Study of History"
+	},
+	{
+		"author": "Arnold J. Toynbee",
+		"quote": "Las civilizaciones no son destruidas desde fuera hasta que se han debilitado desde dentro",
+		"ref": "A Study of History"
+	},
+	{
+		"author": "Arnold J. Toynbee",
+		"quote": "La creatividad es la respuesta más poderosa frente a la adversidad",
+		"ref": "A Study of History"
 	}
 ]
