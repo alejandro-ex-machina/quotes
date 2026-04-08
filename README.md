@@ -50,12 +50,15 @@ git clone https://github.com/alejandro-ex-machina/quotes.git
 ### Uso
 
 ```shell
-python getquote.py
-python getquote.py --category=Filosofía
-python getquote.py --author=Epicteto
-python getquote.py --category=Informática --author=Donald\ E.\ Knuth
-python getquote.py --list-autors
+python getquote.py --random
+python getquote.py --author="Nietzsche"
+python getquote.py --theme=guerra
+python getquote.py --hardcore
+python getquote.py --list_authors
 python getquote.py --list_categories
+python getquote.py --list_themes
+python getquote.py --author="Jünger" --theme=carácter
+python getquote.py --hardcore --all
 ```
 
 ## Salida esperada

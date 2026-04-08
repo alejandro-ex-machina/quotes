@@ -3,6 +3,7 @@ import argparse
 import json
 import random
 import shutil
+import subprocess
 import sys
 import textwrap
 import unicodedata
@@ -14,6 +15,7 @@ GRAY = "\033[90m"
 RESET = "\033[0m"
 
 QUOTES_FILE = "quotes.json"
+EXPORT_BASENAME = "quotes_export"
 
 
 def normalize(text: str) -> str:
@@ -31,7 +33,7 @@ def wrap_text(text: str, width: int) -> str:
         text,
         width=width,
         break_long_words=False,
-        break_on_hyphens=False
+        break_on_hyphens=False,
     )
 
 
@@ -51,6 +53,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--all", action="store_true", help="Muestra todas las citas filtradas.")
     parser.add_argument("--count", action="store_true", help="Muestra solo el número de citas resultantes.")
     parser.add_argument("--seed", type=int, help="Semilla para selección aleatoria reproducible.")
+    parser.add_argument("--export", choices=["md", "pdf"], help="Exporta las citas filtradas a Markdown o PDF.")
+    parser.add_argument("--output", help="Ruta de salida para la exportación.")
     parser.add_argument("--quotes-file", default=QUOTES_FILE, help="Ruta al fichero JSON de citas.")
 
     return parser.parse_args()
@@ -152,10 +156,96 @@ def print_quote(q, total=None):
     print(wrap_text(f"«{text}».", width))
     if author_colored:
         print(f"\n{author_colored}")
-#    if meta_colored:
-#        print(meta_colored)
+    if meta_colored:
+        print(meta_colored)
     if total is not None:
         print(f"\n{total} quotes")
+
+
+def filter_summary(args: argparse.Namespace) -> str:
+    parts = []
+    if args.author:
+        parts.append(f"author={args.author}")
+    if args.category:
+        parts.append(f"category={args.category}")
+    if args.theme:
+        parts.append(f"theme={args.theme}")
+    if args.hardcore:
+        parts.append("hardcore=true")
+    return ", ".join(parts) if parts else "sin filtros"
+
+
+def quote_to_md(q: dict) -> str:
+    text = str(q.get("quote", "")).strip()
+    author = str(q.get("author", "")).strip() or "Desconocido"
+    meta = build_meta(q)
+
+    lines = [f"> {text}", "", f"— **{author}**"]
+    if meta:
+        lines.append("")
+        lines.append(f"*{meta}*")
+    return "\n".join(lines)
+
+
+def build_markdown(quotes: list, args: argparse.Namespace) -> str:
+    header = ["# Quotes", ""]
+    header.append(f"Filtro: {filter_summary(args)}")
+    header.append("")
+    header.append(f"Total: {len(quotes)}")
+    header.append("")
+
+    body = []
+    for idx, quote in enumerate(quotes, start=1):
+        body.append(f"## Cita {idx}")
+        body.append("")
+        body.append(quote_to_md(quote))
+        body.append("")
+
+    return "\n".join(header + body).rstrip() + "\n"
+
+
+def resolve_export_paths(args: argparse.Namespace) -> tuple[Path, Path | None]:
+    if args.output:
+        output_path = Path(args.output)
+        suffix = output_path.suffix.lower()
+
+        if args.export == "md":
+            md_path = output_path if suffix == ".md" else output_path.with_suffix(".md")
+            return md_path, None
+
+        pdf_path = output_path if suffix == ".pdf" else output_path.with_suffix(".pdf")
+        md_path = pdf_path.with_suffix(".md")
+        return md_path, pdf_path
+
+    if args.export == "md":
+        return Path(f"{EXPORT_BASENAME}.md"), None
+
+    return Path(f"{EXPORT_BASENAME}.md"), Path(f"{EXPORT_BASENAME}.pdf")
+
+
+def export_markdown(quotes: list, args: argparse.Namespace) -> Path:
+    md_path, _ = resolve_export_paths(args)
+    md_content = build_markdown(quotes, args)
+    md_path.write_text(md_content, encoding="utf-8")
+    return md_path
+
+
+def export_pdf(quotes: list, args: argparse.Namespace) -> Path:
+    md_path, pdf_path = resolve_export_paths(args)
+    if pdf_path is None:
+        raise SystemExit("Error interno: falta ruta PDF de salida.")
+
+    md_content = build_markdown(quotes, args)
+    md_path.write_text(md_content, encoding="utf-8")
+
+    try:
+        subprocess.run(["pandoc", str(md_path), "-o", str(pdf_path)], check=True)
+    except FileNotFoundError:
+        raise SystemExit("No se encontró pandoc en el sistema. Instálalo o exporta a Markdown con --export=md.")
+    except subprocess.CalledProcessError as exc:
+        raise SystemExit(f"Falló la exportación a PDF (pandoc devolvió código {exc.returncode}).")
+
+    return pdf_path
 
 
 def main():
@@ -201,16 +291,27 @@ def main():
     if args.seed is not None:
         random.seed(args.seed)
 
+    selected = filtered if args.all or args.export else [random.choice(filtered)]
+
+    if args.export == "md":
+        output_path = export_markdown(selected, args)
+        print(f"Exportado a Markdown: {output_path}")
+        return
+
+    if args.export == "pdf":
+        output_path = export_pdf(selected, args)
+        print(f"Exportado a PDF: {output_path}")
+        return
+
     if args.all:
-        for idx, quote in enumerate(filtered, start=1):
+        for idx, quote in enumerate(selected, start=1):
             if idx > 1:
                 print("\n" + "-" * max(20, get_terminal_width()) + "\n")
             print_quote(quote)
-        print(f"\n{len(filtered)} quotes")
+        print(f"\n{len(selected)} quotes")
         return
 
-    quote = random.choice(filtered)
-    print_quote(quote, total=len(filtered))
+    print_quote(selected[0], total=len(filtered))
 
 
 if __name__ == "__main__":
