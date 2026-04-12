@@ -2478,5 +2478,110 @@
     "category": "Diseño",
     "theme": "detalle",
     "source_quality": "media"
+  },
+  {
+    "author": "Kelly Johnson",
+    "quote": "Be quick, be quiet, be on time",
+    "ref": "Skunk Works motto",
+    "category": "Ingeniería",
+    "theme": "disciplina",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Kelly Johnson",
+    "quote": "El equipo debe ser pequeño, altamente cualificado y con mínima burocracia",
+    "ref": "Skunk Works Rules",
+    "category": "Ingeniería",
+    "theme": "organización",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Kelly Johnson",
+    "quote": "El número de personas en un proyecto debe ser el mínimo necesario",
+    "ref": "Skunk Works Rules",
+    "category": "Ingeniería",
+    "theme": "eficiencia",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Elon Musk",
+    "quote": "Si algo es suficientemente importante, lo haces incluso si las probabilidades no están a tu favor",
+    "ref": "Entrevistas",
+    "category": "Ingeniería",
+    "theme": "determinación",
+    "source_quality": "media"
+  },
+  {
+    "author": "Elon Musk",
+    "quote": "La física es una buena base para pensar. Reduce las cosas a sus verdades fundamentales",
+    "ref": "Entrevistas",
+    "category": "Ingeniería",
+    "theme": "fundamentos",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Isambard Kingdom Brunel",
+    "quote": "No tengo miedo de hacer algo que nunca se haya hecho antes",
+    "ref": "Atribuida",
+    "category": "Ingeniería",
+    "theme": "innovación",
+    "source_quality": "media"
+  },
+  {
+    "author": "Isambard Kingdom Brunel",
+    "quote": "Lo importante no es si se ha hecho antes, sino si se puede hacer",
+    "ref": "Atribuida",
+    "category": "Ingeniería",
+    "theme": "posibilidad",
+    "source_quality": "media"
+  },
+  {
+    "author": "William Francis Gibbs",
+    "quote": "Un barco no se diseña para el mar en calma, sino para sobrevivir a la tormenta",
+    "ref": "Atribuida; consistente con su filosofía de diseño",
+    "category": "Ingeniería",
+    "theme": "robustez",
+    "source_quality": "media"
+  },
+  {
+    "author": "Georg Bruchmüller",
+    "quote": "El fuego debe ser preciso, breve y devastador",
+    "ref": "Doctrina artillera alemana WWI (resumen)",
+    "category": "Milicia",
+    "theme": "artillería",
+    "source_quality": "media"
+  },
+  {
+    "author": "Georg Bruchmüller",
+    "quote": "La sorpresa en el fuego es más importante que la duración",
+    "ref": "Doctrina de preparación artillera",
+    "category": "Milicia",
+    "theme": "sorpresa",
+    "source_quality": "media"
+  },
+  {
+    "author": "Dominique Jean Larrey",
+    "quote": "El deber del cirujano es tratar primero al más gravemente herido, sin distinción de rango",
+    "ref": "Memorias; doctrina de triage",
+    "category": "Medicina",
+    "theme": "triage",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Jonathan Letterman",
+    "quote": "La organización salva más vidas que la habilidad individual",
+    "ref": "Sistema sanitario del Ejército del Potomac (resumen doctrinal)",
+    "category": "Medicina",
+    "theme": "organización",
+    "source_quality": "media"
+  },
+  {
+    "author": "Nicholas Senn",
+    "quote": "El tiempo es el enemigo del herido grave",
+    "ref": "Doctrina quirúrgica militar",
+    "category": "Medicina",
+    "theme": "tiempo",
+    "source_quality": "media"
   }
+
 ]
