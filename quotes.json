@@ -148,6 +148,54 @@
   },
   {
     "author": "Arthur Schopenhauer",
+    "quote": "La mayoría de los hombres no son capaces de pensar, sino solo de creer",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "pensamiento",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Pensar por sí mismo es privilegio de unos pocos",
+    "ref": "Ideas derivadas de su obra",
+    "category": "Filosofía",
+    "theme": "independencia",
+    "source_quality": "media"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Toda verdad pasa por tres etapas: primero es ridiculizada, luego violentamente rechazada y finalmente aceptada como evidente",
+    "ref": "Parerga y paralipómena (atribuida; formulación discutida)",
+    "category": "Filosofía",
+    "theme": "verdad",
+    "source_quality": "media"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "El hombre vulgar no tiene otra cosa en mente que pasar el tiempo; el hombre de talento, emplearlo",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "tiempo",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Lo que más odia el rebaño es a quien piensa distinto; no tanto por la opinión en sí, sino por la osadía de pensar por cuenta propia",
+    "ref": "Paráfrasis basada en su pensamiento",
+    "category": "Filosofía",
+    "theme": "independencia",
+    "source_quality": "baja"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "El genio es como un cometa: su órbita es excéntrica, mientras que los demás son como planetas que siguen trayectorias uniformes",
+    "ref": "El mundo como voluntad y representación (ideas)",
+    "category": "Filosofía",
+    "theme": "genio",
+    "source_quality": "media"
+  },
+  {
+    "author": "Arthur Schopenhauer",
     "quote": "Cuanto más inteligente es un hombre, menos misteriosa le parece la existencia",
     "ref": "Parerga y paralipómena",
     "category": "Filósofía",
@@ -759,6 +807,22 @@
     "ref": "The Art of Computer Programming",
     "category": "Informática",
     "theme": "ingeniería"
+  },
+  {
+    "author": "Karl Kraus",
+    "quote": "El secreto del demagogo es hacerse tan estúpido como su audiencia, de tal modo que crean que son tan inteligentes como él.",
+    "ref": "Paráfrasis moderna; no cita textual verificable",
+    "category": "Filosofía",
+    "theme": "demagogia",
+    "source_quality": "baja"
+  },
+  {
+    "author": "Karl Kraus",
+    "quote": "Un demagogo es alguien que predica doctrinas que sabe que son falsas a personas que sabe que son idiotas.",
+    "ref": "Aforismos (atribuida; variantes en circulación)",
+    "category": "Filosofía",
+    "theme": "demagogia",
+    "source_quality": "media"
   },
   {
     "author": "Donald E. Knuth",
@@ -1656,6 +1720,166 @@
     "ref": "¿Qué es la Ilustración?",
     "category": "Filosofía",
     "theme": "conocimiento"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Bien puede decirse que la vida es un episodio que viene a perturbar inútilmente la sagrada paz de la nada.",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filosofía",
+    "theme": "existencia",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Hay solamente un error congénito: la noción de que existimos para ser felices.",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "felicidad",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Toda vida es sufrimiento.",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filosofía",
+    "theme": "sufrimiento",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Pocas veces pensamos en lo que tenemos; pero siempre en lo que nos falta.",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "deseo",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Predicar moral es fácil; lo difícil es ajustar la vida a la moral que se predica.",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "moral",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Nuestras virtudes morales favorecen principalmente a otros; las intelectuales, ante todo a nosotros.",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "virtud",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Es difícil encontrar la felicidad dentro de uno mismo, pero es imposible encontrarla en otro lugar.",
+    "ref": "Atribuida; formulación difundida",
+    "category": "Filosofía",
+    "theme": "felicidad",
+    "source_quality": "media"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Los dos enemigos de la felicidad humana son el dolor y el aburrimiento.",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filosofía",
+    "theme": "felicidad",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "El que no disfruta de la soledad, no amará la libertad.",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "soledad",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La religión es la metafísica de las masas.",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "religión",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "El hombre es el único animal que causa dolor a otros sin otro objeto que querer hacerlo.",
+    "ref": "El fundamento de la moral",
+    "category": "Filosofía",
+    "theme": "naturaleza humana",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La compasión es la base de la moralidad.",
+    "ref": "El fundamento de la moral",
+    "category": "Filosofía",
+    "theme": "moral",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Seguramente, un hombre puede hacer lo que quiere; sin embargo, no puede querer lo que quiere.",
+    "ref": "Sobre la libertad de la voluntad",
+    "category": "Filosofía",
+    "theme": "voluntad",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Cada día es una pequeña vida.",
+    "ref": "Aforismos sobre la sabiduría de la vida",
+    "category": "Filosofía",
+    "theme": "tiempo",
+    "source_quality": "media"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La riqueza es como el agua del mar: cuanto más bebemos, más sedientos nos volvemos.",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "deseo",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La satisfacción consiste en la ausencia de dolor.",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filosofía",
+    "theme": "placer",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Cada genio es un gran niño.",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filosofía",
+    "theme": "genio",
+    "source_quality": "media"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "Un hombre puede ser él mismo solo mientras está solo.",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "soledad",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "El estilo es lo que da valor y circulación a los pensamientos.",
+    "ref": "Parerga y paralipómena",
+    "category": "Filosofía",
+    "theme": "lenguaje",
+    "source_quality": "alta"
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La vida de cada individuo es una tragedia; pero vista de cerca, tiene el carácter de una comedia.",
+    "ref": "El mundo como voluntad y representación",
+    "category": "Filosofía",
+    "theme": "existencia",
+    "source_quality": "alta"
   },
   {
     "author": "John von Neumann",
@@ -2757,5 +2981,12 @@
     "ref": "Atribuida; principio de diseño",
     "category": "IngAeronáutica",
     "theme": "ingeniería"
-  }
+  },
+{
+  "author": "Hans-Ulrich Rudel",
+  "quote": "Es peligroso para el Estado querer convencer a la juventud de que sus antepasados estuvieron compuestos, más o menos, por locos, criminales e idiotas",
+  "ref": "Atribuida; sin fuente primaria verificable",
+  "category": "Filosofía",
+  "theme": "historia"
+}  
 ]
