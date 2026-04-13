@@ -41,7 +41,13 @@ def parse_args() -> argparse.Namespace:
         description="Muestra una cita aleatoria o filtrada desde quotes.json."
     )
 
-    parser.add_argument("--category", help="Filtra por categoría exacta (ignora mayúsculas/tildes).")
+    parser.add_argument(
+        "--category",
+        help=(
+            "Filtra por categoría (ignora mayúsculas/tildes). "
+            "Acepta categorías paraguas como 'Ingeniería' y subcategorías como 'Automotriz'."
+        ),
+    )
     parser.add_argument("--author", help="Filtra por autor. Acepta coincidencia parcial.")
     parser.add_argument("--theme", help="Filtra por theme exacto (ignora mayúsculas/tildes).")
     parser.add_argument("--hardcore", action="store_true", help="Filtra solo citas con hardcore=true.")
@@ -95,11 +101,41 @@ def matches_partial(value: str, expected: str) -> bool:
     return normalize(expected) in normalize(value)
 
 
+CATEGORY_ALIASES = {
+    "ingenieria": [
+        "ingenieria",
+        "ingaeroespacial",
+        "ingenieria aeroespacial",
+        "ingaeronautica",
+        "ingenieria aeronautica",
+        "ingautomotriz",
+        "ingenieria automotriz",
+    ],
+    "aeroespacial": ["ingaeroespacial", "ingenieria aeroespacial"],
+    "ingenieria aeroespacial": ["ingaeroespacial", "ingenieria aeroespacial"],
+    "aeronautica": ["ingaeronautica", "ingenieria aeronautica"],
+    "ingenieria aeronautica": ["ingaeronautica", "ingenieria aeronautica"],
+    "automotriz": ["ingautomotriz", "ingenieria automotriz"],
+    "ingenieria automotriz": ["ingautomotriz", "ingenieria automotriz"],
+}
+
+
+def category_matches(value: str, expected: str) -> bool:
+    actual = normalize(value)
+    wanted = normalize(expected)
+
+    allowed = CATEGORY_ALIASES.get(wanted)
+    if allowed:
+        return actual in {normalize(item) for item in allowed}
+
+    return actual == wanted
+
+
 def filter_quotes(quotes, category=None, author=None, theme=None, hardcore=False, quality=None):
     filtered = quotes
 
     if category:
-        filtered = [q for q in filtered if matches_exact(q.get("category", ""), category)]
+        filtered = [q for q in filtered if category_matches(q.get("category", ""), category)]
 
     if author:
         filtered = [q for q in filtered if matches_partial(q.get("author", ""), author)]
@@ -131,6 +167,11 @@ def print_author_list(quotes):
 
 def print_category_list(quotes):
     print_counter("Sin categoría", [q.get("category", "Sin categoría") for q in quotes])
+    print("\nAlias útiles de --category:")
+    print("- Ingeniería -> Ingeniería + Aeroespacial + Aeronáutica + Automotriz")
+    print("- Aeroespacial -> Ingeniería Aeroespacial")
+    print("- Aeronáutica -> Ingeniería Aeronáutica")
+    print("- Automotriz -> Ingeniería Automotriz")
 
 
 def print_theme_list(quotes):
