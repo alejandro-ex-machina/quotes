@@ -2582,6 +2582,117 @@
     "category": "Medicina",
     "theme": "tiempo",
     "source_quality": "media"
+  },
+  {
+    "author": "Platón",
+    "quote": "El tiempo es una imagen móvil de la eternidad",
+    "ref": "Timeo",
+    "category": "Filosofía",
+    "theme": "tiempo",
+    "source_quality": "high"
+  },
+  {
+    "author": "Platón",
+    "quote": "Cuando una multitud ejerce la autoridad, es más cruel aún que los tiranos",
+    "ref": "Atribuida; tradición platónica",
+    "category": "Filosofía",
+    "theme": "poder",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Platón",
+    "quote": "La mejor riqueza es contentarse viviendo con poco",
+    "ref": "Atribuida; formulación difundida",
+    "category": "Filosofía",
+    "theme": "sobriedad",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Søren Kierkegaard",
+    "quote": "La vida solo puede ser comprendida mirando hacia atrás, pero ha de ser vivida mirando hacia adelante",
+    "ref": "Diarios / formulación difundida",
+    "category": "Filosofía",
+    "theme": "tiempo",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Søren Kierkegaard",
+    "quote": "Atreverse implica perder el equilibrio momentáneamente. No atreverse implica perderse a uno mismo",
+    "ref": "Atribuida; formulación difundida",
+    "category": "Filosofía",
+    "theme": "decisión",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Søren Kierkegaard",
+    "quote": "Las personas piden libertad de expresión como compensación por la libertad de pensamiento que rara vez usan",
+    "ref": "Atribuida; formulación difundida",
+    "category": "Filosofía",
+    "theme": "pensamiento",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Francisco de Quevedo",
+    "quote": "El amigo ha de ser como la sangre, que acude luego a la herida sin esperar que le llamen",
+    "ref": "Atribuida; tradición quevediana",
+    "category": "Literatura",
+    "theme": "amistad",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Francisco de Quevedo",
+    "quote": "Nunca mejora su estado quien muda solamente de lugar, y no de vida y costumbres",
+    "ref": "Atribuida; tradición quevediana",
+    "category": "Filosofía",
+    "theme": "carácter",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Francisco de Quevedo",
+    "quote": "El valiente tiene miedo del contrario; el cobarde, de su propio temor",
+    "ref": "Atribuida; tradición quevediana",
+    "category": "Filosofía",
+    "theme": "valor",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Hilaire Belloc",
+    "quote": "La educación del niño pertenece correctamente al padre de familia, y no al Estado",
+    "ref": "Atribuida; Belloc sobre familia y Estado",
+    "category": "Filosofía",
+    "theme": "familia",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Hilaire Belloc",
+    "quote": "Europa volverá a la Fe, o perecerá",
+    "ref": "Atribuida; formulación difundida",
+    "category": "Filosofía",
+    "theme": "civilización",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Plutarco",
+    "quote": "Quien tiene muchos vicios, tiene muchos amos",
+    "ref": "Moralia / tradición atribuida",
+    "category": "Filosofía",
+    "theme": "dominio",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "quote": "No es signo de buena salud el estar bien adaptado a una sociedad profundamente enferma",
+    "ref": "Atribuida; formulación difundida",
+    "category": "Filosofía",
+    "theme": "sociedad",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Charles Péguy",
+    "quote": "Nunca sabremos cuántos actos de cobardía se han cometido por el temor a no parecer lo suficientemente progresista",
+    "ref": "Atribuida; formulación difundida",
+    "category": "Filosofía",
+    "theme": "cobardía",
+    "source_quality": "medium"
   }
-
 ]

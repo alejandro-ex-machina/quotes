@@ -4,7 +4,6 @@ import json
 import random
 import shutil
 import subprocess
-import sys
 import textwrap
 import unicodedata
 from collections import Counter
@@ -46,18 +45,27 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--author", help="Filtra por autor. Acepta coincidencia parcial.")
     parser.add_argument("--theme", help="Filtra por theme exacto (ignora mayúsculas/tildes).")
     parser.add_argument("--hardcore", action="store_true", help="Filtra solo citas con hardcore=true.")
+    parser.add_argument(
+        "-q", "--quality",
+        choices=["low", "medium", "high"],
+        help="Filtra por calidad de la cita (source_quality)."
+    )
     parser.add_argument("--random", action="store_true", help="Fuerza salida aleatoria. Es el comportamiento por defecto.")
     parser.add_argument("--list_authors", action="store_true", help="Lista autores y número de citas.")
     parser.add_argument("--list_categories", action="store_true", help="Lista categorías y número de citas.")
     parser.add_argument("--list_themes", action="store_true", help="Lista themes y número de citas.")
     parser.add_argument("--all", action="store_true", help="Muestra todas las citas filtradas.")
+    parser.add_argument("--paged", action="store_true", help="Muestra las citas filtradas en modo paginado, con pausa entre bloques.")
     parser.add_argument("--count", action="store_true", help="Muestra solo el número de citas resultantes.")
     parser.add_argument("--seed", type=int, help="Semilla para selección aleatoria reproducible.")
     parser.add_argument("--export", choices=["md", "pdf"], help="Exporta las citas filtradas a Markdown o PDF.")
     parser.add_argument("--output", help="Ruta de salida para la exportación.")
     parser.add_argument("--quotes-file", default=QUOTES_FILE, help="Ruta al fichero JSON de citas.")
 
-    return parser.parse_args()
+    args = parser.parse_args()
+    if args.paged:
+        args.all = True
+    return args
 
 
 def load_quotes(quotes_file: str):
@@ -87,7 +95,7 @@ def matches_partial(value: str, expected: str) -> bool:
     return normalize(expected) in normalize(value)
 
 
-def filter_quotes(quotes, category=None, author=None, theme=None, hardcore=False):
+def filter_quotes(quotes, category=None, author=None, theme=None, hardcore=False, quality=None):
     filtered = quotes
 
     if category:
@@ -101,6 +109,12 @@ def filter_quotes(quotes, category=None, author=None, theme=None, hardcore=False
 
     if hardcore:
         filtered = [q for q in filtered if bool(q.get("hardcore", False))]
+
+    if quality:
+        filtered = [
+            q for q in filtered
+            if str(q.get("source_quality", "medium")).strip().lower() == quality
+        ]
 
     return filtered
 
@@ -129,6 +143,7 @@ def build_meta(q):
     ref = str(q.get("ref", "")).strip()
     category = str(q.get("category", "")).strip()
     theme = str(q.get("theme", "")).strip()
+    quality = str(q.get("source_quality", "")).strip().lower()
     hardcore = bool(q.get("hardcore", False))
 
     if ref:
@@ -137,6 +152,8 @@ def build_meta(q):
         meta_parts.append(category)
     if theme:
         meta_parts.append(f"theme={theme}")
+    if quality:
+        meta_parts.append(f"quality={quality}")
     if hardcore:
         meta_parts.append("hardcore")
 
@@ -162,6 +179,14 @@ def print_quote(q, total=None):
         print(f"\n{total} quotes")
 
 
+def wait_for_continue():
+    try:
+        input(f"\n{GRAY}Pulsa Enter para continuar...{RESET}")
+    except (EOFError, KeyboardInterrupt):
+        print()
+        raise SystemExit(0)
+
+
 def filter_summary(args: argparse.Namespace) -> str:
     parts = []
     if args.author:
@@ -172,6 +197,8 @@ def filter_summary(args: argparse.Namespace) -> str:
         parts.append(f"theme={args.theme}")
     if args.hardcore:
         parts.append("hardcore=true")
+    if args.quality:
+        parts.append(f"quality={args.quality}")
     return ", ".join(parts) if parts else "sin filtros"
 
 
@@ -270,6 +297,7 @@ def main():
         author=args.author,
         theme=args.theme,
         hardcore=args.hardcore,
+        quality=args.quality,
     )
 
     if args.count:
@@ -286,12 +314,14 @@ def main():
             filters.append(f"theme={args.theme}")
         if args.hardcore:
             filters.append("hardcore=true")
+        if args.quality:
+            filters.append(f"quality={args.quality}")
         raise SystemExit("No hay citas para el filtro: " + ", ".join(filters))
 
     if args.seed is not None:
         random.seed(args.seed)
 
-    selected = filtered if args.all or args.export else [random.choice(filtered)]
+    selected = filtered if args.all or args.export or args.paged else [random.choice(filtered)]
 
     if args.export == "md":
         output_path = export_markdown(selected, args)
@@ -301,6 +331,16 @@ def main():
     if args.export == "pdf":
         output_path = export_pdf(selected, args)
         print(f"Exportado a PDF: {output_path}")
+        return
+
+    if args.paged:
+        for idx, quote in enumerate(selected, start=1):
+            if idx > 1:
+                print("\n" + "-" * max(20, get_terminal_width()) + "\n")
+            print_quote(quote)
+            if idx < len(selected):
+                wait_for_continue()
+        print(f"\n{len(selected)} quotes")
         return
 
     if args.all:
