@@ -127,7 +127,7 @@
             {% for item in results %}
             <article class="quote-item {% if not loop.last %}border-bottom{% endif %} pb-3 {% if not loop.last %}mb-3{% endif %}">
               <blockquote class="blockquote mb-2">
-                <p class="mb-0">«{{ item.quote }}»</p>
+                <p class="mb-0">«{{ item.quote }}».</p>
               </blockquote>
               <div class="fw-semibold">{{ item.author }}</div>
               <div class="text-body-secondary small mt-1">
