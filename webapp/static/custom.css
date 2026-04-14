@@ -9,3 +9,34 @@ body {
 .card {
   border-radius: 1rem;
 }
+
+body {
+  background-color: #121212;
+}
+
+.card {
+  background-color: #1e1e1e;
+  border: 1px solid #2c2c2c;
+}
+
+blockquote {
+  color: #e6e6e6;
+}
+
+.text-body-secondary {
+  color: #9aa0a6 !important;
+}
+
+.input-group .btn {
+  white-space: nowrap;
+} 
+.copy-btn {
+  min-width: 2.25rem;
+  min-height: 2.25rem;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.65rem;
+  flex-shrink: 0;
+}

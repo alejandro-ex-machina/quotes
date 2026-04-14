@@ -146,3 +146,38 @@ def author_detail(request: Request, author: str):
             "categories_for_author": categories_for_author,
         },
     )
+
+@app.get("/categories", response_class=HTMLResponse)
+def categories_page(request: Request):
+    quotes = get_quotes()
+    categories = counter_values(quotes, "category", "Sin categoría")
+
+    return templates.TemplateResponse(
+        "categories.html",
+        {
+            "request": request,
+            "categories": categories,
+            "quotes_total": len(quotes),
+        },
+    )
+
+
+@app.get("/categories/{category}", response_class=HTMLResponse)
+def category_detail(request: Request, category: str):
+    quotes = get_quotes()
+    results = filter_quotes(quotes, category=category)
+
+    authors_in_category = counter_values(results, "author", "Desconocido")
+    themes_in_category = [(name, count) for name, count in counter_values(results, "theme", "") if name]
+
+    return templates.TemplateResponse(
+        "category_detail.html",
+        {
+            "request": request,
+            "category": category,
+            "results": results[:200],
+            "results_total": len(results),
+            "authors_in_category": authors_in_category,
+            "themes_in_category": themes_in_category,
+        },
+    )
