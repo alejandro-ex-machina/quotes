@@ -75,3 +75,74 @@ def index(
 def health():
     quotes = get_quotes()
     return {"ok": True, "quotes": len(quotes), "quotes_file": str(QUOTES_FILE)}
+
+
+
+@app.get("/themes", response_class=HTMLResponse)
+def themes_page(request: Request):
+    quotes = get_quotes()
+    themes = [(name, count) for name, count in counter_values(quotes, "theme", "") if name]
+
+    return templates.TemplateResponse(
+        "themes.html",
+        {
+            "request": request,
+            "themes": themes,
+            "quotes_total": len(quotes),
+        },
+    )
+
+@app.get("/themes/{theme}", response_class=HTMLResponse)
+def theme_detail(request: Request, theme: str):
+    quotes = get_quotes()
+    results = filter_quotes(quotes, theme=theme)
+
+    authors_in_theme = counter_values(results, "author", "Desconocido")
+    categories_in_theme = counter_values(results, "category", "Sin categoría")
+
+    return templates.TemplateResponse(
+        "theme_detail.html",
+        {
+            "request": request,
+            "theme": theme,
+            "results": results[:200],
+            "results_total": len(results),
+            "authors_in_theme": authors_in_theme,
+            "categories_in_theme": categories_in_theme,
+        },
+    )
+
+@app.get("/authors", response_class=HTMLResponse)
+def authors_page(request: Request):
+    quotes = get_quotes()
+    authors = counter_values(quotes, "author", "Desconocido")
+
+    return templates.TemplateResponse(
+        "authors.html",
+        {
+            "request": request,
+            "authors": authors,
+            "quotes_total": len(quotes),
+        },
+    )
+
+
+@app.get("/authors/{author}", response_class=HTMLResponse)
+def author_detail(request: Request, author: str):
+    quotes = get_quotes()
+    results = filter_quotes(quotes, author=author)
+
+    themes_for_author = [(name, count) for name, count in counter_values(results, "theme", "") if name]
+    categories_for_author = counter_values(results, "category", "Sin categoría")
+
+    return templates.TemplateResponse(
+        "author_detail.html",
+        {
+            "request": request,
+            "author": author,
+            "results": results[:200],
+            "results_total": len(results),
+            "themes_for_author": themes_for_author,
+            "categories_for_author": categories_for_author,
+        },
+    )

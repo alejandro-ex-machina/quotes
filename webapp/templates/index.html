@@ -129,11 +129,17 @@
               <blockquote class="blockquote mb-2">
                 <p class="mb-0">«{{ item.quote }}».</p>
               </blockquote>
-              <div class="fw-semibold">{{ item.author }}</div>
+              <div class="fw-semibold">
+<a href="/authors/{{ item.author }}">{{ item.author }}</a>              
+              </div>
+
               <div class="text-body-secondary small mt-1">
                 {% if item.ref %}{{ item.ref }} · {% endif %}
-                {% if item.category %}{{ item.category }} · {% endif %}
+                {% if item.category %}{{ item.category }} · {% endif %}                
                 theme={{ item.theme or "" }}
+
+                <a href="/themes/{{ theme }}">{{ theme }}</a>
+
                 {% if item.source_quality %} · quality={{ item.source_quality }}{% endif %}
                 {% if item.hardcore %} · hardcore{% endif %}
               </div>
