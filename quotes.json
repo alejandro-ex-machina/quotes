@@ -150,14 +150,14 @@
     "author": "Wernher von Braun",
     "quote": "La investigación es lo que hago cuando no sé lo que estoy haciendo",
     "ref": "Atribuida; ampliamente citada",
-    "category": "Ingeniería Aeroespacial",
+    "category": "IngAeroespacial",
     "theme": "creación"
   },
   {
     "author": "Ferdinand Porsche",
     "quote": "No pude encontrar el coche deportivo de mis sueños, así que decidí construirlo yo mismo",
     "ref": "Atribuida",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "creación"
   },
   {
@@ -745,84 +745,84 @@
     "author": "Henry Ford",
     "quote": "Tanto si crees que puedes como si crees que no puedes, estás en lo cierto",
     "ref": "Atribuida; sin fuente clara",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "pragmatismo"
   },
   {
     "author": "Henry Ford",
     "quote": "El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de forma más inteligente",
     "ref": "My Life and Work",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "pensamiento"
   },
   {
     "author": "Henry Ford",
     "quote": "Reunirse es un comienzo; permanecer juntos es un progreso; trabajar juntos es el éxito",
     "ref": "Atribuida; sin fuente clara",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "creación"
   },
   {
     "author": "Henry Ford",
     "quote": "No encuentres la falta, encuentra el remedio",
     "ref": "Atribuida; sin fuente clara",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "pragmatismo"
   },
   {
     "author": "Henry Ford",
     "quote": "Pensar es el trabajo más difícil que existe. Quizá por eso tan pocos se dedican a ello",
     "ref": "Atribuida; sin fuente clara",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "pensamiento"
   },
   {
     "author": "Henry Ford",
     "quote": "La calidad significa hacer bien las cosas incluso cuando nadie está mirando",
     "ref": "Atribuida; sin fuente clara",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "acción"
   },
   {
     "author": "Henry Ford",
     "quote": "El único error real es aquel del que no aprendemos nada",
     "ref": "Atribuida; sin fuente clara",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "pragmatismo"
   },
   {
     "author": "Henry Ford",
     "quote": "El dinero es como un brazo o una pierna: úsalo o piérdelo",
     "ref": "Atribuida; sin fuente clara",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "pragmatismo"
   },
   {
     "author": "Henry Ford",
     "quote": "Un negocio que solo gana dinero es un negocio pobre",
     "ref": "My Life and Work",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "pragmatismo"
   },
   {
     "author": "Henry Ford",
     "quote": "La visión sin ejecución es solo alucinación",
     "ref": "Atribuida; sin fuente clara",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "pragmatismo"
   },
   {
     "author": "Henry Ford",
     "quote": "Nada es particularmente difícil si lo divides en pequeños trabajos",
     "ref": "Atribuida; sin fuente clara",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "pragmatismo"
   },
   {
     "author": "Henry Ford",
     "quote": "El progreso real ocurre cuando los beneficios de una nueva tecnología se vuelven accesibles para todos",
     "ref": "Ideas derivadas de su filosofía industrial",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "creación"
   },
   {
@@ -2425,84 +2425,84 @@
     "author": "Ferdinand Porsche",
     "quote": "No  encontrar el coche deportivo de mis sueños, así que lo construí yo mismo",
     "ref": "Atribuida; origen no confirmado",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "creación"
   },
   {
     "author": "Ferdinand Porsche",
     "quote": "El diseño debe ser funcional y la funcionalidad debe traducirse en estética",
     "ref": "Atribuida; origen no confirmado",
-    "category": "Ingeniería Autmototriz",
+    "category": "IngAutomotriz",
     "theme": "pragmatismo"
   },
   {
     "author": "Ferdinand Porsche",
     "quote": "El coche perfecto aún no existe; siempre se puede mejorar",
     "ref": "Atribuida; origen no confirmado",
-    "category": "Ingeniería Autmototriz",
-    "theme": "creación" 
+    "category": "IngAutomotriz",
+    "theme": "creación"
   },
   {
     "author": "Hugo Junkers",
     "quote": "El progreso técnico es el resultado del pensamiento libre y la innovación",
     "ref": "Atribuida; origen no confirmado",
-    "category": "Ingeniería Aeronáutica",
+    "category": "IngAeronáutica",
     "theme": "carácter"
   },
   {
     "author": "Hugo Junkers",
     "quote": "La aviación debe ser segura, eficiente y accesible",
     "ref": "Atribuida; origen no confirmado",
-    "category": "Ingeniería Aeronáutica",
+    "category": "IngAeronáutica",
     "theme": "técnica"
   },
   {
     "author": "Hugo Junkers",
     "quote": "El metal es el futuro de la aviación",
     "ref": "Atribuida; relacionada con sus desarrollos en estructuras metálicas",
-    "category": "Ingeniería Aeronáutica",
+    "category": "IngAeronáutica",
     "theme": "tiempo"
   },
   {
     "author": "Willy Messerschmitt",
     "quote": "La ligereza es la clave del rendimiento en aviación",
     "ref": "Atribuida; principio de diseño",
-    "category": "Ingeniería Aeronáutica",
+    "category": "IngAeronáutica",
     "theme": "técnica"
   },
   {
     "author": "Willy Messerschmitt",
     "quote": "Cada gramo cuenta cuando se vuela",
     "ref": "Atribuida; origen no confirmado",
-    "category": "Ingeniería Aeronáutica",
+    "category": "IngAeronáutica",
     "theme": "técnica"
   },
   {
     "author": "Willy Messerschmitt",
     "quote": "El diseño debe adaptarse a la misión",
     "ref": "Atribuida; principio de ingeniería",
-    "category": "Ingeniería Aeronáutica",
+    "category": "IngAeronáutica",
     "theme": "creación"
   },
   {
     "author": "Wernher von Braun",
     "quote": "Apunto a las estrellas, pero a veces doy en Londres",
     "ref": "Atribuida; comentario irónico posterior a la guerra",
-    "category": "Ingeniería Aeroespacial",
+    "category": "IngAeroespacial",
     "theme": "creación"
   },
   {
     "author": "Wernher von Braun",
     "quote": "Lo importante es el futuro de la exploración espacial, no el pasado",
     "ref": "Atribuida; entrevistas",
-    "category": "Ingeniería Aeroespacial",
+    "category": "IngAeroespacial",
     "theme": "creación"
   },
   {
     "author": "Wernher von Braun",
     "quote": "La ciencia de cohetes no es difícil; lo difícil es que funcione de forma fiable",
     "ref": "Atribuida; entrevistas",
-    "category": "Ingeniería Aeroespacial",
+    "category": "IngAeroespacial",
     "theme": "pragmatismo"
   },
   {
@@ -3056,5 +3056,157 @@
     "category": "Filosofía",
     "theme": "carácter",
     "source_quality": "medium"
+  },
+  {
+    "author": "Carl Friedrich Gauss",
+    "quote": "Las matemáticas son la reina de las ciencias, y la teoría de números es la reina de las matemáticas.",
+    "ref": "Gauss zum Gedächtniss (1856); cita transmitida por W. Sartorius von Waltershausen",
+    "category": "Matemáticas",
+    "theme": "técnica",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Carl Friedrich Gauss",
+    "quote": "Entiendo la palabra prueba no en el sentido de los abogados, que equiparan dos medias pruebas a una prueba entera, sino en el sentido del matemático, donde 1/2 prueba = 0, y se exige para la prueba que toda duda se vuelva imposible.",
+    "ref": "Carta a H. W. M. Olbers (14 mayo 1826)",
+    "category": "Matemáticas",
+    "theme": "disciplina",
+    "source_quality": "high"
+  },
+  {
+    "author": "Carl Friedrich Gauss",
+    "quote": "Debemos admitir con humildad que, mientras el número es puramente un producto de nuestra mente, el espacio tiene una realidad fuera de nuestra mente, de modo que no podemos prescribir completamente sus propiedades a priori.",
+    "ref": "Carta a F. W. Bessel (1830)",
+    "category": "Matemáticas",
+    "theme": "pensamiento",
+    "source_quality": "high"
+  },
+  {
+    "author": "Carl Friedrich Gauss",
+    "quote": "Hay problemas a cuya solución atribuiría una importancia infinitamente mayor que a los de las matemáticas, por ejemplo los que tocan a la ética, a nuestra relación con Dios, o a nuestro destino y nuestro futuro; pero su solución yace por completo fuera de nosotros y completamente fuera del dominio de la ciencia.",
+    "ref": "Citada en The World of Mathematics (1956)",
+    "category": "Matemáticas",
+    "theme": "ética",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Isaac Newton",
+    "quote": "Si he visto más lejos es porque me he subido a hombros de gigantes.",
+    "ref": "Carta a Robert Hooke (15 febrero 1676)",
+    "category": "Física",
+    "theme": "pensamiento",
+    "source_quality": "high"
+  },
+  {
+    "author": "Isaac Newton",
+    "quote": "No fabrico hipótesis.",
+    "ref": "Hypotheses non fingo; Principia / formulación citada en Wikiquote",
+    "category": "Física",
+    "theme": "disciplina",
+    "source_quality": "high"
+  },
+  {
+    "author": "Isaac Newton",
+    "quote": "No sé cómo puedo parecer al mundo, pero para mí mismo sólo he sido como un muchacho que juega en la orilla del mar y se entretiene encontrando de vez en cuando un guijarro más liso o una concha más hermosa de lo ordinario, mientras el gran océano de la verdad yacía sin descubrir ante mí.",
+    "ref": "Memoirs of the Life, Writings, and Discoveries of Sir Isaac Newton (1855), David Brewster",
+    "category": "Física",
+    "theme": "pensamiento",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Isaac Newton",
+    "quote": "Platón es mi amigo, Aristóteles es mi amigo, pero mi mayor amigo es la verdad.",
+    "ref": "Quaestiones Quaedam Philosophicae (c. 1664)",
+    "category": "Física",
+    "theme": "pensamiento",
+    "source_quality": "high"
+  },
+  {
+    "author": "Isaac Newton",
+    "quote": "Mantengo el asunto constantemente ante mí, y espero hasta que los primeros destellos se abran lentamente, poco a poco, en una luz plena y clara.",
+    "ref": "Biographia Britannica (1760), sobre su modo de descubrimiento",
+    "category": "Física",
+    "theme": "disciplina",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Niels Bohr",
+    "quote": "Quienes no se sienten conmocionados cuando se encuentran por primera vez con la teoría cuántica no pueden haberla entendido.",
+    "ref": "Conversación de 1952 citada por Heisenberg en Physics and Beyond (1971)",
+    "category": "Física",
+    "theme": "pensamiento",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Niels Bohr",
+    "quote": "Un experto es una persona que ha descubierto por su propia y dolorosa experiencia todos los errores que pueden cometerse en un campo muy estrecho.",
+    "ref": "Citada por Edward Teller en LIFE (6 septiembre 1954)",
+    "category": "Física",
+    "theme": "técnica",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Niels Bohr",
+    "quote": "Qué maravilloso que nos hayamos topado con una paradoja. Ahora tenemos alguna esperanza de progresar.",
+    "ref": "Citada en Niels Bohr: The Man, His Science, & the World They Changed (1966)",
+    "category": "Física",
+    "theme": "creación",
+    "source_quality": "medium"
+  },
+  {
+    "author": "Niels Bohr",
+    "quote": "Hay dos clases de verdades: las verdades profundas, reconocibles porque su opuesto también es una verdad profunda, y las trivialidades, cuyos opuestos son evidentemente absurdos.",
+    "ref": "Citada por Hans Bohr en Niels Bohr: His Life and Work (1967)",
+    "category": "Física",
+    "theme": "pensamiento",
+    "source_quality": "medium"
+  },
+  {
+    "author": "José Ortega y Gasset",
+    "quote": "Yo soy yo y mi circunstancia, y si no la salvo a ella no me salvo yo.",
+    "ref": "Meditaciones del Quijote",
+    "category": "Filosofía",
+    "theme": "pensamiento",
+    "source_quality": "high"
+  },
+  {
+    "author": "José Ortega y Gasset",
+    "quote": "Siempre he creído que es la claridad la cortesía del filósofo.",
+    "ref": "Wikiquote en español; atribuida en obras y recopilaciones orteguianas",
+    "category": "Filosofía",
+    "theme": "pensamiento",
+    "source_quality": "medium"
+  },
+  {
+    "author": "José Ortega y Gasset",
+    "quote": "Vivir es sentirse fatalmente forzado a ejercitar la libertad, a decidir lo que vamos a ser en este mundo.",
+    "ref": "Selección de fragmentos orteguianos; cita recogida en Wikiquote",
+    "category": "Filosofía",
+    "theme": "acción",
+    "source_quality": "medium"
+  },
+  {
+    "author": "José Ortega y Gasset",
+    "quote": "El hombre selecto no es el petulante que se cree superior a los demás, sino el que exige más de sí mismo que los demás.",
+    "ref": "La rebelión de las masas, p. 15",
+    "category": "Filosofía",
+    "theme": "carácter",
+    "source_quality": "high"
+  },
+  {
+    "author": "José Ortega y Gasset",
+    "quote": "La masa aplasta todo lo que es diferente, excelente, individual, cualificado y selecto.",
+    "ref": "La rebelión de las masas, p. 18",
+    "category": "Filosofía",
+    "theme": "sociedad",
+    "source_quality": "high"
+  },
+  {
+    "author": "Miguel de Unamuno",
+    "quote": "El dolor es la sustancia de la vida y la raíz de la personalidad, pues solo sufriendo se es persona",
+    "ref": "Del sentimiento trágico de la vida",
+    "category": "Filosofía",
+    "theme": "carácter",
+    "source_quality": "high"
   }
 ]
