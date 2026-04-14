@@ -1,0 +1,11 @@
+body {
+  min-height: 100vh;
+}
+
+.quote-item .blockquote {
+  font-size: 1.05rem;
+}
+
+.card {
+  border-radius: 1rem;
+}
