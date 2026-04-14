@@ -1,3 +1,12 @@
+
+
+.site-brand {
+  font-family: "CinzelCustom", serif;
+  font-weight: bolder;
+  letter-spacing: 0.04em;
+}
+
+
 body {
   min-height: 100vh;
 }
@@ -49,3 +58,22 @@ blockquote {
   background-color: #1e1e1e;
   color: aliceblue;
   border-color: aliceblue;
+}
+
+.btn-outline-primary:hover
+{
+  background-color: #2c2c2c;
+  color: aliceblue;
+  border-color: aliceblue;
+}
+
+.site-brand {
+  font-family: "Cinzel", serif;
+  letter-spacing: 0.04em;
+  color: palegoldenrod
+}
+
+.nav-link {
+  color: #e6e6e6;
+  font-size: larger;
+}
