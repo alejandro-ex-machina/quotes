@@ -1,238 +1,155 @@
-<!doctype html>
-<html lang="es">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Quotes Toolkit</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link href="{{ url_for('static', path='/custom.css') }}" rel="stylesheet">
-  <script src="{{ url_for('static', path='/copy.js') }}"></script>
-</head>
-<body data-bs-theme="dark" class="bg-body-tertiary">
-  <div class="container py-4">
-    <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 mb-4">
-      <div>
-        <h1 class="h3 mb-1">Quotes Toolkit</h1>
-        <div class="text-body-secondary">Colección total: {{ quotes_total }} citas</div>
+{% extends "base.html" %}
+
+{% block title %}Quotes Toolkit{% endblock %}
+
+{% block content %}
+<div class="d-flex flex-wrap align-items-center justify-content-between gap-3 mb-4">
+  <div>
+    <div class="text-body-secondary">{{ quotes_total }} citas</div>
+
+
+<div class="row g-4 align-items-start">
+  <div class="col-12 col-md-5 col-lg-4">
+    <div class="card shadow-sm border-0">
+      <div class="card-body">
+        <h2 class="h5 mb-3">Búsqueda</h2>
+
+        <form method="get" action="/">
+          <div class="mb-3">
+            <label for="q" class="form-label">Texto libre</label>
+            <input type="text" class="form-control" id="q" name="q" value="{{ params.q }}" placeholder="autor, cita, referencia...">
+          </div>
+
+          <div class="mb-3">
+            <label for="author" class="form-label">Autor</label>
+            <div class="input-group">
+              <input type="text" class="form-control" id="author" name="author" value="{{ params.author }}" list="authors-list">
+              <a href="/authors" class="btn btn-outline-secondary">Autores</a>
+            </div>
+            <datalist id="authors-list">
+              {% for author, count in authors %}
+              <option value="{{ author }}">{{ author }} ({{ count }})</option>
+              {% endfor %}
+            </datalist>
+          </div>
+
+          <div class="mb-3">
+            <label for="category" class="form-label">Categoría</label>
+            <input type="text" class="form-control" id="category" name="category" value="{{ params.category }}" list="categories-list">
+            <datalist id="categories-list">
+              {% for category, count in categories %}
+              <option value="{{ category }}">{{ category }} ({{ count }})</option>
+              {% endfor %}
+              <option value="Ingeniería">Ingeniería (paraguas)</option>
+              <option value="Automotriz">Automotriz</option>
+              <option value="Aeroespacial">Aeroespacial</option>
+              <option value="Aeronáutica">Aeronáutica</option>
+            </datalist>
+          </div>
+
+          <div class="mb-3">
+            <label for="theme" class="form-label">Theme</label>
+            <div class="input-group">
+              <input type="text" class="form-control" id="theme" name="theme" value="{{ params.theme }}" list="themes-list">
+              <a href="/themes" class="btn btn-outline-secondary">Themes</a>
+            </div>
+            <datalist id="themes-list">
+              {% for theme, count in themes %}
+              {% if theme %}
+              <option value="{{ theme }}">{{ theme }} ({{ count }})</option>
+              {% endif %}
+              {% endfor %}
+            </datalist>
+          </div>
+
+          <div class="mb-3">
+            <label for="quality" class="form-label">Calidad</label>
+            <select class="form-select" id="quality" name="quality">
+              <option value="">Todas</option>
+              {% for value, label in qualities %}
+              <option value="{{ value }}" {% if params.quality == value %}selected{% endif %}>{{ label }}</option>
+              {% endfor %}
+            </select>
+          </div>
+
+          <div class="form-check mb-3">
+            <input class="form-check-input" type="checkbox" value="true" id="hardcore" name="hardcore" {% if params.hardcore %}checked{% endif %}>
+            <label class="form-check-label" for="hardcore">Solo hardcore</label>
+          </div>
+
+          <div class="d-grid gap-2">
+            <button type="submit" class="btn btn-primary" name="mode" value="search">Buscar</button>
+            <button type="submit" class="btn btn-outline-primary" name="mode" value="random">Cita aleatoria</button>
+          </div>
+        </form>
       </div>
     </div>
-
-    <div class="row g-4">
-      <div class="col-lg-4">
-        <div class="card shadow-sm border-0">
-          <div class="card-body">
-            <h2 class="h5 mb-3">Búsqueda</h2>
-            <form method="get" action="/">
-              <div class="mb-3">
-<div style="margin-top: 1em; margin-bottom: 1em;">
-<a class="btn btn-outline-secondary" href="/">Limpiar filtros</a>
-</div>
-                <label for="q" class="form-label">Texto libre</label>
-                <input type="text" class="form-control" id="q" name="q" value="{{ params.q }}" placeholder="autor, cita, referencia...">
-              </div>
-
-              <div class="mb-3">
-
-
-<div class="mb-3">
-  <label for="author" class="form-label">Autor</label>
-
-  <div class="input-group">
-    <input type="text"
-           class="form-control"
-           id="author"
-           name="author"
-           value="{{ params.author }}"
-           list="authors-list">
-
-    <a href="/authors" class="btn btn-outline-secondary">
-      Autores
-    </a>
   </div>
 
-
-  <div class="mb-3">
-
-  <datalist id="authors-list">
-    {% for author, count in authors %}
-    <option value="{{ author }}">{{ author }} ({{ count }})</option>
-    {% endfor %}
-  </datalist>
-</div>
-
-
-                <datalist id="authors-list">
-                  {% for author, count in authors %}
-                  <option value="{{ author }}">{{ author }} ({{ count }})</option>
-                  {% endfor %}
-                </datalist>
-              </div>
-
-<div class="mb-3">
-  <label for="category" class="form-label">Categoría</label>
-
-  <div class="input-group">
-    <input type="text"
-           class="form-control"
-           id="category"
-           name="category"
-           value="{{ params.category }}"
-           list="categories-list">
-
-    <a href="/categories" class="btn btn-outline-secondary">
-      Categorías
-    </a>
-  </div>
-
-  <datalist id="categories-list">
-    {% for category, count in categories %}
-    <option value="{{ category }}">{{ category }} ({{ count }})</option>
-    {% endfor %}
-    <option value="Ingeniería">Ingeniería (paraguas)</option>
-    <option value="Automotriz">Automotriz</option>
-    <option value="Aeroespacial">Aeroespacial</option>
-    <option value="Aeronáutica">Aeronáutica</option>
-  </datalist>
-</div>
-
-              <div class="mb-3">
-
-  <label for="theme" class="form-label">Theme</label>
-
-  <div class="input-group">
-    <input type="text"
-           class="form-control"
-           id="theme"
-           name="theme"
-           value="{{ params.theme }}"
-           list="themes-list">
-
-    <a href="/themes" class="btn btn-outline-secondary">
-      Themes
-    </a>
-  </div>
-
-  <datalist id="themes-list">
-    {% for theme, count in themes %}
-    {% if theme %}
-    <option value="{{ theme }}">{{ theme }} ({{ count }})</option>
+  <div class="col-12 col-md-7 col-lg-8">
+    {% if random_result %}
+    <div class="card shadow-sm border-0 mb-4">
+      <div class="card-body">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+          <h2 class="h5 mb-0">Cita aleatoria</h2>
+          <span class="badge text-bg-primary">1 resultado</span>
+        </div>
+        <blockquote class="blockquote mb-3">
+          <p class="mb-0">«{{ random_result.quote }}»</p>
+        </blockquote>
+        <div class="fw-semibold">
+          <a href="/authors/{{ random_result.author | urlencode }}">{{ random_result.author }}</a>
+        </div>
+        <div class="text-body-secondary small mt-2">
+          {% if random_result.ref %}{{ random_result.ref }} · {% endif %}
+          {% if random_result.category %}{{ random_result.category }} · {% endif %}
+          theme=
+          {% if random_result.theme %}
+            <a href="/themes/{{ random_result.theme | urlencode }}" class="link-secondary text-decoration-none">{{ random_result.theme }}</a>
+          {% endif %}
+          {% if random_result.source_quality %} · quality={{ random_result.source_quality }}{% endif %}
+          {% if random_result.hardcore %} · hardcore{% endif %}
+        </div>
+      </div>
+    </div>
     {% endif %}
-    {% endfor %}
-  </datalist>
-</div>
 
-
-
-
-                <datalist id="themes-list">
-                  {% for theme, count in themes %}
-                  {% if theme %}
-                  <option value="{{ theme }}">{{ theme }} ({{ count }})</option>
-                  {% endif %}
-                  {% endfor %}
-                </datalist>
-              </div>
-
-              <div class="mb-3">
-                <label for="quality" class="form-label">Calidad</label>
-                <select class="form-select" id="quality" name="quality">
-                  <option value="">Todas</option>
-                  {% for value, label in qualities %}
-                  <option value="{{ value }}" {% if params.quality == value %}selected{% endif %}>{{ label }}</option>
-                  {% endfor %}
-                </select>
-              </div>
-
-              <div class="form-check mb-3">
-                <input class="form-check-input" type="checkbox" value="true" id="hardcore" name="hardcore" {% if params.hardcore %}checked{% endif %}>
-                <label class="form-check-label" for="hardcore">Solo hardcore</label>
-              </div>
-
-              <div class="d-grid gap-2">
-                <button type="submit" class="btn btn-primary" name="mode" value="search">Buscar</button>
-                <button type="submit" class="btn btn-outline-primary" name="mode" value="random">Cita aleatoria</button>
-              </div>
-            </form>
-          </div>
+    <div class="card shadow-sm border-0">
+      <div class="card-body">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+          <h2 class="h5 mb-0">Resultados</h2>
+          <span class="badge text-bg-secondary">{{ results_total }}</span>
         </div>
-      </div>
 
-      <div class="col-lg-8">
-        {% if random_result %}
-        <div class="card shadow-sm border-0 mb-4">
-          <div class="card-body">
-            <div class="d-flex justify-content-between align-items-center mb-3">
-              <h2 class="h5 mb-0">Cita aleatoria</h2>
-              <span class="badge text-bg-primary">1 resultado</span>
-            </div>
-            <blockquote class="blockquote mb-3">
-              <p class="mb-0">«{{ random_result.quote }}»</p>
-            </blockquote>
-            <div class="fw-semibold">{{ random_result.author }}</div>
-            <div class="text-body-secondary small mt-2">
-              {% if random_result.ref %}{{ random_result.ref }} · {% endif %}
-              {% if random_result.category %}{{ random_result.category }} · {% endif %}
-              theme={{ random_result.theme or "" }}
-              {% if random_result.source_quality %} · quality={{ random_result.source_quality }}{% endif %}
-              {% if random_result.hardcore %} · hardcore{% endif %}
-            </div>
-          </div>
+        {% if not results %}
+        <div class="alert alert-warning mb-0">
+          No hay resultados para esos filtros.
         </div>
-        {% endif %}
-
-        <div class="card shadow-sm border-0">
-          <div class="card-body">
-            <div class="d-flex justify-content-between align-items-center mb-3">
-              <h2 class="h5 mb-0">Resultados</h2>
-              <span class="badge text-bg-secondary">{{ results_total }}</span>
-            </div>
-
-            {% if not results %}
-            <div class="alert alert-warning mb-0">
-              No hay resultados para esos filtros.
-            </div>
-            {% else %}
-            <div class="small text-body-secondary mb-3">Mostrando hasta 200 resultados.</div>
-            {% for item in results %}
-            <article class="quote-item {% if not loop.last %}border-bottom{% endif %} pb-3 {% if not loop.last %}mb-3{% endif %}">
-
-  <button
-  type="button"
-  class="btn btn-sm btn-outline-secondary copy-btn"
-  title="Copiar cita"
-  aria-label="Copiar cita"
-  data-quote="{{ item.quote | e }}"
-  data-author="{{ item.author | e }}"
->
-  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
-    <path d="M10 1.5A1.5 1.5 0 0 1 11.5 3v1H9V3a.5.5 0 0 0-.5-.5H3A1.5 1.5 0 0 0 1.5 4v7A1.5 1.5 0 0 0 3 12.5h1v1A1.5 1.5 0 0 0 5.5 15h7A1.5 1.5 0 0 0 14 13.5v-7A1.5 1.5 0 0 0 12.5 5h-1V3A1.5 1.5 0 0 0 10 1.5M5 5.5h5.5A1.5 1.5 0 0 1 12 7v5.5a.5.5 0 0 1-.5.5H5.5a.5.5 0 0 1-.5-.5V6A.5.5 0 0 1 5.5 5.5M3 3.5h5.5A.5.5 0 0 1 9 4v1H5.5A1.5 1.5 0 0 0 4 6.5V11H3a.5.5 0 0 1-.5-.5V4A.5.5 0 0 1 3 3.5"/>
-  </svg>
-</button>
-
-              <blockquote class="blockquote mb-2">
-                <p class="mb-0">«{{ item.quote }}».</p>
-              </blockquote>
-              <div class="fw-semibold">
-<a href="/authors/{{ item.author }}">{{ item.author }}</a>              
-              </div>
-
-              <div class="text-body-secondary small mt-1">
-                {% if item.ref %}{{ item.ref }} · {% endif %}
-                {% if item.category %}{{ item.category }} · {% endif %}                
-                theme={{ item.theme or "" }}
-
-                <a href="/themes/{{ theme }}">{{ theme }}</a>
-
-                {% if item.source_quality %} · quality={{ item.source_quality }}{% endif %}
-                {% if item.hardcore %} · hardcore{% endif %}
-              </div>
-            </article>
-            {% endfor %}
+        {% else %}
+        <div class="small text-body-secondary mb-3">Mostrando hasta 200 resultados.</div>
+        {% for item in results %}
+        <article class="quote-item {% if not loop.last %}border-bottom{% endif %} pb-3 {% if not loop.last %}mb-3{% endif %}">
+          <blockquote class="blockquote mb-2">
+            <p class="mb-0">«{{ item.quote }}»</p>
+          </blockquote>
+          <div class="fw-semibold">
+            <a href="/authors/{{ item.author | urlencode }}">{{ item.author }}</a>
+          </div>
+          <div class="text-body-secondary small mt-1">
+            {% if item.ref %}{{ item.ref }} · {% endif %}
+            {% if item.category %}{{ item.category }} · {% endif %}
+            theme=
+            {% if item.theme %}
+              <a href="/themes/{{ item.theme | urlencode }}" class="link-secondary text-decoration-none">{{ item.theme }}</a>
             {% endif %}
+            {% if item.source_quality %} · quality={{ item.source_quality }}{% endif %}
+            {% if item.hardcore %} · hardcore{% endif %}
           </div>
-        </div>
+        </article>
+        {% endfor %}
+        {% endif %}
       </div>
     </div>
   </div>
-</body>
-</html>
+</div>
+{% endblock %}

@@ -34,9 +34,18 @@ blockquote {
   min-width: 2.25rem;
   min-height: 2.25rem;
   line-height: 1;
+  border:  0;
+  float: right;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   border-radius: 0.65rem;
   flex-shrink: 0;
 }
+
+
+.btn-outline-primary
+{
+  background-color: #1e1e1e;
+  color: aliceblue;
+  border-color: aliceblue;

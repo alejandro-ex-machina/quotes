@@ -163,7 +163,7 @@ def categories_page(request: Request):
 
 
 @app.get("/categories/{category}", response_class=HTMLResponse)
-def category_detail(request: Request, category: str):
+def category_details(request: Request, category: str):
     quotes = get_quotes()
     results = filter_quotes(quotes, category=category)
 
