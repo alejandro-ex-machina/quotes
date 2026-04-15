@@ -6,13 +6,13 @@
 
 <div class="container py-4">
 
-  <h1 class="h3 mb-4">Temas</h1>
+  <h1 class="h3 title-wh mb-4">Temas</h1>
 
   <div class="list-group">
     {% for theme, count in themes %}
       <a href="/themes/{{ theme }}" class="list-group-item list-group-item-action d-flex justify-content-between">
         <span>{{ theme }}</span>
-        <span class="badge bg-secondary">{{ count }}</span>
+        <span class="badge text-bg-danger rounded-pill">{{ count }}</span>
       </a>
     {% endfor %}
   </div>

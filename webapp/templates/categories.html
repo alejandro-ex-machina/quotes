@@ -7,10 +7,8 @@
   <div class="container py-3 py-md-4">
     <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-2 mb-4">
       <div>
-        <h1 class="h3 mb-1">Categorías</h1>
-        <p class="text-secondary mb-0">Explora ideas por procedencia o ámbito</p>
+        <h1 class="h3 title-wh mb-1">Categorías</h1>
       </div>
-      <a href="/" class="btn btn-outline-secondary">Inicio</a>
     </div>
 
     {% if categories %}
@@ -19,7 +17,7 @@
           <a href="/categories/{{ category | urlencode }}"
              class="list-group-item list-group-item-action d-flex align-items-center justify-content-between gap-3 py-3 px-3">
             <span class="fw-medium">{{ category }}</span>
-            <span class="badge text-bg-secondary rounded-pill">{{ count }}</span>
+            <span class="badge text-bg-danger rounded-pill">{{ count }}</span>
           </a>
         {% endfor %}
       </div>

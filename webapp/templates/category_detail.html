@@ -9,19 +9,16 @@
 
     <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-4">
       <div>
-        <h1 class="h3 mb-1">{{ category }}</h1>
+        <h1 class="h3 title-wh mb-1">{{ category }}</h1>
         <p class="text-secondary mb-0">{{ results_total }} citas</p>
       </div>
 
-      <div class="d-flex flex-column flex-sm-row gap-2">
-        <a href="/categories" class="btn btn-outline-secondary">Categorías</a>
-        <a href="/" class="btn btn-outline-secondary">Inicio</a>
-      </div>
+
     </div>
 
     {% if authors_in_category %}
     <div class="mb-4">
-      <h2 class="h5 mb-3">Autores</h2>
+      <h2 class="h5 subtitle mb-3">Autores</h2>
       <div class="d-flex flex-wrap gap-2">
         {% for author, count in authors_in_category %}
           <a href="/authors/{{ author | urlencode }}" class="btn btn-sm btn-outline-primary">
@@ -34,7 +31,7 @@
 
     {% if themes_in_category %}
     <div class="mb-4">
-      <h2 class="h5 mb-3">Themes</h2>
+      <h2 class="h5 subtitle mb-3">Temas</h2>
       <div class="d-flex flex-wrap gap-2">
         {% for theme, count in themes_in_category %}
           <a href="/themes/{{ theme | urlencode }}" class="btn btn-sm btn-outline-secondary">
@@ -55,15 +52,16 @@
           {% for item in results %}
           <article class="quote-item {% if not loop.last %}border-bottom{% endif %} pb-3 {% if not loop.last %}mb-3{% endif %}">
 
-
-              <button
+            <button
   type="button"
   class="btn btn-sm btn-outline-secondary copy-btn"
   title="Copiar cita"
   aria-label="Copiar cita"
   data-quote="{{ item.quote | e }}"
-  data-author="{{ item.author | e }}"
->
+  data-author="{{ item.author | e }}">
+
+
+
   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
     <path d="M10 1.5A1.5 1.5 0 0 1 11.5 3v1H9V3a.5.5 0 0 0-.5-.5H3A1.5 1.5 0 0 0 1.5 4v7A1.5 1.5 0 0 0 3 12.5h1v1A1.5 1.5 0 0 0 5.5 15h7A1.5 1.5 0 0 0 14 13.5v-7A1.5 1.5 0 0 0 12.5 5h-1V3A1.5 1.5 0 0 0 10 1.5M5 5.5h5.5A1.5 1.5 0 0 1 12 7v5.5a.5.5 0 0 1-.5.5H5.5a.5.5 0 0 1-.5-.5V6A.5.5 0 0 1 5.5 5.5M3 3.5h5.5A.5.5 0 0 1 9 4v1H5.5A1.5 1.5 0 0 0 4 6.5V11H3a.5.5 0 0 1-.5-.5V4A.5.5 0 0 1 3 3.5"/>
   </svg>

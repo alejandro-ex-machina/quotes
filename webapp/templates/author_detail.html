@@ -7,17 +7,17 @@
   <div class="container py-4">
     <div class="d-flex justify-content-between align-items-center mb-4">
       <div>
-        <h1 class="h3 mb-1">{{ author }}</h1>
+        <h1 class="h1 title-wh mb-1">{{ author }}</h1>
         <div class="text-body-secondary">{{ results_total }} citas</div>
       </div>
     </div>
 
     {% if themes_for_author %}
     <div class="mb-4">
-      <h2 class="h5">Themes</h2>
+      <h2 class="subtitle">Temas</h2>
       <div class="d-flex flex-wrap gap-2">
         {% for theme, count in themes_for_author %}
-          <a class="btn btn-sm btn-outline-primary" href="/themes/{{ theme }}">{{ theme }} ({{ count }})</a>
+          <a class="btn badge rounded-pill text-bg-primary grande" href="/themes/{{ theme }}">{{ theme }} ({{ count }})</a>
         {% endfor %}
       </div>
     </div>
@@ -25,10 +25,10 @@
 
     {% if categories_for_author %}
     <div class="mb-4">
-      <h2 class="h5">Categorías</h2>
+      <h2 class="subtitle">Categorías</h2>
       <div class="d-flex flex-wrap gap-2">
         {% for category, count in categories_for_author %}
-          <a class="btn btn-sm btn-outline-secondary" href="/?category={{ category }}">{{ category }} ({{ count }})</a>
+          <a class="btn badge rounded-pill text-bg-secondary grande" href="/?category={{ category }}">{{ category }} ({{ count }})</a>
         {% endfor %}
       </div>
     </div>

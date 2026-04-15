@@ -28,11 +28,20 @@
   color: #c4452d; /* lobster elegante */
 }
 
+.title-wh {
+  font-family: 'Cinzel', serif;
+  font-size: 2.8rem;
+  margin: 0;
+  letter-spacing: 2px;
+  color: #eee; /* lobster elegante */
+}
+
 .subtitle {
   font-family: 'Cinzel', serif;
-  font-size: 1rem;
+  font-size: 1.3rem;
   margin-top: 8px;
   color: #c4452d;
+  font-weight: bold;
   letter-spacing: 3px;
 }
 
@@ -112,6 +121,7 @@
   object-fit: cover;
   object-position: center top; /* importante para retratos */
   border: 2px solid #c4452d; /* opcional */
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .container, .bg-body-tertiary {
@@ -132,4 +142,19 @@ body {
 
   /* border: 1px solid #c4452d; */
   color:  #cdcdcd;
+}
+
+.grande {
+  font-size: 1.1rem;
+}
+
+.copy-btn {
+  color: #fff;
+  border: none;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+  font-weight: normal;
+  transition: background-color 0.2s ease;
 }
