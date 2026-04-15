@@ -42,9 +42,9 @@
   font-family: 'Cinzel', serif;
   font-size: 1.3rem;
   margin-top: 0px;
-  color: #b47467; /* lobster elegante */
+  color: #e78a77; /* lobster elegante */
   font-weight: normal;
-  letter-spacing: 3px;
+  letter-spacing: -0.5px;
 }
 
 .main-nav {
@@ -122,7 +122,7 @@
   object-fit: cover;
   object-position: center top; /* importante para retratos */
   border: 2px solid #b47467;; /* opcional */
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.75);
 }
 
 .container, .bg-body-tertiary {
@@ -185,4 +185,22 @@ body {
   alignment-baseline: baseline;
   padding: 0.5em;
   
+}
+
+
+.author-avatar {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid #b89b5e; /* tono dorado sobrio */
+  box-shadow: 0 0 0 4px #1a1a1a; /* doble borde */
+}
+
+.author-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+  filter: contrast(1.05) saturate(0.9);
 }

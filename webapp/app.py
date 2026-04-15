@@ -9,6 +9,16 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
 from quoteslib import counter_values, filter_quotes, load_quotes, random_quote
+import os
+import unicodedata
+
+def normalize_author_filename(author: str) -> str:
+    name = unicodedata.normalize('NFKD', author)\
+        .encode('ascii', 'ignore')\
+        .decode()
+
+    name = name.lower().replace(' ', '_')
+    return f"{name}.png"
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -22,6 +32,18 @@ templates = Jinja2Templates(directory=str(BASE_DIR / "templates"))
 def get_quotes() -> list[dict]:
     return load_quotes(QUOTES_FILE)
 
+
+def author_detail(author):
+    filename = normalize_author_filename(author)
+    path = f"static/images/{filename}"
+
+    avatar_exists = os.path.exists(path)
+
+    return templates.TemplateResponse("author.html", {
+        "author": author,
+        "avatar_exists": avatar_exists,
+        "avatar_filename": filename
+    })
 
 @app.get("/", response_class=HTMLResponse)
 def index(
