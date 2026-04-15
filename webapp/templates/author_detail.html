@@ -4,6 +4,8 @@
 
 {% block content %}
 
+  <h1 class="h3 mb-4 title-wh">{{ author }}</h1>
+
 {% set avatar_path = 'images/' + author + '.png' %}
 
 
@@ -15,28 +17,53 @@
 </div>
     
 
-    {% if themes_for_author %}
-    <div class="mb-4">
-      <h2 class="subtitle">Temas</h2>
-      <div class="d-flex flex-wrap gap-2">
-        {% for theme, count in themes_for_author %}
-          <a class="btn badge rounded-pill text-bg-primary grande" href="/themes/{{ theme }}">{{ theme }} ({{ count }})</a>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
 
-    {% if categories_for_author %}
-    <div class="mb-4">
-      <h2 class="subtitle">Categorías</h2>
-      <div class="d-flex flex-wrap gap-2">
-        {% for category, count in categories_for_author %}
-          <a class="btn badge rounded-pill text-bg-secondary grande" href="/categories/{{ category }}">{{ category }} ({{ count }})</a>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
+{% if categories_for_author %}
+<div class="mb-4">
+  <h2 class="subtitle-wh">Categorías</h2>
+  <div class="d-flex flex-wrap gap-2">
+    {% for category, count in categories_for_author %}
 
+
+<button type="button" class="btn btn-secondary position-relative">
+  {{ category }}
+  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+    {{ count }}
+    <span class="visually-hidden">citas</span>
+  </span>
+</button>
+
+
+
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if themes_for_author %}
+<div class="mb-4">
+  <h2 class="subtitle-wh">Temas</h2>
+  <div class="d-flex flex-wrap gap-2 grande">
+    {% for theme, count in themes_for_author %}
+
+
+      <!-- <a class="btn badge rounded-pill text-bg-primary grande" href="/themes/{{ theme }}">{{ theme }} ({{ count }})</a> -->
+
+<!-- <span class=" bg-secondary">{{ theme }}</span>
+<button type="button" class="btn badge btn-success btn-lg">{{ theme }}</button> -->
+
+<button type="button" class="btn btn-primary position-relative">
+  {{ theme }}
+  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+    {{ count }}
+    <span class="visually-hidden">citas</span>
+  </span>
+</button>
+
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
 
     <div class="card shadow-sm border-0">
       <div class="card-body">
