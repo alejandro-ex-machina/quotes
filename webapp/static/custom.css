@@ -1,11 +1,6 @@
-
-
-.site-brand {
-  font-family: "CinzelCustom", serif;
-  font-weight: bolder;
-  letter-spacing: 0.04em;
+:root {
+  --lobster-accent: #c2410c; /* naranja oscuro */
 }
-
 
 body {
   min-height: 100vh;
@@ -53,18 +48,14 @@ blockquote {
 }
 
 
-.btn-outline-primary
-{
-  background-color: #1e1e1e;
-  color: aliceblue;
-  border-color: aliceblue;
+.btn-outline-primary {
+  border-color: var(--lobster-accent);
+  color: var(--lobster-accent);
 }
 
-.btn-outline-primary:hover
-{
-  background-color: #2c2c2c;
-  color: aliceblue;
-  border-color: aliceblue;
+.btn-outline-primary:hover {
+  background-color: var(--lobster-accent);
+  color: white;
 }
 
 .site-brand {
@@ -76,4 +67,11 @@ blockquote {
 .nav-link {
   color: #e6e6e6;
   font-size: larger;
+}
+
+.site-brand {
+  font-family: "CinzelCustom", serif;
+  font-weight: bolder;
+  letter-spacing: 0.04em;
+  color: var(--lobster-accent);
 }

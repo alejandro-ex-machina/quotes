@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Merriam Lobster logo</title>
+  <desc id="desc">Stylized top-view lobster logo in a clean heraldic line style.</desc>
+  <defs>
+    <style>
+      .line {
+        fill: none;
+        stroke: #e6e6e6;
+        stroke-width: 14;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+      .fill {
+        fill: #e6e6e6;
+        stroke: none;
+      }
+    </style>
+  </defs>
+
+  <ellipse class="line" cx="256" cy="248" rx="54" ry="94"/>
+  <path class="line" d="M256 154 C236 142,220 124,220 102 C220 78,236 62,256 52 C276 62,292 78,292 102 C292 124,276 142,256 154Z"/>
+
+  <path class="line" d="M244 52 L232 26"/>
+  <path class="line" d="M268 52 L280 26"/>
+
+  <path class="line" d="M224 324 C238 336,246 350,246 366"/>
+  <path class="line" d="M288 324 C274 336,266 350,266 366"/>
+  <path class="line" d="M214 350 C232 364,240 382,240 402"/>
+  <path class="line" d="M298 350 C280 364,272 382,272 402"/>
+
+  <path class="line" d="M240 402 C222 420,200 432,176 438"/>
+  <path class="line" d="M272 402 C290 420,312 432,336 438"/>
+  <path class="line" d="M248 410 C244 438,230 460,208 478"/>
+  <path class="line" d="M264 410 C268 438,282 460,304 478"/>
+
+  <path class="line" d="M208 184 C172 166,140 152,118 128"/>
+  <path class="line" d="M188 204 C152 196,118 194,86 204"/>
+  <path class="line" d="M118 128 C88 106,66 90,58 66"/>
+  <path class="line" d="M86 204 C60 218,42 240,34 268"/>
+  <path class="line" d="M58 66 C84 48,110 46,134 58 C120 78,102 94,80 104"/>
+  <path class="line" d="M34 268 C54 246,80 236,108 238 C98 262,82 282,58 296"/>
+
+  <path class="line" d="M304 184 C340 166,372 152,394 128"/>
+  <path class="line" d="M324 204 C360 196,394 194,426 204"/>
+  <path class="line" d="M394 128 C424 106,446 90,454 66"/>
+  <path class="line" d="M426 204 C452 218,470 240,478 268"/>
+  <path class="line" d="M454 66 C428 48,402 46,378 58 C392 78,410 94,432 104"/>
+  <path class="line" d="M478 268 C458 246,432 236,404 238 C414 262,430 282,454 296"/>
+
+  <path class="line" d="M206 218 C174 224,148 236,126 254"/>
+  <path class="line" d="M202 246 C170 254,146 270,126 290"/>
+  <path class="line" d="M202 274 C172 286,148 304,132 326"/>
+  <path class="line" d="M210 300 C184 316,164 336,150 358"/>
+
+  <path class="line" d="M306 218 C338 224,364 236,386 254"/>
+  <path class="line" d="M310 246 C342 254,366 270,386 290"/>
+  <path class="line" d="M310 274 C340 286,364 304,380 326"/>
+  <path class="line" d="M302 300 C328 316,348 336,362 358"/>
+
+  <circle class="fill" cx="240" cy="94" r="5"/>
+  <circle class="fill" cx="272" cy="94" r="5"/>
+</svg>
