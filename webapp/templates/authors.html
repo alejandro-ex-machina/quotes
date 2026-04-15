@@ -6,12 +6,15 @@
 <div class="container py-4">
   <h1 class="h3 mb-4 title-wh">Autores</h1>
 
-  <div class="list-group">
+  <div class="list-group shadow-sm">
     {% for author, count in authors %}
+    <div class="list-item">
       <a href="/authors/{{ author }}" class="list-group-item list-group-item-action d-flex justify-content-between">
         <span>{{ author }}</span>
-        <span class="badge text-bg-danger rounded-pill">{{ count }}</span>
+        <span class="badge text-bg-success rounded-pill">{{ count }}</span>
       </a>
+    </div>
+    
     {% endfor %}
   </div>
 

@@ -8,12 +8,18 @@
 
   <h1 class="h3 title-wh mb-4">Temas</h1>
 
-  <div class="list-group">
+  <div class="list-group shadow-sm">
     {% for theme, count in themes %}
+
+      <div class="list-item">
+
       <a href="/themes/{{ theme }}" class="list-group-item list-group-item-action d-flex justify-content-between">
         <span>{{ theme }}</span>
         <span class="badge text-bg-danger rounded-pill">{{ count }}</span>
       </a>
+
+      </div>
+
     {% endfor %}
   </div>
 

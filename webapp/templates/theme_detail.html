@@ -32,23 +32,21 @@
       </button>
       <blockquote>«{{ item.quote }}».</blockquote>
 
-      <small>
+      <blockquote>
         <a href="/authors/{{ item.author }}">{{ item.author }}</a>
 
 
 
         {% if item.category %}
-        · <a href="/?category={{ item.category }}">{{ item.category }}</a>
+        · <a href="/categories/{{ item.category }}">{{ item.category }}</a>
         {% endif %}
 
         {% if item.source_quality %}
         · {{ item.source_quality }}
         {% endif %}
-      </small>
+      </blockquote>>
     </div>
     {% endfor %}
-
-    <a href="/themes" class="btn btn-outline-secondary">Volver</a>
 
   </div>
 

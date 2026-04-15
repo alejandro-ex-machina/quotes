@@ -28,7 +28,7 @@
       <h2 class="subtitle">Categorías</h2>
       <div class="d-flex flex-wrap gap-2">
         {% for category, count in categories_for_author %}
-          <a class="btn badge rounded-pill text-bg-secondary grande" href="/?category={{ category }}">{{ category }} ({{ count }})</a>
+          <a class="btn badge rounded-pill text-bg-secondary grande" href="/categories/{{ category }}">{{ category }} ({{ count }})</a>
         {% endfor %}
       </div>
     </div>
@@ -61,13 +61,10 @@
                 
             </blockquote>
 
-
-
-
             <div class="text-body-secondary small mt-1">
               {% if item.ref %}{{ item.ref }} · {% endif %}
               {% if item.category %}
-                <a href="/?category={{ item.category }}" class="link-secondary text-decoration-none">{{ item.category }}</a> ·
+                <a href="/categories/{{ item.category }}" class="link-secondary text-decoration-none">{{ item.category }}</a> ·
               {% endif %}
               theme=
               {% if item.theme %}
