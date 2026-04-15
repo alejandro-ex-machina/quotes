@@ -98,9 +98,18 @@
 }
 
 .main-header {
-  padding-bottom: 20px;
+  padding-bottom: 0px;
 }
 
 .main-nav {
-  padding-top: 5px;
+  padding-top: 0px;
+}
+
+.author-avatar {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top; /* importante para retratos */
+  border: 2px solid #c4452d; /* opcional */
 }
