@@ -59,7 +59,7 @@
   letter-spacing: 2px;
   text-transform: uppercase;
 
-  color: #c4452d;
+  color: #cdcdcd;
   text-decoration: none;
   opacity: 0.8;
 
@@ -105,11 +105,31 @@
   padding-top: 0px;
 }
 
-.author-avatar {
+.lobster-avatar {
   width: 128px;
   height: 128px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center top; /* importante para retratos */
   border: 2px solid #c4452d; /* opcional */
+}
+
+.container, .bg-body-tertiary {
+  background: #2f3841; /* tu color actual */
+  padding: 0;
+} 
+
+body {
+  background-color: #2f3841; /* tu color actual */
+}
+
+.list-group
+{
+  background: #2f3841; /* tu color actual */
+}
+
+.list-group-item {
+
+  /* border: 1px solid #c4452d; */
+  color:  #cdcdcd;
 }
