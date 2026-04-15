@@ -1,77 +1,106 @@
-:root {
-  --lobster-accent: #c2410c; /* naranja oscuro */
+.main-header {
+  background: #2f3841; /* tu color actual */
+  padding: 40px 20px;
+
+  display: flex;
+  justify-content: center;  /* centra horizontal */
+  align-items: center;      /* centra vertical (si crece) */
+  text-align: center;
 }
 
-body {
-  min-height: 100vh;
+.header-inner {
+  max-width: 900px;
+  width: 100%;
 }
 
-.quote-item .blockquote {
-  font-size: 1.05rem;
+.logo {
+  width: 120px;
+  height: auto;
+  margin-bottom: 16px;
 }
 
-.card {
-  border-radius: 1rem;
+/* Tipografía */
+.title {
+  font-family: 'Cinzel', serif;
+  font-size: 2.8rem;
+  margin: 0;
+  letter-spacing: 2px;
+  color: #c4452d; /* lobster elegante */
 }
 
-body {
-  background-color: #121212;
+.subtitle {
+  font-family: 'Cinzel', serif;
+  font-size: 1rem;
+  margin-top: 8px;
+  color: #c4452d;
+  letter-spacing: 3px;
 }
 
-.card {
-  background-color: #1e1e1e;
-  border: 1px solid #2c2c2c;
+.main-nav {
+  background: #2f3841; /* mismo fondo que header */
+  padding: 10px 20px 25px;
+  text-align: center;
+  border-top: 1px solid rgba(255,255,255,0.05);
 }
 
-blockquote {
-  color: #e6e6e6;
-}
+.nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 
-.text-body-secondary {
-  color: #9aa0a6 !important;
-}
-
-.input-group .btn {
-  white-space: nowrap;
-} 
-.copy-btn {
-  min-width: 2.25rem;
-  min-height: 2.25rem;
-  line-height: 1;
-  border:  0;
-  float: right;
-  display: inline-flex;
-  align-items: center;
+  display: flex;
   justify-content: center;
-  border-radius: 0.65rem;
-  flex-shrink: 0;
+  gap: 40px;
 }
 
+.nav-list a {
+  font-family: 'Cinzel', serif;
+  font-size: 0.9rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 
-.btn-outline-primary {
-  border-color: var(--lobster-accent);
-  color: var(--lobster-accent);
+  color: #c4452d;
+  text-decoration: none;
+  opacity: 0.8;
+
+  transition: all 0.2s ease;
 }
 
-.btn-outline-primary:hover {
-  background-color: var(--lobster-accent);
-  color: white;
+.nav-list a:hover {
+  opacity: 1;
+  text-decoration: none;
 }
 
-.site-brand {
-  font-family: "Cinzel", serif;
-  letter-spacing: 0.04em;
-  color: palegoldenrod
+.nav-list a.active {
+  opacity: 1;
+  font-weight: 600;
 }
 
-.nav-link {
-  color: #e6e6e6;
-  font-size: larger;
+.nav-list a::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 1px;
+  background: #c4452d;
+  margin: 6px auto 0;
+  transition: width 0.2s ease;
 }
 
-.site-brand {
-  font-family: "CinzelCustom", serif;
-  font-weight: bolder;
-  letter-spacing: 0.04em;
-  color: var(--lobster-accent);
+.nav-list a:hover::after {
+  width: 100%;
+}
+
+@media (max-width: 576px) {
+  .nav-list {
+    flex-direction: column;
+    gap: 12px;
+  }
+}
+
+.main-header {
+  padding-bottom: 20px;
+}
+
+.main-nav {
+  padding-top: 5px;
 }

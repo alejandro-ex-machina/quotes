@@ -1,40 +1,23 @@
-<div class="container py-3 py-md-4">
 
-  <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-4">
+<header class="main-header">
+  <div class="header-inner">
+    
+        <img src="{{ url_for('static', path='/lobster.png') }}" width="128" height="128" alt="Merriam Lobster logo" class="logo">
 
-    <div class="d-flex align-items-center justify-content-between gap-2 mb-1">
-        
-        <div class="container">
-          <h1>
-            <span class="site-brand">Merriam</span>
-            <img src="/static/lobster.png" width="128" height="128" alt="Merriam Lobster logo"> 
-            <span class="site-brand">Lobster</span>
-          </h1>
-          
-          <span class="text-body-secondary small">Diccionario navegable de ideasz</span>
-        </div>
+    <h1 class="title">Merriam Lobster</h1>
 
-
-<!--         
-        <div class="text-body-secondary small">Diccionario navegable de ideas</div>
-        <ul class="nav flex-column flex-md-row gap-2 mb-4">
-          <li class="nav-item">
-            <a class="nav-link" href="/">/</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/authors">Autores</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/themes">Temas</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/categories">Categorías</a>
-          </li>
-        </ul> -->
-
-
-
-    </div>
+    <p class="subtitle">Diccionario navegable de ideas</p>
 
   </div>
-</div>
+</header>
+
+
+
+<nav class="main-nav">
+  <ul class="nav-list">
+    <li><a href="/">Inicio</a></li>
+    <li><a href="/authors">Autores</a></li>
+    <li><a href="/categories">Categorías</a></li>
+    <li><a href="/themes">Temas</a></li>
+  </ul>
+</nav>
