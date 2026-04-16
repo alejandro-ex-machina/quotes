@@ -78,7 +78,7 @@ color: #b89b5e; /* lobster elegante */
   font-weight: bold;
   display: flex;
   justify-content: center;
-  gap: 10px;
+  gap: 0.2em 0.5em;;
 }
 
 .nav-list a {
