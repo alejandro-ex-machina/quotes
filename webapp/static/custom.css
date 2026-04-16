@@ -83,14 +83,12 @@ color: #b89b5e; /* lobster elegante */
 }
 
 .nav-list a {
-  font-family: 'Cinzel', serif;
-  font-size: 0.9rem;
-  letter-spacing: -0.5px;
-  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
 
-  color: #d85d44; /* lobster elegante */
+  color: #b89b5e; /* lobster elegante */
   text-decoration: none;
-  opacity: 0.8;
+  opacity: 0.5;
 
   transition: all 0.2s ease;
 }
@@ -110,7 +108,7 @@ color: #b89b5e; /* lobster elegante */
   display: block;
   width: 0;
   height: 1px;
-  background: #c4452d;
+  background: #b89b5e;
   margin: 6px auto 0;
   transition: width 0.2s ease;
 }
