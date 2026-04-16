@@ -8,6 +8,15 @@
   text-align: center;
 }
 
+.tag-btn {
+  position: relative;
+  padding-right: 1.4rem;
+}
+
+.tag-btn .badge {
+  transform: translate(-15%, -35%);
+}
+
 .header-inner {
   max-width: 900px;
   width: 100%;
@@ -214,4 +223,21 @@ body {
   object-fit: cover;
   object-position: center 20%;
   filter: contrast(1.05) saturate(0.9);
+}
+
+.badge-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem 1.2rem;
+}
+
+.tag-btn {
+  position: relative;
+  margin-right: 0.4rem;
+}
+
+.tag-btn .badge {
+  top: 0;
+  left: 100%;
+  transform: translate(-25%, -30%);
 }
