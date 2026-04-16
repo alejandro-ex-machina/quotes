@@ -85,12 +85,18 @@ color: #b89b5e; /* lobster elegante */
 .nav-list a {
   font-family: 'Roboto', sans-serif;
   font-size: 1rem;
+  float: center;
 
   color: #b89b5e; /* lobster elegante */
   text-decoration: none;
   opacity: 0.5;
 
   transition: all 0.2s ease;
+}
+
+.nav {
+  display: flex;
+  text-align: center;
 }
 
 .nav-list a:hover {
