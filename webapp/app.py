@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+import unicodedata
 from pathlib import Path
 
 from fastapi import FastAPI, Query, Request
@@ -9,16 +10,15 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
 from quoteslib import counter_values, filter_quotes, load_quotes, random_quote
-import os
-import unicodedata
-from pathlib import Path
+
 
 def normalize_author_filename(author: str) -> str:
-    name = unicodedata.normalize('NFKD', author)\
-        .encode('ascii', 'ignore')\
+    name = (
+        unicodedata.normalize("NFKD", author)
+        .encode("ascii", "ignore")
         .decode()
-
-    name = name.lower().replace(' ', '_')
+    )
+    name = name.lower().replace(" ", "_")
     return f"{name}.png"
 
 
@@ -34,8 +34,16 @@ def get_quotes() -> list[dict]:
     return load_quotes(QUOTES_FILE)
 
 
+def get_author_image(author: str) -> str | None:
+    filename = author.lower().replace(" ", "_") + ".webp"
+    image_path = BASE_DIR / "static" / "images" / filename
 
-@app.get("/", response_class=HTMLResponse)
+    if image_path.exists():
+        return filename
+    return None
+
+
+@app.get("/", response_class=HTMLResponse, name="home")
 def index(
     request: Request,
     q: str | None = Query(default=None),
@@ -63,6 +71,7 @@ def index(
         "index.html",
         {
             "request": request,
+            "section": "home",
             "quotes_total": len(quotes),
             "results_total": len(filtered),
             "results": filtered[:200],
@@ -89,8 +98,7 @@ def health():
     return {"ok": True, "quotes": len(quotes), "quotes_file": str(QUOTES_FILE)}
 
 
-
-@app.get("/themes", response_class=HTMLResponse)
+@app.get("/themes", response_class=HTMLResponse, name="themes")
 def themes_page(request: Request):
     quotes = get_quotes()
     themes = [(name, count) for name, count in counter_values(quotes, "theme", "") if name]
@@ -99,10 +107,13 @@ def themes_page(request: Request):
         "themes.html",
         {
             "request": request,
+            "section": "themes",
             "themes": themes,
             "quotes_total": len(quotes),
+            "results_total": len(themes),
         },
     )
+
 
 @app.get("/themes/{theme}", response_class=HTMLResponse)
 def theme_detail(request: Request, theme: str):
@@ -116,6 +127,7 @@ def theme_detail(request: Request, theme: str):
         "theme_detail.html",
         {
             "request": request,
+            "section": "themes",
             "theme": theme,
             "results": results[:200],
             "results_total": len(results),
@@ -124,7 +136,8 @@ def theme_detail(request: Request, theme: str):
         },
     )
 
-@app.get("/authors", response_class=HTMLResponse)
+
+@app.get("/authors", response_class=HTMLResponse, name="authors")
 def authors_page(request: Request):
     quotes = get_quotes()
     authors = counter_values(quotes, "author", "Desconocido")
@@ -133,34 +146,12 @@ def authors_page(request: Request):
         "authors.html",
         {
             "request": request,
+            "section": "authors",
             "authors": authors,
             "quotes_total": len(quotes),
+            "results_total": len(authors),
         },
     )
-
-
-def get_author_image(author: str):
-    filename = author.lower().replace(" ", "_") + ".webp"
-    image_path = Path("static/images") / filename
-
-    if image_path.exists():
-        return filename
-    return None
-
-
-# def author_detail(author):
-#     filename = normalize_author_filename(author)
-#     path = f"static/images/{filename}"
-
-#     avatar_exists = os.path.exists(path)
-
-#     return templates.TemplateResponse("author.html", {
-#         "author": author,
-#         "avatar_exists": avatar_exists,
-#         "avatar_filename": filename
-#     })
-
-
 
 
 @app.get("/authors/{author}", response_class=HTMLResponse)
@@ -177,6 +168,7 @@ def author_detail(request: Request, author: str):
         "author_detail.html",
         {
             "request": request,
+            "section": "authors",
             "author": author,
             "author_image": author_image,
             "author_image_exists": author_image is not None,
@@ -187,7 +179,8 @@ def author_detail(request: Request, author: str):
         },
     )
 
-@app.get("/categories", response_class=HTMLResponse)
+
+@app.get("/categories", response_class=HTMLResponse, name="categories")
 def categories_page(request: Request):
     quotes = get_quotes()
     categories = counter_values(quotes, "category", "Sin categoría")
@@ -196,8 +189,10 @@ def categories_page(request: Request):
         "categories.html",
         {
             "request": request,
+            "section": "categories",
             "categories": categories,
             "quotes_total": len(quotes),
+            "results_total": len(categories),
         },
     )
 
@@ -214,6 +209,7 @@ def category_details(request: Request, category: str):
         "category_detail.html",
         {
             "request": request,
+            "section": "categories",
             "category": category,
             "results": results[:200],
             "results_total": len(results),

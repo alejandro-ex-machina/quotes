@@ -1,23 +1,47 @@
 {% extends "base.html" %}
 
-{% block title %}🦞 Merriam Lobster{% endblock %}
+{% block title %}Autores · Merriam Lobster{% endblock %}
+
+{% block extra_css %}
+<link href="{{ url_for('static', path='css/listing.css') }}" rel="stylesheet">
+{% endblock %}
 
 {% block content %}
-<div class="container py-4">
-  <h1 class="h3 mb-4 title-wh">Autores</h1>
+<div class="container">
+  <div class="ml-listing-wrap">
+    <header class="mb-4">
+      <h1 class="ml-page-title">Autores</h1>
+      <div class="ml-page-subtitle">
+        {{ results_total }} autores disponibles
+      </div>
+    </header>
 
-  <div class="list-group shadow-sm">
-    {% for author, count in authors %}
-    <div class="list-item">
-      <a href="/authors/{{ author }}" class="list-group-item list-group-item-action d-flex justify-content-between">
-        <span class="grande">{{ author }}</span>
-        <span class="badge text-bg-success rounded-pill">{{ count }}</span>
-      </a>
+    <form method="get" class="ml-list-search">
+      <div class="input-group">
+        <span class="input-group-text">⌕</span>
+        <input
+          type="search"
+          name="q"
+          class="form-control"
+          placeholder="Buscar autor..."
+          value="{{ q or '' }}"
+          aria-label="Buscar autor"
+        >
+        <button class="btn" type="submit">›</button>
+      </div>
+    </form>
+
+    <div class="ml-list">
+      {% for author, count in authors %}
+        <a href="{{ url_for('author_detail', author=author) }}" class="ml-list-item">
+          <span class="ml-list-label">{{ author }}</span>
+          <span class="ml-list-meta">
+            <span class="ml-count-badge">{{ count }}</span>
+            <span class="ml-list-arrow">›</span>
+          </span>
+        </a>
+      {% endfor %}
     </div>
-    
-    {% endfor %}
   </div>
-
-
 </div>
 {% endblock %}

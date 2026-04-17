@@ -1,0 +1,130 @@
+.ml-listing-wrap {
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+.ml-list-search {
+  margin-bottom: 1.25rem;
+}
+
+.ml-list-search .input-group-text,
+.ml-list-search .form-control {
+  min-height: 52px;
+  background: rgba(18, 22, 28, 0.95);
+  color: var(--ml-text);
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+.ml-list-search .input-group-text {
+  color: var(--ml-gold);
+  border-radius: var(--ml-radius) 0 0 var(--ml-radius);
+}
+
+.ml-list-search .form-control {
+  border-left: 0;
+  border-right: 0;
+}
+
+.ml-list-search .form-control:focus {
+  box-shadow: none;
+  background: rgba(18, 22, 28, 0.98);
+  border-color: rgba(201, 171, 103, 0.35);
+}
+
+.ml-list-search .btn {
+  min-width: 54px;
+  border-radius: 0 var(--ml-radius) var(--ml-radius) 0;
+  border-color: rgba(255, 255, 255, 0.08);
+  background: rgba(18, 22, 28, 0.95);
+  color: var(--ml-gold);
+}
+
+.ml-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.ml-list-item {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  min-height: 70px;
+  padding: 0.95rem 1rem 0.95rem 1.15rem;
+  background: linear-gradient(180deg, rgba(24, 29, 36, 0.98), rgba(28, 34, 41, 0.98));
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--ml-radius-sm);
+  text-decoration: none;
+  transition: transform 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+}
+
+.ml-list-item:hover,
+.ml-list-item:focus {
+  transform: translateY(-1px);
+  border-color: rgba(201, 171, 103, 0.22);
+  background: linear-gradient(180deg, rgba(27, 33, 40, 1), rgba(31, 37, 45, 1));
+}
+
+.ml-list-label {
+  font-size: clamp(1.1rem, 2.6vw, 1.45rem);
+  color: var(--ml-text);
+  line-height: 1.15;
+  flex: 1 1 auto;
+}
+
+.ml-list-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.ml-count-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.5rem;
+  height: 2.5rem;
+  padding: 0 0.75rem;
+  border-radius: 999px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--ml-green);
+}
+
+.ml-count-badge.blue {
+  background: var(--ml-blue);
+}
+
+.ml-count-badge.gray {
+  background: var(--ml-gray-badge);
+}
+
+.ml-list-arrow {
+  color: var(--ml-gold);
+  font-size: 1.7rem;
+  line-height: 1;
+  opacity: 0.85;
+}
+
+@media (max-width: 575.98px) {
+  .ml-list-item {
+    min-height: 62px;
+    padding: 0.8rem 0.9rem 0.8rem 1rem;
+  }
+
+  .ml-list-label {
+    font-size: 1rem;
+  }
+
+  .ml-count-badge {
+    min-width: 2.2rem;
+    height: 2.2rem;
+    font-size: 0.95rem;
+  }
+
+  .ml-list-arrow {
+    font-size: 1.4rem;
+  }
+}
