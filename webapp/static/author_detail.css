@@ -129,6 +129,7 @@
   color: var(--ml-text);
   font-family:  Georgia, serif;
   font-size: clamp(1.25rem, 2.6vw, 2rem);
+  font-weight: 100;
   line-height: 1.45;
   color: #eaeef2;
   text-align: justify;
