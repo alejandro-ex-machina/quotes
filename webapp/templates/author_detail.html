@@ -33,7 +33,7 @@
         {% if categories_for_author %}
         <div class="ml-chip-group mb-3">
           {% for category, count in categories_for_author %}
-          <a href="{{ url_for('category_details', category=category) }}" class="ml-chip ml-chip-blue text-decoration-none">
+          <a href="{{ url_for('category_details', category=category) }}" class="ml-chip ml-chip-gold text-decoration-none">
             <span>{{ category }}</span>
             <span class="ml-chip-count">{{ count }}</span>
           </a>
@@ -51,7 +51,7 @@
 
       <div class="ml-chip-group">
         {% for theme, count in themes_for_author %}
-        <a href="{{ url_for('theme_detail', theme=theme) }}" class="ml-chip ml-chip-gray text-decoration-none">
+        <a href="{{ url_for('theme_detail', theme=theme) }}" class="ml-chip ml-chip-silver text-decoration-none">
           <span>{{ theme }}</span>
           <span class="ml-chip-count">{{ count }}</span>
         </a>
