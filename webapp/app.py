@@ -35,7 +35,7 @@ def get_quotes() -> list[dict]:
 
 
 def get_author_image(author: str) -> str | None:
-    filename = author.lower().replace(" ", "_") + ".webp"
+    filename = author + ".png"
     image_path = BASE_DIR / "static" / "images" / filename
 
     if image_path.exists():

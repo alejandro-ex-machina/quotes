@@ -1,121 +1,124 @@
 {% extends "base.html" %}
 
-{% block title %}🦞 Merriam Lobster{% endblock %}
+{% block title %}{{ author }} · Merriam Lobster{% endblock %}
+
+{% block extra_css %}
+<link href="{{ url_for('static', path='author_detail.css') }}" rel="stylesheet">
+{% endblock %}
 
 {% block content %}
+<div class="container">
+  <div class="ml-author-wrap">
 
-<h1 class="h3 mb-4 title-wh">{{ author }}</h1>
+    <header class="ml-author-header">
 
-{% set avatar_path = 'images/' + author + '.png' %}
+      
+      {% if author_image_exists and author_image %}
+      <div class="ml-author-avatar">
+        <img
+        src="{{ url_for('static', path='images/' + author_image) }}"
+        alt="{{ author }}"
+        loading="lazy"
+        onerror="this.parentElement.style.display='none';"
+        >
+      </div>
+    {% endif %}
 
+      <div class="ml-author-meta">
+        <h1 class="ml-page-title mb-2">{{ author }}</h1>
+        <div class="ml-page-subtitle mb-3">
+          {{ results_total }} cita{% if results_total != 1 %}s{% endif %}
+        </div>
 
+        {% if categories_for_author %}
+        <div class="ml-chip-group mb-3">
+          {% for category, count in categories_for_author %}
+          <a href="{{ url_for('category_details', category=category) }}" class="ml-chip ml-chip-blue text-decoration-none">
+            <span>{{ category }}</span>
+            <span class="ml-chip-count">{{ count }}</span>
+          </a>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </header>
 
-
-
-{% if categories_for_author %}
-<div class="mb-4">
-  <h2 class="subtitle-wh">Categorías</h2>
-  <div class="d-flex flex-wrap badge-list" style="gap: 1rem 1.25rem;">
-    {% for category, count in categories_for_author %}
-
-
-    <div type="button" style="gap: 1rem 1.25rem;">
-      <a href="/categories/{{ category }}/" class="btn btn-primary position-relative">
-
-        {{ category }}
-        <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
-          {{ count }}
-        </span>
-      </a>
-    </div>
-
-    {% endfor %}
-  </div>
-  {% endif %}
-
-
-  {% if themes_for_author %}
-  <div class="mb-4">
-    <h2 class="subtitle-wh">Temas</h2>
-    <div class="d-flex flex-wrap badge-list" style="gap: 1rem 1.25rem;">
-      {% for theme, count in themes_for_author %}
-
-
-      <div type="button" class="btn btn-secondary position-relative" style="gap: 1rem 1.25rem;">
-        {{ theme }}
-        <a href="/themes/{{ theme }}/"> <span
-            class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
-            {{ count }}
-          </span>
-        </a>
+    {% if themes_for_author %}
+    <section class="ml-section">
+      <div class="ml-section-head">
+        <h2 class="ml-section-title">Temas</h2>
       </div>
 
-      {% endfor %}
-    </div>
-  </div>
-  {% endif %}
+      <div class="ml-chip-group">
+        {% for theme, count in themes_for_author %}
+        <a href="{{ url_for('theme_detail', theme=theme) }}" class="ml-chip ml-chip-gray text-decoration-none">
+          <span>{{ theme }}</span>
+          <span class="ml-chip-count">{{ count }}</span>
+        </a>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
 
-
-<div class="author-avatar">
-  <img src="{{ url_for('static', path=avatar_path) }}" alt="{{ author }}"
-    onerror="this.parentElement.style.display='none';">
-</div>
-<br>
-
-
-
+    <section class="ml-section">
       {% if not results %}
       <div class="alert alert-warning mb-0">No hay citas para este autor.</div>
       {% else %}
-      {% for item in results %}
+      <div class="ml-quote-list">
+        {% for item in results %}
+        <article class="ml-quote-card">
+          <div class="ml-quote-card-top">
+            <button
+              type="button"
+              class="btn btn-sm btn-outline-secondary copy-btn"
+              title="Copiar cita"
+              aria-label="Copiar cita"
+              data-quote="{{ item.quote | e }}"
+              data-author="{{ item.author | e }}"
+            >
+              <i class="bi bi-copy"></i>
+            </button>
+          </div>
 
+          <blockquote class="ml-quote-text mb-3">
+            «{{ item.quote }}».
+          </blockquote>
 
+          <div class="ml-quote-meta">
+            {% if item.ref %}
+            <span>{{ item.ref }}</span>
+            {% endif %}
 
+            {% if item.category %}
+            <span>
+              <a href="{{ url_for('category_details', category=item.category) }}" class="link-secondary text-decoration-none">
+                {{ item.category }}
+              </a>
+            </span>
+            {% endif %}
 
-<div class="card">
-  <div class="card-body">
+            {% if item.theme %}
+            <span>
+              <a href="{{ url_for('theme_detail', theme=item.theme) }}" class="link-secondary text-decoration-none">
+                {{ item.theme }}
+              </a>
+            </span>
+            {% endif %}
 
- <button type="button" class="btn btn-sm btn-outline-secondary copy-btn" title="Copiar cita"
-          aria-label="Copiar cita" data-quote="{{ item.quote | e }}." data-author="{{ item.author | e }}">
-<i class="bi bi-copy"></i></button>
+            {% if item.source_quality %}
+            <span>quality={{ item.source_quality }}</span>
+            {% endif %}
 
-
-
-      
-      <blockquote class="blockquote mb-2">
-
-      «{{ item.quote }}».
-
-      </blockquote>
-
-
-    <div class="text-body-secondary small mt-1">
-      {% if item.ref %}{{ item.ref }} · {% endif %}
-      {% if item.category %}
-      <a href="/categories/{{ item.category }}" class="link-secondary text-decoration-none">{{ item.category }}</a>
-      ·
+            {% if item.hardcore %}
+            <span>hardcore</span>
+            {% endif %}
+          </div>
+        </article>
+        {% endfor %}
+      </div>
       {% endif %}
-      theme=
-      {% if item.theme %}
-      <a href="/themes/{{ item.theme }}" class="link-secondary text-decoration-none">{{ item.theme }}</a>
-      {% endif %}
-      {% if item.source_quality %} · quality={{ item.source_quality }}{% endif %}
-      {% if item.hardcore %} · hardcore{% endif %}
-    </div>
+    </section>
 
   </div>
-</div>
-
-
-
-
-
-
-
-
-      {% endfor %}
-      {% endif %}
-
-      
 </div>
 {% endblock %}

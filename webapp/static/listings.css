@@ -128,3 +128,15 @@
     font-size: 1.4rem;
   }
 }
+
+.ml-list-search .input-group-text {
+  width: 52px;
+  justify-content: center;
+}
+
+.ml-list-search .btn {
+  width: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
