@@ -1,3 +1,5 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+
 .main-header {
   background: #2f3841; /* tu color actual */
   padding: 40px 20px;
@@ -32,37 +34,41 @@
 .title {
   font-family: serif;
   font-size: 2rem;
+  padding-bottom: 0.5em;
   margin: 0;
-  font-weight: bold;
+  font-weight: semi-bold;
   letter-spacing: -0.5px;
   color: #c4452d; /* lobster elegante */
 }
 
+.subtitle {
+  font-family: serif;
+  font-size: 1.8rem;
+    padding-top: 0em;
+    margin: 0;
+  font-weight: bold;
+  color: #c4452d; /* lobster elegante */
+  font-weight: 300;
+  letter-spacing: 0px;
+}
+
 .title-wh {
   font-family: 'Cinzel', serif;
-  font-weight: semi-bold;
+  font-weight: 600;
   font-size: 2rem;
   margin: 0;
   letter-spacing: -0.5px;
   color:  #b89b5e; /* lobster elegante */
 }
 
-.subtitle {
-  font-family: serif;
-  font-size: 1.6rem;
-  margin-top: 0px;
-  color: #c4452d; /* lobster elegante */
-  font-weight: 300;
-  letter-spacing: 0px;
-}
-
 .subtitle-wh {
   font-family: 'Cinzel', serif;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
+  font-variant: normal;
+  font-weight: 600;
   margin-top: 1em;
   margin-bottom: 0.5em;
 color: #b89b5e; /* lobster elegante */
-  font-weight: 500;
   letter-spacing: -0.5px;
 }
 
@@ -139,13 +145,14 @@ color: #b89b5e; /* lobster elegante */
 }
 
 .lobster-avatar {
-  width: 128px;
-  height: 128px;
+  width: 88px;
+  height: 88px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center top; /* importante para retratos */
   border: 2px solid #b47467;; /* opcional */
   background-color: rgba(255, 255, 255, 0.15);
+  padding-bottom: 0;
 }
 
 .container, .bg-body-tertiary {
@@ -171,6 +178,8 @@ body {
 .grande {
   font-family: 'Roboto', sans-serif;
   font-size: 1.1rem;
+  color:  #cdcdcd;
+
 }
 
 .copy-btn {
@@ -244,4 +253,21 @@ body {
   top: 0;
   left: 100%;
   transform: translate(-25%, -30%);
+}
+
+
+.btn-group {
+  margin: 0 auto;
+  display: block; /* Asegura que ocupe el ancho disponible */
+}
+
+.author-avatar-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Cinzel", serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #c8a96b;
+  background: #2a3440;
 }

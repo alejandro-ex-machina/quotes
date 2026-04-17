@@ -1,22 +1,25 @@
 
+
+<nav>
+  <div class="nav-list" style="text-align: center;">
+    <div class="btn-group" role="group" aria-label="Basic example">
+      <!-- <button onclick="window.location.href='/';" type="button" class="btn btn-secondary"><i class="bi bi-house-fill"></i></button> -->
+      <button onclick="window.location.href='/authors/';" type="button" class="btn btn-secondary">Autores</button>
+      <button onclick="window.location.href='/categories/';" type="button" class="btn btn-secondary">Categorías</button>
+      <button onclick="window.location.href='/themes/';" type="button" class="btn btn-secondary">Temas</button>
+    </div>
+  </div>
+</nav>
+
 <header class="main-header">
   <div class="header-inner">
-    
-        <img src="{{ url_for('static', path='/lobster128.png') }}"  height="128" width="128" alt="Merriam Lobster logo" class="logo lobster-avatar">
 
     <h1 class="title">MERRIAM LOBSTER's</h1>
+
+    <img src="{{ url_for('static', path='/lobster128.png') }}" height="128" width="128" alt="Merriam Lobster logo"
+      class="logo lobster-avatar">
 
     <p class="subtitle">Quotable Quotes</p>
 
   </div>
 </header>
-
-<nav>
-    <div class="nav-list" style="text-align: center;">
-
-  <a href="/">Inicio</a> 
-  <a href="/authors">Autores</a> 
-  <a href="/categories">Categorías</a> 
-  <a href="/themes">Temas</a>
-</div>
-</nav>

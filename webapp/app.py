@@ -11,6 +11,7 @@ from fastapi.templating import Jinja2Templates
 from quoteslib import counter_values, filter_quotes, load_quotes, random_quote
 import os
 import unicodedata
+from pathlib import Path
 
 def normalize_author_filename(author: str) -> str:
     name = unicodedata.normalize('NFKD', author)\
@@ -33,17 +34,6 @@ def get_quotes() -> list[dict]:
     return load_quotes(QUOTES_FILE)
 
 
-def author_detail(author):
-    filename = normalize_author_filename(author)
-    path = f"static/images/{filename}"
-
-    avatar_exists = os.path.exists(path)
-
-    return templates.TemplateResponse("author.html", {
-        "author": author,
-        "avatar_exists": avatar_exists,
-        "avatar_filename": filename
-    })
 
 @app.get("/", response_class=HTMLResponse)
 def index(
@@ -149,6 +139,30 @@ def authors_page(request: Request):
     )
 
 
+def get_author_image(author: str):
+    filename = author.lower().replace(" ", "_") + ".webp"
+    image_path = Path("static/images") / filename
+
+    if image_path.exists():
+        return filename
+    return None
+
+
+# def author_detail(author):
+#     filename = normalize_author_filename(author)
+#     path = f"static/images/{filename}"
+
+#     avatar_exists = os.path.exists(path)
+
+#     return templates.TemplateResponse("author.html", {
+#         "author": author,
+#         "avatar_exists": avatar_exists,
+#         "avatar_filename": filename
+#     })
+
+
+
+
 @app.get("/authors/{author}", response_class=HTMLResponse)
 def author_detail(request: Request, author: str):
     quotes = get_quotes()
@@ -157,11 +171,15 @@ def author_detail(request: Request, author: str):
     themes_for_author = [(name, count) for name, count in counter_values(results, "theme", "") if name]
     categories_for_author = counter_values(results, "category", "Sin categoría")
 
+    author_image = get_author_image(author)
+
     return templates.TemplateResponse(
         "author_detail.html",
         {
             "request": request,
             "author": author,
+            "author_image": author_image,
+            "author_image_exists": author_image is not None,
             "results": results[:200],
             "results_total": len(results),
             "themes_for_author": themes_for_author,
