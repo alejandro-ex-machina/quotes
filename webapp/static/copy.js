@@ -4,7 +4,7 @@ document.addEventListener("click", async function (event) {
 
   const quote = button.dataset.quote || "";
   const author = button.dataset.author || "";
-  const text = `«${quote}»\n${author}`;
+  const text = `«${quote}.»\n\n${author}`;
 
   try {
     await navigator.clipboard.writeText(text);

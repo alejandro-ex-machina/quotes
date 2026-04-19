@@ -135,6 +135,9 @@
   margin-bottom: 0.75rem;
 }
 
+.ml-quote-card-bottom {
+    margin-bottom: 0.75rem;
+}
 .ml-quote-text {
   margin: 0;
   color: var(--ml-text);

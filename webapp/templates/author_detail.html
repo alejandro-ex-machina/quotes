@@ -87,16 +87,6 @@
 
           <div class="ml-quote-card-top">
 
-            <button
-              type="button"
-              class="btn btn-sm btn-outline-secondary copy-btn"
-              title="Copiar cita"
-              aria-label="Copiar cita"
-              data-quote="{{ item.quote | e }}"
-              data-author="{{ item.author | e }}"
-            >
-              <i class="bi bi-copy"></i>
-            </button>
           </div>
 
           <blockquote class="ml-quote-text mb-3">
@@ -116,6 +106,19 @@
             {% if item.hardcore %}
             <span>hardcore</span>
             {% endif %}
+          </div>
+
+          <div class="text-end">
+            <button
+              type="button"
+              class="btn btn-sm btn-outline-secondary copy-btn"
+              title="Copiar cita"
+              aria-label="Copiar cita"
+              data-quote="{{ item.quote | e }}"
+              data-author="{{ item.author | e }}"
+            >
+              <i class="bi bi-copy"></i>
+            </button>
           </div>
         </article>
         {% endfor %}
