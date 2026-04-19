@@ -51,9 +51,12 @@
       {% if not results %}
       <div class="alert alert-warning mb-0">No hay citas para este tema.</div>
       {% else %}
+      
       <div class="ml-quote-list">
         {% for item in results %}
+
         <article class="ml-quote-card">
+
           {% if item.category %}
           <span class="btn btn-sm btn-outline-secondary ml-chip-gold">
             <a href="{{ url_for('category_details', category=item.category) }}" class="link-secondary text-decoration-none">
@@ -62,17 +65,19 @@
           </span>
           {% endif %}
 
-          {% if item.author %}
+          <!-- {% if item.author %}
           <span class="btn btn-sm btn-outline-secondary ml-chip-silver">
             <a href="{{ url_for('author_detail', author=item.author) }}" class="link-secondary text-decoration-none">
               {{ item.author }}
             </a>
           </span>
-          {% endif %}
+          {% endif %} -->
 
+          {% if item.author %}
           <div class="ml-quote-card-top">
             <strong>{{ item.author }}</strong>
           </div>
+          {% endif %}
 
           <blockquote class="ml-quote-text mb-3">
             «{{ item.quote }}».
@@ -83,13 +88,13 @@
             <span>{{ item.ref }}</span>
             {% endif %}
 
-            {% if item.source_quality %}
+            <!-- {% if item.source_quality %}
             <span>quality={{ item.source_quality }}</span>
             {% endif %}
 
             {% if item.hardcore %}
             <span>hardcore</span>
-            {% endif %}
+            {% endif %} -->
           </div>
 
           <div class="text-end">

@@ -60,14 +60,24 @@
       <div class="ml-quote-list">
         {% for item in results %}
         <article class="ml-quote-card">
-          {% if item.author %}
+          
+          <!-- {% if item.author %}
           <span class="btn btn-sm btn-outline-secondary ml-chip-gold">
             <a href="{{ url_for('author_detail', author=item.author) }}" class="link-secondary text-decoration-none">
               {{ item.author }}
             </a>
           </span>
+          {% endif %} -->
+
+          {% if item.category %}
+          <span class="btn btn-sm btn-outline-secondary ml-chip-gold">
+            <a href="{{ url_for('category_details', category=item.category) }}" class="link-secondary text-decoration-none">
+              {{ item.category }}
+            </a>
+          </span>
           {% endif %}
 
+          
           {% if item.theme %}
           <span class="btn btn-sm btn-outline-secondary ml-chip-silver">
             <a href="{{ url_for('theme_detail', theme=item.theme) }}" class="link-secondary text-decoration-none">
