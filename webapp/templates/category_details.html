@@ -54,6 +54,10 @@
       {% for item in results %}
       <article class="quote-item {% if not loop.last %}border-bottom{% endif %} pb-3 {% if not loop.last %}mb-3{% endif %}">
 
+          <div class="ml-quote-card-top">
+            <strong>{{ item.author }}</strong>
+          </div>
+
 <button
   type="button"
   class="btn btn-sm btn-outline-secondary copy-btn"
@@ -68,9 +72,11 @@
 </button>
 
 
+
+
         <blockquote class="blockquote mb-2">
           <p class="mb-0">«{{ item.quote }}»</p>
-        </blockquote
+        </blockquote>
 
         <div class="fw-semibold">
           <a href="/authors/{{ item.author | urlencode }}">{{ item.author }}</a>
@@ -85,13 +91,13 @@
             </a>
           {% endif %}
 
-          {% if item.source_quality %}
+          <!-- {% if item.source_quality %}
             · quality={{ item.source_quality }}
           {% endif %}
 
           {% if item.hardcore %}
             · hardcore
-          {% endif %}
+          {% endif %} -->
         </div>
       </article>
       {% endfor %}

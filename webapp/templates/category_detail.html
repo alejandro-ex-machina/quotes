@@ -76,10 +76,11 @@
           </span>
           {% endif %}
 
-          <div class="ml-quote-card-top"></div>
-
+          <div class="ml-quote-card-top">
+            <strong>{{ item.author }}</strong>
+          </div>
           <blockquote class="ml-quote-text mb-3">
-            &laquo;{{ item.quote }}&raquo;.
+            «{{ item.quote }}».
           </blockquote>
 
           <div class="ml-quote-meta">
@@ -87,13 +88,13 @@
             <span>{{ item.ref }}</span>
             {% endif %}
 
-            {% if item.source_quality %}
+            <!-- {% if item.source_quality %}
             <span>quality={{ item.source_quality }}</span>
             {% endif %}
 
             {% if item.hardcore %}
             <span>hardcore</span>
-            {% endif %}
+            {% endif %} -->
           </div>
 
           <div class="text-end">
