@@ -99,7 +99,7 @@ def health():
 
 
 @app.get("/themes", response_class=HTMLResponse, name="themes")
-def themes_page(request: Request):
+def themes_page(request: Request, q: str | None = Query(default=None)):
     quotes = get_quotes()
     themes = [(name, count) for name, count in counter_values(quotes, "theme", "") if name]
 
@@ -111,6 +111,7 @@ def themes_page(request: Request):
             "themes": themes,
             "quotes_total": len(quotes),
             "results_total": len(themes),
+            "q": q or "",
         },
     )
 
@@ -181,7 +182,7 @@ def author_detail(request: Request, author: str):
 
 
 @app.get("/categories", response_class=HTMLResponse, name="categories")
-def categories_page(request: Request):
+def categories_page(request: Request, q: str | None = Query(default=None)):
     quotes = get_quotes()
     categories = counter_values(quotes, "category", "Sin categoría")
 
@@ -193,6 +194,7 @@ def categories_page(request: Request):
             "categories": categories,
             "quotes_total": len(quotes),
             "results_total": len(categories),
+            "q": q or "",
         },
     )
 

@@ -1,5 +1,128 @@
 [
   {
+    "author": "Friedrich Nietzsche",
+    "quote": "Quien sabe que es profundo se esfuerza por ser claro; quien quiere parecer profundo se esfuerza por ser oscuro",
+    "ref": "La gaya ciencia",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1882
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "¿Qué es lo bueno? — Todo lo que eleva el sentimiento de poder, la voluntad de poder, el poder mismo en el hombre",
+    "ref": "El Anticristo",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1888
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Las convicciones son enemigos más peligrosos de la verdad que las mentiras",
+    "ref": "Humano, demasiado humano, aforismo 483",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1878
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "En el individuo, la locura es rara; pero en los grupos, partidos, pueblos y épocas, es la regla",
+    "ref": "Más allá del bien y del mal",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1886
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Lo que no me mata me hace más fuerte.",
+    "ref": "El ocaso de los ídolos",
+    "category": "Filosofía",
+    "theme": ""
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "El cristianismo es una metafísica del verdugo",
+    "ref": "El Anticristo",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1888
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "Yo llamo cristianismo a la gran maldición, a la gran corrupción interior",
+    "ref": "El Anticristo",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1888
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "La compasión se opone a las emociones tónicas que elevan la energía vital",
+    "ref": "El Anticristo",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1888
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "La fe significa no querer saber la verdad",
+    "ref": "El Anticristo",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1888
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "El concepto de ‘pecado’ fue inventado junto con el instrumento de tortura que es el concepto de ‘libre albedrío’",
+    "ref": "El Anticristo",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1888
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "La moral cristiana es la moral de la decadencia",
+    "ref": "El Anticristo",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1888
+  },
+  {
+    "author": "Immanuel Kant",
+    "quote": "El erudito es el que pasa su tiempo leyendo; el pensador, el que pasa su tiempo pensando",
+    "ref": "¿Qué es la Ilustración?",
+    "category": "Filosofía",
+    "theme": "",
+    "year": 1784
+  },
+  {
+    "author": "Arthur Schopenhauer",
+    "quote": "La mayoría de los hombres no son capaces de pensar, sino solo de creer",
+    "ref": "Idea recurrente en Parerga y Paralipómena",
+    "category": "Filosofía",
+    "theme": ""
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Lo que niegas te somete; lo que aceptas te transforma",
+    "ref": "",
+    "category": "Filosofía",
+    "theme": ""
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "No hay toma de conciencia sin dolor",
+    "ref": "Recuerdos, sueños, pensamientos",
+    "category": "Filosofía",
+    "theme": ""
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Las masas siempre albergan una psique inferior a la del individuo",
+    "ref": "La vida simbólica",
+    "category": "Filosofía",
+    "theme": ""
+  },
+  {
     "author": "Marco Aurelio",
     "quote": "Si te duele algo externo, no es eso lo que te perturba, sino tu juicio sobre ello",
     "ref": "Meditaciones",
@@ -2436,18 +2559,18 @@
     "theme": "Creación"
   },
   {
-    "author"   : "Tito Livio",
-    "quote"    : "Hemos llegado a una época en que tan intolerables son nuestras desgracias como sus remedios",
-    "ref"      : "Ab urbe condita",
-    "category" : "Filosofía",
-    "theme"    : "Pensamiento"
+    "author": "Tito Livio",
+    "quote": "Hemos llegado a una época en que tan intolerables son nuestras desgracias como sus remedios",
+    "ref": "Ab urbe condita",
+    "category": "Filosofía",
+    "theme": "Pensamiento"
   },
   {
-    "author"   : "Hans-Ulrich Rudel",
-    "quote"    : "Es peligroso para el Estado querer convencer a la juventud de que sus antepasados estuvieron compuestos, más o menos, por locos, criminales e idiotas",
-    "ref"      : "",
-    "category" : "Filosofía",
-    "theme"    : "Pensamiento"
+    "author": "Hans-Ulrich Rudel",
+    "quote": "Es peligroso para el Estado querer convencer a la juventud de que sus antepasados estuvieron compuestos, más o menos, por locos, criminales e idiotas",
+    "ref": "",
+    "category": "Filosofía",
+    "theme": "Pensamiento"
   },
   {
     "author": "Hugo Junkers",
