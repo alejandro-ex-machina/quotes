@@ -130,6 +130,21 @@
     "theme": "Etica"
   },
   {
+    "author": "George Orwell",
+    "quote": "El lenguaje político está diseñado para hacer que las mentiras suenen verdaderas, el asesinato respetable, y para dar una apariencia de solidez al puro viento",
+    "ref": "La política y el lenguaje inglés",
+    "category": "Ensayo",
+    "theme": "Política",
+    "year": 1946
+  },
+  {
+    "author": "Ernst Jünger",
+    "quote": "El hombre más fácil de asustar es aquel que cree que todo termina cuando su efímera existencia llega a su fin. Los nuevos tratantes de esclavos entienden esto muy bien, y sobre esta creencia reposa la importancia de las doctrinas materialistas",
+    "ref": "",
+    "category": "Filosofía",
+    "theme": "Pensamiento"
+  },
+  {
     "author": "Marco Aurelio",
     "quote": "No pierdas más tiempo discutiendo sobre cómo debe ser un buen hombre. Sé uno",
     "ref": "Meditaciones",

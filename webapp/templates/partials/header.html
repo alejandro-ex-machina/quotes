@@ -1,32 +1,26 @@
 <header class="ml-header">
   <div class="container-fluid">
     <div class="ml-header-inner">
-      
+
       <a href="{{ url_for('home') }}" class="ml-brand text-decoration-none">
         <span class="ml-brand-mark">
-<img src="{{ url_for('static', path='lobster128.png') }}" class="ml-brand-logo">
-
-
+          <img src="{{ url_for('static', path='lobster128.png') }}" class="ml-brand-logo">
         </span>
         <span class="ml-brand-text">Merriam Lobster</span>
       </a>
 
       <nav class="ml-nav" aria-label="Navegación principal">
-        <a href="{{ url_for('authors') }}" class="ml-nav-link {% if section == 'authors' %}active{% endif %}">Autores</a>
-        <a href="{{ url_for('categories') }}" class="ml-nav-link {% if section == 'categories' %}active{% endif %}">Categorías</a>
+        <!-- <a href="#" class="ml-nav-link {% if section == 'quotes' %}active{% endif %}">Citas</a> -->
+        <a href="{{ url_for('authors') }}"
+          class="ml-nav-link {% if section == 'authors' %}active{% endif %}">Autores</a>
+        <a href="{{ url_for('categories') }}"
+          class="ml-nav-link {% if section == 'categories' %}active{% endif %}">Categorías</a>
         <a href="{{ url_for('themes') }}" class="ml-nav-link {% if section == 'themes' %}active{% endif %}">Temas</a>
       </nav>
 
       <form method="get" action="{{ url_for('home') }}" class="ml-header-search">
-        <input
-          type="search"
-          name="q"
-          class="form-control"
-          placeholder="Buscar cita..."
-          aria-label="Buscar cita"
-        >
+        <input type="search" name="q" class="form-control" placeholder="Buscar cita..." aria-label="Buscar cita">
       </form>
     </div>
   </div>
 </header>
-
