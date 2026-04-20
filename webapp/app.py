@@ -65,7 +65,7 @@ def index(
         hardcore=hardcore,
     )
 
-    random_result = random_quote(filtered or quotes) if mode == "random" else None
+    random_result = random_quote(filtered or quotes)
 
     return templates.TemplateResponse(
         "index.html",
@@ -77,7 +77,7 @@ def index(
             "results": filtered[:200],
             "random_result": random_result,
             "authors": counter_values(quotes, "author", "Desconocido"),
-            "categories": counter_values(quotes, "category", "Sin categoría"),
+            "categories": counter_values(quotes, "category", "Sin categorÃ­a"),
             "themes": counter_values(quotes, "theme", ""),
             "qualities": [("high", "high"), ("medium", "medium"), ("low", "low")],
             "params": {
@@ -122,7 +122,7 @@ def theme_detail(request: Request, theme: str):
     results = filter_quotes(quotes, theme=theme)
 
     authors_in_theme = counter_values(results, "author", "Desconocido")
-    categories_in_theme = counter_values(results, "category", "Sin categoría")
+    categories_in_theme = counter_values(results, "category", "Sin categorÃ­a")
 
     return templates.TemplateResponse(
         "theme_detail.html",
@@ -161,7 +161,7 @@ def author_detail(request: Request, author: str):
     results = filter_quotes(quotes, author=author)
 
     themes_for_author = [(name, count) for name, count in counter_values(results, "theme", "") if name]
-    categories_for_author = counter_values(results, "category", "Sin categoría")
+    categories_for_author = counter_values(results, "category", "Sin categorÃ­a")
 
     author_image = get_author_image(author)
 
@@ -184,7 +184,7 @@ def author_detail(request: Request, author: str):
 @app.get("/categories", response_class=HTMLResponse, name="categories")
 def categories_page(request: Request, q: str | None = Query(default=None)):
     quotes = get_quotes()
-    categories = counter_values(quotes, "category", "Sin categoría")
+    categories = counter_values(quotes, "category", "Sin categorÃ­a")
 
     return templates.TemplateResponse(
         "categories.html",
@@ -219,3 +219,4 @@ def category_details(request: Request, category: str):
             "themes_in_category": themes_in_category,
         },
     )
+

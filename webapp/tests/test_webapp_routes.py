@@ -41,6 +41,14 @@ def test_core_list_pages_render() -> None:
         assert response.status_code == 200
 
 
+def test_home_serves_random_quote_card() -> None:
+    response = client.get("/")
+    assert response.status_code == 200
+    html = response.text
+    assert "Cita aleatoria" in html
+    assert "ml-quote-card" in html
+
+
 def test_theme_detail_uses_new_layout() -> None:
     themes_page = client.get("/themes")
     assert themes_page.status_code == 200
