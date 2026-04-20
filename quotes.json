@@ -237,13 +237,6 @@
   },
   {
     "author": "Oswald Spengler",
-    "quote": "Las civilizaciones no mueren asesinadas; se suicidan",
-    "ref": "La decadencia de Occidente",
-    "category": "Filosofía",
-    "theme": "Sociedad"
-  },
-  {
-    "author": "Oswald Spengler",
     "quote": "La técnica es la táctica de la vida",
     "ref": "El hombre y la técnica",
     "category": "Filosofía",
@@ -297,6 +290,20 @@
     "ref": "Atribuida",
     "category": "IngAutomotriz",
     "theme": "Creación"
+  },
+  {
+    "quote": "Una civilización es un movimiento y no un estado, un viaje y no un puerto",
+    "author": "Arnold J. Toynbee",
+    "ref": "A Study of History",
+    "category": "Filosofía",
+    "theme": "Sociedad"
+  },
+  {
+    "quote": "El mayor logro de una civilización es su capacidad de autodeterminación",
+    "author": "Arnold J. Toynbee",
+    "source": "A Study of History",
+    "category": "Filosofía",
+    "theme": "Sociedad"
   },
   {
     "author": "Helmuth von Moltke",
@@ -1702,7 +1709,7 @@
     "author": "Cicerón",
     "quote": "No me avergüenzo de confesar que ignoro lo que no sé",
     "ref": "",
-    "category": "Filosofia",
+    "category": "Filosofía",
     "theme": "Carácter"
   },
   {
@@ -2188,6 +2195,48 @@
     "ref": "Atribuida; memorias",
     "category": "Milicia",
     "theme": "Acción"
+  },
+  {
+    "author": "Søren Kierkegaard",
+    "quote": "Ahora, con la ayuda de Dios, llegaré a ser yo mismo",
+    "ref": "",
+    "category": "Filosofía",
+    "theme": "Disciplina"
+  },
+  {
+    "author": "Bertrand Russell",
+    "quote": "Nunca moriría por mis creencias porque podría estar equivocado",
+    "ref": "",
+    "category": "Filosofía",
+    "theme": "Ética"
+  },
+  {
+    "quote": "The destiny of a Culture is fulfilled in the Civilization",
+    "author": "Oswald Spengler",
+    "source": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "Sociedad"
+  },
+  {
+    "author": "Oswald Spengler",
+    "quote": "Cada cultura tiene sus propias formas de expresión que surgen, maduran, se desvanecen y nunca vuelven",
+    "source": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "Sociedad"
+  },
+  {
+    "author": "Thomas Carlyle",
+    "quote": "El asombro es la base de la adoración",
+    "ref": "",
+    "category": "Religión",
+    "theme": "Origen"
+  },
+  {
+    "quote": "En las últimas etapas de la civilización, la política se convierte en una lucha por el poder carente de un sentido superior",
+    "author": "Oswald Spengler",
+    "source": "La decadencia de Occidente",
+    "category": "Filosofía",
+    "theme": "Sociedad"
   },
   {
     "author": "Oswald Spengler",
@@ -3927,5 +3976,12 @@
     "ref": "",
     "category": "Literatura",
     "theme": "Pensamiento"
+  },
+  {
+    "author": "Gustav Mahler",
+    "quote": "La tradición no es la adoración de las cenizas, sino la preservación del fuego",
+    "ref": "",
+    "category": "Pensamiento",
+    "theme": "Tradición"
   }
 ]

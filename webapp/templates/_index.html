@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block title %}Merriam Lobster{% endblock %}
+
+{% block content %}
+<div class="d-flex flex-wrap align-items-center justify-content-between gap-3 mb-4">
+  <div>
+
+
+
+  <div class="col-12 col-md-7 col-lg-8">
+    {% if random_result %}
+    <div class="card shadow-sm border-0 mb-4">
+      <div class="card-body">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+          <h2 class="h5 mb-0">Cita aleatoria</h2>
+          <span class="badge text-bg-primary">1 resultado</span>
+        </div>
+        <blockquote class="blockquote mb-3">
+          <p class="mb-0">«{{ random_result.quote }}»</p>
+        </blockquote>
+        <div class="fw-semibold">
+          <a href="/authors/{{ random_result.author | urlencode }}">{{ random_result.author }}</a>
+        </div>
+        <div class="text-body-secondary small mt-2">
+          {% if random_result.ref %}{{ random_result.ref }} · {% endif %}
+          {% if random_result.category %}{{ random_result.category }} · {% endif %}
+          theme=
+          {% if random_result.theme %}
+            <a href="/themes/{{ random_result.theme | urlencode }}" class="link-secondary text-decoration-none">{{ random_result.theme }}</a>
+          {% endif %}
+          {% if random_result.source_quality %} · quality={{ random_result.source_quality }}{% endif %}
+          {% if random_result.hardcore %} · hardcore{% endif %}
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
+{% endblock %}

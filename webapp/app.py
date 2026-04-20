@@ -92,6 +92,25 @@ def index(
     )
 
 
+@app.get("/quotes", response_class=HTMLResponse, name="quotes")
+def quotes_page(request: Request):
+    quotes = get_quotes()
+    grouped_quotes: dict[str, list[dict]] = {}
+    for item in sorted(quotes, key=lambda q: str(q.get("author", "")).strip().lower()):
+        author = str(item.get("author", "")).strip() or "Desconocido"
+        grouped_quotes.setdefault(author, []).append(item)
+
+    return templates.TemplateResponse(
+        "quotes.html",
+        {
+            "request": request,
+            "section": "quotes",
+            "quotes_total": len(quotes),
+            "grouped_quotes": grouped_quotes.items(),
+        },
+    )
+
+
 @app.get("/health")
 def health():
     quotes = get_quotes()

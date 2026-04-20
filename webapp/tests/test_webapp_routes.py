@@ -36,7 +36,7 @@ def test_health_endpoint() -> None:
 
 
 def test_core_list_pages_render() -> None:
-    for path in ("/", "/authors", "/themes", "/categories"):
+    for path in ("/", "/quotes", "/authors", "/themes", "/categories"):
         response = client.get(path)
         assert response.status_code == 200
 
@@ -48,6 +48,17 @@ def test_home_serves_random_quote_card() -> None:
     assert "Cita aleatoria" in html
     assert "ml-quote-card" in html
     assert 'title="Copiar cita"' in html
+
+
+def test_quotes_endpoint_has_no_call_to_action() -> None:
+    response = client.get("/quotes")
+    assert response.status_code == 200
+    html = response.text
+    assert "Todas las citas" in html
+    assert "<h2>" in html
+    assert "<button" not in html
+    assert "<form" not in html
+    assert "<a " not in html
 
 
 def test_theme_detail_uses_new_layout() -> None:

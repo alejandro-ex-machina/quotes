@@ -1,6 +1,4 @@
-from pathlib import Path
-
-script = r'''#!/usr/bin/env python3
+#!/usr/bin/env python3
 import argparse
 import json
 import unicodedata
@@ -365,8 +363,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-'''
-
-out = Path("/mnt/data/review_quotes.py")
-out.write_text(script, encoding="utf-8")
-print(f"Wrote {out}")

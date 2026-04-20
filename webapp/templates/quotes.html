@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Todas las citas · Merriam Lobster</title>
+  <style>
+    :root {
+      --bg: #222b34;
+      --panel: #1a2129;
+      --line: #3a4653;
+      --text: #e8eaed;
+      --muted: #b8bec6;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      line-height: 1.5;
+    }
+
+    main {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 2rem;
+    }
+
+    h1 {
+      margin: 0 0 0.35rem;
+      font-size: clamp(1.5rem, 4vw, 2rem);
+    }
+
+    .meta {
+      color: var(--muted);
+      margin: 0 0 1rem;
+    }
+
+    ol {
+      margin: 0;
+      padding-left: 1.2rem;
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    li {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 0.85rem 0.95rem;
+    }
+
+    .quote {
+      margin: 0 0 0.5rem;
+      font-size: 1.05rem;
+    }
+
+    .data {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Todas las citas</h1>
+    <p class="meta">{{ quotes_total }} citas</p>
+
+    {% if not grouped_quotes %}
+    <p class="meta">No hay citas disponibles.</p>
+    {% else %}
+    {% set ns = namespace(start=1) %}
+    {% for author, author_quotes in grouped_quotes %}
+    <section>
+      <h2>{{ author }} ({{ author_quotes|length }})</h2>
+      <ol start="{{ ns.start }}">
+        {% for item in author_quotes %}
+        <li>
+          <p class="quote">&laquo;{{ item.quote }}&raquo;</p>
+          <p class="data">
+            {% if item.ref %}{{ item.ref }}{% endif %}
+            {% if item.category %} · {{ item.category }}{% endif %}
+            {% if item.theme %} · {{ item.theme }}{% endif %}
+          </p>
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% set ns.start = ns.start + (author_quotes|length) %}
+    {% endfor %}
+    {% endif %}
+  </main>
+</body>
+</html>
