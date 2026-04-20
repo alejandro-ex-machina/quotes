@@ -33,25 +33,47 @@
           </span>
           {% endif %}
 
-          <div class="ml-quote-card-top"></div>
+          <div class="ml-quote-card-top">
+            <strong>{{ random_result.author }}</strong>
+          </div>
+
 
           <blockquote class="ml-quote-text mb-3">
-            &laquo;{{ random_result.quote }}&raquo;.
+            «{{ random_result.quote }}».
           </blockquote>
 
           <div class="ml-quote-meta">
-            <span>
+            <!-- <span>
               <a href="{{ url_for('author_detail', author=random_result.author) }}" class="link-secondary text-decoration-none">{{ random_result.author }}</a>
-            </span>
+            </span> -->
+
+
             {% if random_result.ref %}
             <span>{{ random_result.ref }}</span>
             {% endif %}
-            {% if random_result.source_quality %}
+
+
+            <!-- {% if random_result.source_quality %}
             <span>quality={{ random_result.source_quality }}</span>
-            {% endif %}
-            {% if random_result.hardcore %}
+            {% endif %} -->
+
+
+            <!-- {% if random_result.hardcore %}
             <span>hardcore</span>
-            {% endif %}
+            {% endif %} -->
+          </div>
+
+          <div class="text-end">
+            <button
+              type="button"
+              class="btn btn-sm btn-outline-secondary copy-btn"
+              title="Copiar cita"
+              aria-label="Copiar cita"
+              data-quote="{{ random_result.quote | e }}"
+              data-author="{{ random_result.author | e }}"
+            >
+              <i class="bi bi-copy"></i>
+            </button>
           </div>
         </article>
       </div>

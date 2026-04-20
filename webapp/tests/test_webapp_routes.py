@@ -47,6 +47,7 @@ def test_home_serves_random_quote_card() -> None:
     html = response.text
     assert "Cita aleatoria" in html
     assert "ml-quote-card" in html
+    assert 'title="Copiar cita"' in html
 
 
 def test_theme_detail_uses_new_layout() -> None:
