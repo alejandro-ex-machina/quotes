@@ -3688,5 +3688,187 @@
     "category": "Filosofía",
     "theme": "Pensamiento",
     "source_quality": "low"
+  },
+  {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Cuando se ama, incluso se puede prescindir de la felicidad. La vida es bella aun cuando se sufre. Vivir es grato, cualquiera que sea la clase de vida",
+    "ref"      : "Memorias del subsuelo",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Y con amor y sin felicidad se puede vivir. La vida es bella aun en la desgracia, es bueno vivir en el mundo, sea como sea",
+    "ref"      : "Memorias del subsuelo",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Sin una idea superior no pueden subsistir ni un hombre ni una nación. Y hay una sola idea superior en este mundo la de la inmortalidad del alma humana. Todas las demás ideas de las que puede vivir el hombre surgen de ella",
+    "ref"      : "Memorias del subsuelo",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Dos personas inteligentes no pueden enamorarse; el verdadero amor necesita un idiota",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Un ser que se acostumbra a todo; tal parece la mejor definición que puedo hacer del humano",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Un error original vale más que una verdad banal",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Solo por el respeto de sí mismo se logra el respeto de los demás",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Sufrir y llorar: vivir",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Si quieres vencer al mundo entero, véncete a ti mismo",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Si queréis estudiar a un hombre no prestéis atención al modo en que se calla, o habla, o llora, ni siquiera en que es conmovido por las nobles ideas. Miradle más bien cuando ríe",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Dios lucha con el diablo y el campo de batalla es el corazón del hombre",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "La vida y la mentira son sinónimos",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "La verdadera verdad siempre es inverosímil",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Sin Dios, todo es posible",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Si podemos formularnos la pregunta: ¿soy o no soy responsable de mis actos?, significa que sí lo somos",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "El hombre teme la muerte porque ama la vida",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "La realidad es infinitamente diversa, escapa a las deducciones ingeniosas del pensamiento abstracto, no soporta la clasificación estrecha y exacta, la realidad tiende al fraccionamiento perpetuo, a la variedad infinita",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Enamorarse no es amar. Puede uno enamorarse y odiar",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "El amor pasa, y la incompatibilidad permanece",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Esté bien o esté mal, a veces es muy agradable romper algo",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "El hombre es desdichado porque no sabe que es feliz",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Fácilmente se contraen hábitos de lujo, y difícil se hace luego prescindir de ellos, cuando se han convertido en necesidad",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+      {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "Hay instantes en los que hemos podido aprender mucho más que en años enteros",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "La razón no es más que la razón y solo satisface la capacidad humana de razonar, mientras que la voluntad es la manifestación de toda la vida humana",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+      {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "El secreto de la existencia humana está no sólo en vivir, sino también en saber para que se vive",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Fiódor Dostoyevski",
+    "quote"    : "No hay desgracias para los corazones débiles. La desgracia quiere un corazón fuerte",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
   }
 ]
