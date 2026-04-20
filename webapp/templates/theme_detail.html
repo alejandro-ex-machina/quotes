@@ -75,7 +75,13 @@
 
           {% if item.author %}
           <div class="ml-quote-card-top">
-            <strong>{{ item.author }}</strong>
+
+            <strong>
+              <span>
+                <a href="{{ url_for('author_detail', author=item.author) }}" class="ml-quote-card-top text-decoration-none">{{ item.author }}</a>
+              </span>
+            </strong> 
+
           </div>
           {% endif %}
 
