@@ -2057,6 +2057,41 @@
     "theme": "Pensamiento"
   },
   {
+    "author"   : "Nicolás Maquiavelo",
+    "quote"    : "Comete errores de ambición y no errores de pereza",
+    "ref"      : "El Príncipe",
+    "category" : "Filosofía",
+    "theme"    : "Acción"
+  },
+  {
+    "author"   : "Albert Einstein",
+    "quote"    : "Quien sea descuidado con la verdad en asuntos pequeños no puede ser confiado con asuntos importantes",
+    "ref"      : "Einstein Archives 28-1098",
+    "category" : "Filosofía",
+    "theme"    : "Ética"
+    },
+    {
+    "author"   : "Carl Jung",
+    "quote"    : "El significado de mi existencia es que la vida me ha dirigido una pregunta. O, a la inversa, yo mismo soy una pregunta que se dirige al mundo, y debo comunicar mi respuesta, pues de lo contrario dependo de la respuesta del mundo",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Conciencia"
+  },
+  {
+    "author"   : "George Bernard Shaw",
+    "quote"    : "Una vida dedicada a cometer errores no solo es más honorable, sino más útil que una vida dedicada a no hacer nada",
+    "ref"      : "The Doctor's Dilemma",
+    "category" : "Literatura",
+    "theme"    : "Acción"
+  },
+  {
+    "author"   : "Albert Camus",
+    "quote"    : "La ociosidad es fatal solo para los mediocres",
+    "ref"      : "",
+    "category" : "Pensamiento",
+    "theme"    : "Carácter"
+  },
+  {
     "author": "Otto Skorzeny",
     "quote": "La audacia es la clave del éxito en operaciones especiales",
     "ref": "Atribuida; memorias y entrevistas",
