@@ -2084,6 +2084,119 @@
     "category" : "Literatura",
     "theme"    : "Acción"
   },
+    {
+    "author"   : "Cicerón",
+    "quote"    : "No me avergüenzo de confesar que ignoro lo que no sé",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Marco Aurelio",
+    "quote"    : "Cuanto más cerca está un hombre de una mente tranquila, más cerca está de la fuerza",
+    "ref"      : "Meditaciones",
+    "category" : "Filosofía",
+    "theme"    : "Mente"
+  },
+  {
+    "author"   : "Napoleón Bonaparte",
+    "quote"    : "El coraje no es tener la fuerza para seguir adelante; es seguir adelante cuando no tienes fuerza",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Coraje"
+  },
+   {
+    "author"   : "Henry Ford",
+    "quote"    : "Corta tu propia leña y te calentará dos veces",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Bertrand Russell",
+    "quote"    : "Las opiniones de las personas están diseñadas principalmente para hacerles sentir cómodos; la verdad, para la mayoría de las personas, es una consideración secundaria",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Friedrich Nietzsche",
+    "quote"    : "La forma más peligrosa de ceguera es creer que tu perspectiva es la única realidad",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Nicolás Maquiavelo",
+    "quote"    : "El primer método para estimar la inteligencia de un gobernante es mirar a los hombres que tiene a su alrededor",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Nicolás Maquiavelo",
+    "quote"    : "Las personas no te son leales a ti, sino a la necesidad que tienen de ti. En el momento en que dejas de ser útil, olvidan que alguna vez fuiste importante",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Lao Tsé",
+    "quote"    : "La madurez consiste en no percibir la ignorancia de los demás como un ataque personal",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Séneca",
+    "quote"    : "Cuanto más honorable es un hombre por su linaje, su reputación y su patrimonio, más heroicamente debe conducirse, recordando que los rangos más altos están en la primera línea de batalla",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Ética"
+  },
+  {
+    "author"   : "Jean Cocteau",
+    "quote"    : "No se debe confundir la verdad con la opinión de la mayoría",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Sociedad"
+  },
+  {
+    "author"   : "Carl Gustav Jung",
+    "quote"    : "Cuando los individuos pierden su individualidad, pierden también su categoría intelectual y moral",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Sociedad"
+  },
+  {
+    "author"   : "George Lincoln Rockwell",
+    "quote"    : "Al ser un nazi, con la esvástica, también reuniría a mi alrededor el único tipo de personas que quería: los duros e idealistas dedicados, dispuestos a luchar por esos ideales y dar sus vidas si fuera necesario. Y aún más importante, automáticamente ahuyentaría a los millones de bocazas, cobardes, tontos y chiflados que infestan el resto del ‘movimiento’. La esvástica probablemente no me traería muchos partidarios, pero los que vinieran serían hombres",
+    "ref"      : "",
+    "category" : "Nazismo",
+    "theme"    : "Esvástica"
+  },
+  {
+    "author"   : "Oswald Spengler",
+    "quote"    : "Un poder solo puede ser derrocado por otro poder, no por un principio, y no queda ningún poder que pueda enfrentarse al dinero sino este. El dinero es derrocado y abolido solo por la sangre",
+    "ref"      : "La decadencia de Occidente",
+    "category" : "Filosofía",
+    "theme"    : "Guerra"
+  },
+  {
+    "author"   : "Nikola Tesla",
+    "quote"    : "Cuando tu educación limita tu imaginación, se llama adoctrinamiento",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Educación"
+  },
+  {
+    "author"   : "Epicteto",
+    "quote"    : "No puedo escapar de la muerte, pero al menos puedo escapar del miedo a ella",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Muerte"
+  },
+
   {
     "author"   : "Albert Camus",
     "quote"    : "La ociosidad es fatal solo para los mediocres",
@@ -2139,6 +2252,104 @@
     "ref": "Atribuida; memorias",
     "category": "Milicia",
     "theme": "Guerra"
+  },
+    {
+    "author"   : "Ronald Reagan",
+    "quote"    : "¿Cómo distingues a un comunista? Bueno, es alguien que lee a Marx y a Lenin ¿Y cómo distingues a un anticomunista? Es alguien que entiende a Marx y a Lenin",
+    "ref"      : "",
+    "category" : "Pensamiento",
+    "theme"    : "Comunismo"
+  },
+  {
+    "author"   : "Heinrich Heine",
+    "quote"    : "Los alemanes son un pueblo peligroso para la sociedad: sacan inesperadamente un poema del bolsillo y comienzan una conversación sobre filosofía",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Aristófanes",
+    "quote"    : "La juventud envejece, la inmadurez se supera, la ignorancia puede combatirse y la embriaguez vencerse, pero la estupidez es eterna",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Erwin Schrödinger",
+    "quote"    : "La tarea no consiste tanto en ver lo que nadie ha visto aún, sino en pensar lo que nadie ha pensado aún sobre aquello que todos ven",
+    "ref"      : "",
+    "category" : "Física",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Oswald Spengler",
+    "quote"    : "Esta batalla es la vida, y la vida en el verdadero sentido nietzscheano de una batalla cruel, despiadada e implacable que emana de la voluntad de poder",
+    "ref"      : "El hombre y la técnica",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Arthur Schopenhauer",
+    "quote"    : "El talento acierta en un blanco que nadie más puede acertar. El genio acierta en un blanco que nadie más puede ver",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Claude Debussy",
+    "quote"    : "Las obras de arte hacen las reglas; las reglas no hacen las obras de arte",
+    "ref"      : "",
+    "category" : "Arte",
+    "theme"    : "Reglas"
+  },
+  {
+    "author"   : "Henry David Thoreau",
+    "quote"    : "Este mundo no es más que un lienzo para nuestra imaginación",
+    "ref"      : "",
+    "category" : "Arte",
+    "theme"    : "Creatividad"
+  },
+    {
+    "author"   : "Séneca",
+    "quote"    : "El espectáculo más valiente del mundo es ver a un gran hombre luchando contra la adversidad.",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Friedrich Nietzsche",
+    "quote"    : "Cuando estamos cansados, somos atacados por ideas que conquistamos hace mucho tiempo",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Pensamiento"
+  },
+  {
+    "author"   : "Arthur Schopenhauer",
+    "quote"    : "Es difícil encontrar la felicidad en uno mismo, pero es imposible encontrarla en cualquier otro lugar",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : ""
+  },
+  {
+    "author"   : "Fiódor Dostoievski",
+    "quote"    : "Es mejor perderse en el propio camino que seguir el de alguien más",
+    "ref"      : "",
+    "category" : "Literatura",
+    "theme"    : "Pensamiento"
+  },
+    {
+    "author"   : "Ernst Jünger",
+    "quote"    : "En el lugar más peligroso es donde se goza de máxima autoridad",
+    "ref"      : "",
+    "category" : "Filosofía",
+    "theme"    : "Carácter"
+  },
+  {
+    "author"   : "Otto Von Bismarck",
+    "quote"    : "La guerra preventiva es como suicidarse por miedo a la muerte",
+    "ref"      : "",
+    "category" : "Milicia",
+    "theme"    : "Guerra"
   },
   {
     "author": "Otto Skorzeny",
