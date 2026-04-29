@@ -1,4 +1,5 @@
 .git/
+__pycache__/
 client/
 quotes_temp/
 webapp/__pycache__/

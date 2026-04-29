@@ -1,23 +1,29 @@
 # Quotes
 
-Toolkit en Python para gestionar, consultar y mantener una colección de citas en `quotes.json`.
+Toolkit y *webapp* en Python para gestionar, consultar y mantener una colección de citas en `quotes.json`.
 
-Probado en Windows y Termux.
+![Screenshot](./screenshoot.png)
+
+Se puede ejecutar en Windows y Termux.
 
 ---
 
 ## 📦 Componentes
 
 ### `getquote.py`
+
 Muestra citas en consola con filtros.
 
 ### `merge_quotes.py`
+
 Incorpora citas desde otros JSON con deduplicación y backup.
 
 ### `review_quotes.py`
+
 Analiza calidad, consistencia y posibles problemas del repositorio.
 
 ### `quotes.json`
+
 Base de datos de citas.
 
 ---
