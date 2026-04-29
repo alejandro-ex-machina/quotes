@@ -1,16 +1,11 @@
 [
   {
-    "author"   : "",
-    "quote"    : "",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-  {
-    "author"   : "",
-    "quote"    : "",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  }  
+    "author": "",
+    "quote": "",
+    "ref": "",
+    "category": "",
+    "theme": "",
+    "year": 0,
+    "info": ""
+  }
 ]
