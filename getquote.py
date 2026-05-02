@@ -211,7 +211,7 @@ def print_quote(q, total=None):
     meta = build_meta(q)
     meta_colored = f"{GRAY}{meta}{RESET}" if meta else ""
 
-    print(wrap_text(f"«{text}».", width))
+    print(wrap_text(f"«{text}.»", width))
     if author_colored:
         print(f"\n{author_colored}")
     if meta_colored:

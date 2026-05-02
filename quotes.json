@@ -495,98 +495,98 @@
     "theme": "Guerra"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "La salud del pueblo es la ley suprema",
     "ref": "De legibus",
     "category": "Filosofía",
     "theme": "Ética"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "La vida de los muertos perdura en la memoria de los vivos",
     "ref": "Filípicas",
     "category": "Filosofía",
     "theme": "Tiempo"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "No basta con alcanzar la sabiduría, es necesario saber utilizarla",
     "ref": "De officiis",
     "category": "Filosofía",
     "theme": "Pensamiento"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "Cuanto mayor es la dificultad, mayor es la gloria",
     "ref": "Tusculanae disputationes",
     "category": "Filosofía",
     "theme": "Pensamiento"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "La amistad duplica las alegrías y divide las angustias",
     "ref": "Laelius de amicitia",
     "category": "Filosofía",
     "theme": "Vínculos"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "La gratitud no es solo la mayor de las virtudes, sino la madre de todas las demás",
     "ref": "Pro Plancio",
     "category": "Filosofía",
     "theme": "Ética"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "La ignorancia de la historia condena al hombre a repetirla",
     "ref": "De oratore",
     "category": "Filosofía",
     "theme": "Pensamiento"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "La verdad se corrompe tanto con la mentira como con el silencio",
     "ref": "Discursos",
     "category": "Filosofía",
     "theme": "Pensamiento"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "Mientras hay vida, hay esperanza",
     "ref": "Ad Atticum",
     "category": "Filosofía",
     "theme": "Tiempo"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "La justicia es la reina de todas las virtudes",
     "ref": "De officiis",
     "category": "Filosofía",
     "theme": "Ética"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "El bienestar del pueblo debe ser la ley suprema",
     "ref": "De legibus",
     "category": "Filosofía",
     "theme": "Ética"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "No saber lo que ha sucedido antes de nosotros es como ser niños para siempre",
     "ref": "Orator",
     "category": "Filosofía",
     "theme": "Pensamiento"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "La paz más desventajosa es mejor que la guerra más justa",
     "ref": "Filípicas",
     "category": "Filosofía",
     "theme": "Guerra"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "La libertad no consiste en tener un buen amo, sino en no tenerlo",
     "ref": "Paradoxa Stoicorum",
     "category": "Filosofía",
@@ -1706,13 +1706,6 @@
     "theme": "Pragmatismo"
   },
   {
-    "author": "Cicerón",
-    "quote": "No me avergüenzo de confesar que ignoro lo que no sé",
-    "ref": "",
-    "category": "Filosofía",
-    "theme": "Carácter"
-  },
-  {
     "author": "Aleksandr Solzhenitsyn",
     "quote": "El simple paso del individuo valiente es no participar en la mentira",
     "ref": "Entrevista en el Washington Post ",
@@ -1957,7 +1950,7 @@
     "ref": "El mundo como voluntad y representación",
     "category": "Filosofía",
     "theme": "Ética",
-    "info" : "La felicidad no consiste en un entusiasmo permanente ni en una alegría intensa. Al contrario, el filósofo sostenía que la felicidad no es algo que se posea, sino algo que queda cuando desaparece el sufrimiento. Por eso insistía que perseguir grandes placeres suele acabar en decepción y que lo verdaderamente sensato es mitigar el dolor y huír aburrimiento. Decía: 'Quien no sufre dolor ni aburrimiento, es esencialmente feliz'"
+    "info": "La felicidad no consiste en un entusiasmo permanente ni en una alegría intensa. Al contrario, el filósofo sostenía que la felicidad no es algo que se posea, sino algo que queda cuando desaparece el sufrimiento. Por eso insistía que perseguir grandes placeres suele acabar en decepción y que lo verdaderamente sensato es mitigar el dolor y huír aburrimiento. Decía: 'Quien no sufre dolor ni aburrimiento, es esencialmente feliz'"
   },
   {
     "author": "Arthur Schopenhauer",
@@ -2086,7 +2079,7 @@
     "theme": "Acción"
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "No me avergüenzo de confesar que ignoro lo que no sé",
     "ref": "",
     "category": "Filosofía",
@@ -3908,7 +3901,7 @@
   {
     "author": "Panecio de Rodas",
     "quote": "La vida buena no consiste en el conocimiento, sino en la acción conforme a él",
-    "ref": "Doctrina estoica (transmitida por Cicerón)",
+    "ref": "Doctrina estoica (transmitida por Marco Tulio Cicerón)",
     "category": "Filosofía",
     "theme": "Acción",
     "source_quality": "medium"
@@ -3916,7 +3909,7 @@
   {
     "author": "Panecio de Rodas",
     "quote": "El deber es aquello que es conforme a la naturaleza racional del hombre",
-    "ref": "Base de De Officiis (Cicerón)",
+    "ref": "Base de De Officiis (Marco Tulio Cicerón)",
     "category": "Filosofía",
     "theme": "Ética",
     "source_quality": "high"
@@ -3932,7 +3925,7 @@
   {
     "author": "Panecio de Rodas",
     "quote": "La razón debe gobernar incluso aquello que parece útil",
-    "ref": "Tradición estoica (Cicerón)",
+    "ref": "Tradición estoica (Marco Tulio Cicerón)",
     "category": "Filosofía",
     "theme": "Pensamiento",
     "source_quality": "medium"
@@ -4287,7 +4280,7 @@
     "theme": ""
   },
   {
-    "author": "Cicerón",
+    "author": "Marco Tulio Cicerón",
     "quote": "Siempre he sostenido la opinión de que la impopularidad ganada por hacer lo que es correcto no es impopularidad en absoluto, sino gloria",
     "ref": "",
     "category": "",
@@ -4384,439 +4377,709 @@
     "category": "",
     "theme": ""
   },
-{
-    "author"   : "Séneca",
-    "quote"    : "A veces incluso vivir es un acto de valentía",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+  {
+    "author": "Séneca",
+    "quote": "A veces incluso vivir es un acto de valentía",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Bertrand Russell",
-    "quote"    : "No debes matar a tu vecino, a quien tal vez genuinamente odias, pero con un poco de propaganda bélica este odio puede ser transferido a alguna nación extranjera, contra la cual todos tus impulsos asesinos se convierten en heroísmo patriótico",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Bertrand Russell",
+    "quote": "No debes matar a tu vecino, a quien tal vez genuinamente odias, pero con un poco de propaganda bélica este odio puede ser transferido a alguna nación extranjera, contra la cual todos tus impulsos asesinos se convierten en heroísmo patriótico",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Hilaire Belloc",
-    "quote"    : "Un pueblo que ha olvidado sus tradiciones, sus antepasados y los sacrificios que compraron su libertad es un pueblo ya conquistado. Porque el hombre sin memoria se deja gobernar fácilmente, y el hombre sin raíces se deja guiar con facilidad",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Hilaire Belloc",
+    "quote": "Un pueblo que ha olvidado sus tradiciones, sus antepasados y los sacrificios que compraron su libertad es un pueblo ya conquistado. Porque el hombre sin memoria se deja gobernar fácilmente, y el hombre sin raíces se deja guiar con facilidad",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Fernando Fernán Gómez",
-    "quote"    : "El tiempo pone a cada uno en su sitio. Pero si vas mandando a algunos a la mierda, vas adelantando camino",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Fernando Fernán Gómez",
+    "quote": "El tiempo pone a cada uno en su sitio. Pero si vas mandando a algunos a la mierda, vas adelantando camino",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Immanuel Kant",
-    "quote"    : "No somos ricos por lo que poseemos, sino por lo que podemos hacer sin él",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Carl Jung",
-    "quote"    : "Si un hombre sabe más que los demás, se vuelve solitario",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Immanuel Kant",
+    "quote": "No somos ricos por lo que poseemos, sino por lo que podemos hacer sin él",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Emil Cioran",
-    "quote"    : "El amor es un acuerdo entre dos personas para sobreestimarse mutuamente",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Carl Jung",
+    "quote": "Si un hombre sabe más que los demás, se vuelve solitario",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Georges Bernard Shaw",
-    "quote"    : "La democracia no es adecuada para una sociedad ignorante; pues una mayoría de asnos decidirá sobre su destino",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Cicerón",
-    "quote"    : "Siempre he sostenido la opinión de que la impopularidad ganada por hacer lo que es correcto no es impopularidad en absoluto, sino gloria",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Emil Cioran",
+    "quote": "El amor es un acuerdo entre dos personas para sobreestimarse mutuamente",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Séneca",
-    "quote"    : "Toda crueldad brota de la debilidad",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Georges Bernard Shaw",
+    "quote": "La democracia no es adecuada para una sociedad ignorante; pues una mayoría de asnos decidirá sobre su destino",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Nikola Tesla",
-    "quote"    : "Lo que un hombre llama Dios, otro lo llama las leyes de la física",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Marco Tulio Cicerón",
+    "quote": "Siempre he sostenido la opinión de que la impopularidad ganada por hacer lo que es correcto no es impopularidad en absoluto, sino gloria",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "George Orwell",
-    "quote"    : "El mismísimo concepto de verdad objetiva se está desvaneciendo del mundo. Las mentiras pasarán a la historia",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "John Steinbeck",
-    "quote"    : "Aquí no hay revolución, porque los pobres creen que el siguiente rico serán ellos",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Séneca",
+    "quote": "Toda crueldad brota de la debilidad",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Max Planck",
-    "quote"    : "Un científico es feliz, no al descansar en sus logros, sino en la constante adquisición de nuevo conocimiento",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Nikola Tesla",
+    "quote": "Lo que un hombre llama Dios, otro lo llama las leyes de la física",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Richard Feynman",
-    "quote"    : "Comprende. No memorices. Aprende principios, no fórmulas",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "George Orwell",
+    "quote": "El mismísimo concepto de verdad objetiva se está desvaneciendo del mundo. Las mentiras pasarán a la historia",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Richard Feynman",
-    "quote"    : "La primera persona a la que debes tener cuidado de no engañar eres tú mismo",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "John Steinbeck",
+    "quote": "Aquí no hay revolución, porque los pobres creen que el siguiente rico serán ellos",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Jorge Luis Borges",
-    "quote"    : "Se empieza por la idea que el Estado debe dirigir todo; que es mejor que haya una corporación que dirija las cosas, y no que todo «quede abandonado al caos, o a circunstancias individuales»; y se llega al nazismo o al comunismo, claro",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Max Planck",
+    "quote": "Un científico es feliz, no al descansar en sus logros, sino en la constante adquisición de nuevo conocimiento",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Fiódor Dostoievski",
-    "quote"    : "Se odian a los fuertes pero se les obedece, se ama a los débiles pero se les desprecia",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Richard Feynman",
+    "quote": "Comprende. No memorices. Aprende principios, no fórmulas",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Leonardo Da Vinci",
-    "quote"    : "Aprender es la única cosa que la mente nunca agota, nunca teme y nunca lamenta",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Séneca",
-    "quote"    : "La soledad no es estar solo, es estar vacío",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Richard Feynman",
+    "quote": "La primera persona a la que debes tener cuidado de no engañar eres tú mismo",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Aristóteles",
-    "quote"    : "Sé un pensador libre y no aceptes todo lo que oyes como verdad. Sé crítico y evalúa lo que crees",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Jorge Luis Borges",
+    "quote": "Se empieza por la idea que el Estado debe dirigir todo; que es mejor que haya una corporación que dirija las cosas, y no que todo «quede abandonado al caos, o a circunstancias individuales»; y se llega al nazismo o al comunismo, claro",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Pío Moa",
-    "quote"    : "Si la extrema derecha es defender la democracia y la unidad de España, todos deberíamos de ser de extrema derecha",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Fiódor Dostoievski",
+    "quote": "Se odian a los fuertes pero se les obedece, se ama a los débiles pero se les desprecia",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Henry Ford",
-    "quote"    : "Cuando todo parece ir en tu contra, recuerda que el avión despega contra el viento, no con él",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Leonardo Da Vinci",
+    "quote": "Aprender es la única cosa que la mente nunca agota, nunca teme y nunca lamenta",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "George Orwell",
-    "quote"    : "Un pueblo que elige corruptos, impostores, ladrones y traidores, no es víctima, es cómplice",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Séneca",
+    "quote": "La soledad no es estar solo, es estar vacío",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Friedrich Nietzsche",
-    "quote"    : "Puedes ver que me he vuelto tan franco que solo puedo soportar relaciones humanas absolutamente auténticas. Evito las medias amistades y, en especial, las asociaciones partidistas",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Aristóteles",
+    "quote": "Sé un pensador libre y no aceptes todo lo que oyes como verdad. Sé crítico y evalúa lo que crees",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Carl Jung",
-    "quote"    : "Donde está tu miedo, ahí está tu tarea",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Pío Moa",
+    "quote": "Si la extrema derecha es defender la democracia y la unidad de España, todos deberíamos de ser de extrema derecha",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Thomas Sowell",
-    "quote"    : "No hay negocio más lucrativo que luchar por derechos que ya se tienen, en nombre de opresiones que no existen, con el dinero de aquellos a los que se califica de opresores",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Henry Ford",
+    "quote": "Cuando todo parece ir en tu contra, recuerda que el avión despega contra el viento, no con él",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Oswald Spengler",
-    "quote"    : "Lo que hoy reconocemos como 'orden'»' y fijamos en constituciones liberales no es más que una anarquía convertida en hábito. Lo llamamos democracia, pero es la ausencia de una autoridad consciente, de un gobierno, de un Estado",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "George Orwell",
+    "quote": "Un pueblo que elige corruptos, impostores, ladrones y traidores, no es víctima, es cómplice",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Mark Twain",
-    "quote"    : "El banquero es un señor que nos presta el paraguas cuando hace sol y nos lo exige cuando empieza a llover",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Mark Twain",
-    "quote"    : "La historia no se repite, pero rima",
-    "ref"      : "atribuida por John Robert Colombo",
-    "category" : "",
-    "theme"    : "",
-    "notes"    : "Aunque los acontecimientos históricos nunca vuelven a ocurrir de manera idéntica (cambian los contextos, actores y detalles), reaparecen patrones recurrentes debido a la naturaleza humana inalterable, sus pasiones, vicios y necesidades. Esto implica que la historia no es una repetición mecÃ¡nica, sino una serie de ecos o resonancias que permiten identificar tendencias y aprender del pasado para comprender el presente"
-  },
-    {
-    "author"   : "Ezra Pound",
-    "quote"    : "El arte es concreción, forma, reducción, austeridad",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Friedrich Nietzsche",
+    "quote": "Puedes ver que me he vuelto tan franco que solo puedo soportar relaciones humanas absolutamente auténticas. Evito las medias amistades y, en especial, las asociaciones partidistas",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "El pasado, el presente y el futuro son solo una dimensión",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Carl Jung",
+    "quote": "Donde está tu miedo, ahí está tu tarea",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Fortalezca su mente en cualquier momento y lugar",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Ezra Pound",
-    "quote"    : "No hay belleza invariable, solo diversas formas de ser bellas",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Thomas Sowell",
+    "quote": "No hay negocio más lucrativo que luchar por derechos que ya se tienen, en nombre de opresiones que no existen, con el dinero de aquellos a los que se califica de opresores",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Los errores de la imaginación son las paredes de la cárcel de la mente",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Oswald Spengler",
+    "quote": "Lo que hoy reconocemos como 'orden'»' y fijamos en constituciones liberales no es más que una anarquía convertida en hábito. Lo llamamos democracia, pero es la ausencia de una autoridad consciente, de un gobierno, de un Estado",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "El arte es una rebelión contra la tiranía de los hechos",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Ezra Pound",
-    "quote"    : "La poesía es el lenguaje de la emoción transformada en pensamiento",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Mark Twain",
+    "quote": "El banquero es un señor que nos presta el paraguas cuando hace sol y nos lo exige cuando empieza a llover",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "El verdadero problema de la guerra (la guerra moderna) es que no le da a nadie la posibilidad de matar a la gente indicada",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Mark Twain",
+    "quote": "La historia no se repite, pero rima",
+    "ref": "atribuida por John Robert Colombo",
+    "category": "",
+    "theme": "",
+    "notes": "Aunque los acontecimientos históricos nunca vuelven a ocurrir de manera idéntica (cambian los contextos, actores y detalles), reaparecen patrones recurrentes debido a la naturaleza humana inalterable, sus pasiones, vicios y necesidades. Esto implica que la historia no es una repetición mecÃ¡nica, sino una serie de ecos o resonancias que permiten identificar tendencias y aprender del pasado para comprender el presente"
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Ten más miedo del tiempo que de mis ojos",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Marco Tulio Cicerón",
+    "quote": "Me extraña que un adivino no se ría cuando ve a un colega",
+    "ref": "",
+    "category": "",
+    "theme": "",
+    "notes": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Los artistas son las antenas de la raza",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Ezra Pound",
-    "quote"    : "El templo es sagrado porque no está en venta",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Marco Tulio Cicerón",
+    "quote": "Una nación puede sobrevivir a sus tontos y aún a sus ambiciosos, pero no puede sobrevivir a los traidores que se encuentran en ella misma. Un enemigo a las puertas es menos temible porque muestra sus banderas abiertamente en contra de la ciudad",
+    "ref": "",
+    "category": "",
+    "theme": "",
+    "notes": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "La belleza está oculta en los detalles más pequeños",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Marco Tulio Cicerón",
+    "quote": "Si ha de hacerse la guerra, hágase únicamente con la mira de obtener la paz",
+    "ref": "",
+    "category": "",
+    "theme": "",
+    "notes": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "La poesía es la música del alma",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "El arte es concreción, forma, reducción, austeridad",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Las ideas poderosas están en tu bolsillo",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "El pasado, el presente y el futuro son solo una dimensión",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "La pasión es el motor de la creatividad",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Ezra Pound",
-    "quote"    : "La belleza se encuentra en todas partes, solo hay que saber mirar",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "Fortalezca su mente en cualquier momento y lugar",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "El arte es la búsqueda de la verdad más profunda",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "No hay belleza invariable, solo diversas formas de ser bellas",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "La técnica de la infamia consiste en inventar dos mentiras y hacer que el pueblo discuta acaloradamente cual de las dos es cierta",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Ezra Pound",
-    "quote"    : "Las guerras se hacen para producir deudas",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "Los errores de la imaginación son las paredes de la cárcel de la mente",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Gobernar es el arte de crear problemas con cuya solución mantener a la población en vilo",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "El arte es una rebelión contra la tiranía de los hechos",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Esclavo es aquel que espera por alguien que venga y lo libere",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "La poesía es el lenguaje de la emoción transformada en pensamiento",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Vamos, amigo, recordemos que los ricos tienen camareros y no amigos",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Ezra Pound",
-    "quote"    : "Y si el viejo frío estrangula tu tienda darás las gracias cuando pase la noche",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "El verdadero problema de la guerra (la guerra moderna) es que no le da a nadie la posibilidad de matar a la gente indicada",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Genio es aquel que ve diez cosas donde los demás sólo vemos una",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "Ten más miedo del tiempo que de mis ojos",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "El hombre que lee debe ser un hombre intensamente vivo. El libro debe ser una esfera de luz en la mano",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "Los artistas son las antenas de la raza",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "El hombre es un organismo excesivamente complicado. Si está condenado a la extinción morirá por falta de simplicidad",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "El templo es sagrado porque no está en venta",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "El pensar divide, el sentir une",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Ezra Pound",
-    "quote"    : "No son nuestras la carne del fauno ni las visiones del santo",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "La belleza está oculta en los detalles más pequeños",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "La música empieza a atrofiarse cuando se aleja demasiado de la danza... La poesía empieza a atrofiarse cuando se aleja demasiado de la música",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "La poesía es la música del alma",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Toda afirmación general es como un cheque emitido contra un banco. Su valor depende de lo que hay en caja para respaldarlo",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
-  },
-    {
-    "author"   : "Ezra Pound",
-    "quote"    : "No hay ninguna razón para que a un mismo hombre le guste los mismos libros a los 18 que a los 48 años",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "Las ideas poderosas están en tu bolsillo",
+    "ref": "",
+    "category": "",
+    "theme": ""
   },
   {
-    "author"   : "Ezra Pound",
-    "quote"    : "Si un mecenas le compra a un artista que necesita dinero (necesita dinero para comprar herramientas, tiempo, comida), el mecenas se iguala entonces al artista; introduce arte en el mundo; crea",
-    "ref"      : "",
-    "category" : "",
-    "theme"    : ""
+    "author": "Ezra Pound",
+    "quote": "La pasión es el motor de la creatividad",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "La belleza se encuentra en todas partes, solo hay que saber mirar",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "El arte es la búsqueda de la verdad más profunda",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "La técnica de la infamia consiste en inventar dos mentiras y hacer que el pueblo discuta acaloradamente cual de las dos es cierta",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "Las guerras se hacen para producir deudas",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "Gobernar es el arte de crear problemas con cuya solución mantener a la población en vilo",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "Esclavo es aquel que espera por alguien que venga y lo libere",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "Vamos, amigo, recordemos que los ricos tienen camareros y no amigos",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "Y si el viejo frío estrangula tu tienda darás las gracias cuando pase la noche",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "Genio es aquel que ve diez cosas donde los demás sólo vemos una",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "El hombre que lee debe ser un hombre intensamente vivo. El libro debe ser una esfera de luz en la mano",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "El hombre es un organismo excesivamente complicado. Si está condenado a la extinción morirá por falta de simplicidad",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "El pensar divide, el sentir une",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "No son nuestras la carne del fauno ni las visiones del santo",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "La música empieza a atrofiarse cuando se aleja demasiado de la danza... La poesía empieza a atrofiarse cuando se aleja demasiado de la música",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "Toda afirmación general es como un cheque emitido contra un banco. Su valor depende de lo que hay en caja para respaldarlo",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "No hay ninguna razón para que a un mismo hombre le guste los mismos libros a los 18 que a los 48 años",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Ezra Pound",
+    "quote": "Si un mecenas le compra a un artista que necesita dinero (necesita dinero para comprar herramientas, tiempo, comida), el mecenas se iguala entonces al artista; introduce arte en el mundo; crea",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "El periodismo consiste en buena medida en decir 'Ha muerto el señor Jones' a gente que no sabía que existiera un tal señor Jones.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "El silencio es la réplica más aguda.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "La aventura podrá ser loca, pero el aventurero, para llevarla a cabo, ha de ser cuerdo.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "La mediocridad, posiblemente, consiste en estar delante de la grandeza y no darse cuenta.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Una aventura es, por naturaleza, algo que nos sucede. Es algo que nos escoge a nosotros, no algo que nosotros escogemos.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Las sociedades han caído en la depravación, cuando la tolerancia es considerada un bien en sí misma, sin importar lo que se tolera.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "La tolerancia es la virtud del hombre sin convicciones.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "El negocio de los progresistas es el de seguir cometiendo errores. El negocio de los conservadores es el de impedir que los errores sean corregidos.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Nunca se dirá lo suficiente que lo que ha destruido la familia en el mundo moderno ha sido el capitalismo.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Mientras los dictadores suprimen periódicos, los propietarios de periódicos suprimen noticias.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "La carga para nosotros es que no somos gobernados por hombres de ignorancia ordinaria, sino de una ignorancia extraordinaria.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Preferiría que un chico aprendiera en la escuela más dura el coraje de pegarle a un político, o que en la escuela más dura aprendiera a refutarlo, en vez de que, obtenga en la escuela más ilustrada la astucia para copiarlo.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "El criminal más peligroso hoy es el filósofo moderno totalmente anárquico. Comparado con él, los ladrones y los bigamistas son esencialmente hombres morales.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "La desventaja de que los hombres no conozcan el pasado es que no conocen el presente.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "[Voltaire y Federico el grande] eran cosmopolitas; no eran, en ningún sentido, patriotas. Pero existe esta diferencia; que al patriota le gusta, aunque tal vez de forma estúpida, su país: mientras que al cosmopolita no le gusta en absoluto ni el cosmos.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "La metáfora fatal del progreso, que significa dejar algo atrás de nosotros, ha oscurecido completamente la idea real del crecimiento, que significa dejar las cosas dentro de nosotros.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "A menos que tengamos un principio moral sobre asuntos tan delicados como el matrimonio y el asesinato, el mundo entero se convertirá en una maraña de excepciones sin reglas.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Estas naciones están realmente en peligro de descarriarse en masa, de convertirse en una vasta visión de imbecilidad, con ciudades desplomandoze y campiñas locas, todas salpicadas de lunáticos industriosos.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Hemos vulgarizado primero la Navidad y luego la denunciamos por vulgar. La Navidad se ha vuelto demasiado comercial; así que muchos de estos pensadores destruirían la Navidad que ha sido echada a perder, y preservarían el comercialismo que la echó a perder.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "La maldición de todo periodismo, pero sobre todo del periodismo amarillista, que es la vergüenza de nuestra profesión, es que nos creemos más listos que las personas para quienes escribimos, cuando, de hecho, en general somos más estúpidos.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Una buena paz es mejor que una buena guerra, y una buena guerra es mejor que una mala paz.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Todas las mujeres se visten para ser vistas: las mujeres ordinarias y vulgares para ser ordinaria y vulgarmente vistas, las mujeres sabias y modestas para ser vistas con prudencia y modestia.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Los políticos ahora piensan que tienen que educar al electorado y explicarles lo que les conviene. Atrás han quedado los días en que el electorado educaba a sus representantes...con la certeza de que si no producían resultados... del mismo modo, no obtendrían mas votos.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "No será necesario que nadie vuelva a luchar contra la propuesta de una censura de la prensa. No necesitamos una censura de la prensa. Ya tenemos una censura por parte de la prensa.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "No tenemos necesidad de rebelarnos contra la antigüedad; tenemos que rebelarnos contra la novedad. Son los nuevos gobernantes, el capitalista o el editor, los que realmente sostienen el mundo moderno.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "No existe una persona tan cerrada como la persona que está segura de que es abierta; de hecho, estar bastante seguro de que uno es amplio de mente es en sí mismo una forma de estrechez.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "En tiempos de transgresión obligatoria, lo realmente subversivo es la más estricta ortodoxia.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "La imparcialidad es un nombre pomposo para la indiferencia. Ésta es un nombre elegante para la ignorancia.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Una sociedad está en decadencia cuando el sentido común, se vuelve poco común.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Lo que el hombre ha perdido en este siglo no es solo la Fe, sino también la razón.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Si se trata de reclamar un trato excepcional, las mismas personas que lo reclamarán serán las que menos lo merecen. Las personas que están bastante convencidas de que son superiores son las personas más inferiores.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "La mayoría de los resultados de la educación moderna son hombres sin educación.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "No es fanatismo estar seguro de que tenemos razón.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "G.K. Chesterton",
+    "quote": "Sin autoridad no hay libertad.",
+    "ref": "",
+    "category": "",
+    "theme": ""
+  },
+  {
+    "author": "Agustín de Foxá",
+    "quote": "Morir por la democracia es como morir por el sistema métrico decimal.",
+    "ref": "",
+    "category": "",
+    "theme": "",
+    "info": ""
   }
 ]
