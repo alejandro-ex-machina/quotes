@@ -78,7 +78,7 @@
       <ol start="{{ ns.start }}">
         {% for item in author_quotes %}
         <li>
-          <p class="quote">&laquo;{{ item.quote }}&raquo;</p>
+          <p class="quote">&laquo;{{ item.quote }}.&raquo;</p>
           <p class="data">
             {% if item.ref %}{{ item.ref }}{% endif %}
             {% if item.category %} · {{ item.category }}{% endif %}
