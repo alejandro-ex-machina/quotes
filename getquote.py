@@ -208,16 +208,17 @@ def print_quote(q, total=None):
     width = get_terminal_width()
 
     author_colored = f"{GREEN}{author}{RESET}" if author else ""
-    meta = build_meta(q)
-    meta_colored = f"{GRAY}{meta}{RESET}" if meta else ""
+    # meta = build_meta(q)
+    # meta_colored = f"{GRAY}{meta}{RESET}" if meta else ""
 
     print(wrap_text(f"«{text}.»", width))
     if author_colored:
         print(f"\n{author_colored}")
-    if meta_colored:
-        print(meta_colored)
-    if total is not None:
-        print(f"\n{total} quotes")
+    # if meta_colored:
+    #     print(meta_colored)
+    
+    #if total is not None:
+    #    print(f"\n{total} quotes")
 
 
 def wait_for_continue():
@@ -381,7 +382,7 @@ def main():
             print_quote(quote)
             if idx < len(selected):
                 wait_for_continue()
-        print(f"\n{len(selected)} quotes")
+        #print(f"\n{len(selected)} quotes")
         return
 
     if args.all:
@@ -389,7 +390,7 @@ def main():
             if idx > 1:
                 print("\n" + "-" * max(20, get_terminal_width()) + "\n")
             print_quote(quote)
-        print(f"\n{len(selected)} quotes")
+        # print(f"\n{len(selected)} quotes")
         return
 
     print_quote(selected[0], total=len(filtered))
