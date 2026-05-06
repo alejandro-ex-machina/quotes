@@ -3,3 +3,4 @@ __pycache__/
 client/
 quotes_temp/
 webapp/__pycache__/
+webapp/static/images/
